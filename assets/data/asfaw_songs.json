@@ -1,0 +1,156 @@
+[
+  {
+    "title": "እጠብቅሃለሁ",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሀይልህ ብዙ ሲሆን",
+      "አልሰግድም",
+      "እጠብቅሃለሁ",
+      "እንዳንተ ማን ለኔ"
+    ]
+  },
+  {
+    "title": "ከልጅነቴ ጀምሮ",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከልጅነቴ ጀምሮ",
+      "አልሰግድም",
+      "አመልክሃለው",
+      "ጠላት አይኑ እያየ"
+    ]
+  },
+  {
+    "title": "አመልክሃለው",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ምኔ ደስ አሰኝቶህ ነው",
+      "አመልክሃለው",
+      "ኢየሱስ",
+      "የዘላለሜ"
+    ]
+  },
+  {
+    "title": "አልሰግድም",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ኢየሱስ",
+      "ማነዉ የሚሸከመን",
+      "እንዳንተ ማን ለኔ",
+      "አልሰግድም"
+    ]
+  },
+  {
+    "title": "እንዳንተ ማን ለኔ",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጠላት አይኑ እያየ",
+      "አልሰግድም",
+      "እንዳንተ ማን ለኔ",
+      "የዘላለሜ"
+    ]
+  },
+  {
+    "title": "ጠላት አይኑ እያየ",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እንዳንተ ማን ለኔ",
+      "ጠላት አይኑ እያየ",
+      "አልሰግድም",
+      "ምኔ ደስ አሰኝቶህ ነው"
+    ]
+  },
+  {
+    "title": "ሀይልህ ብዙ ሲሆን",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አልሰግድም",
+      "አመልክሃለው",
+      "ኢየሱስ",
+      "ሀይልህ ብዙ ሲሆን"
+    ]
+  },
+  {
+    "title": "ማነዉ የሚሸከመን",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ኢየሱስ",
+      "እንዳንተ ማን ለኔ",
+      "አልሰግድም",
+      "ማነዉ የሚሸከመን"
+    ]
+  },
+  {
+    "title": "ኢየሱስ",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ኢየሱስ",
+      "የዘላለሜ",
+      "እጠብቅሃለሁ",
+      "እንዳንተ ማን ለኔ"
+    ]
+  },
+  {
+    "title": "የዘላለሜ",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የዘላለሜ",
+      "ማነዉ የሚሸከመን",
+      "አመልክሃለው",
+      "ኢየሱስ"
+    ]
+  },
+  {
+    "title": "ምኔ ደስ አሰኝቶህ ነው",
+    "album": "በጅምር አይቀርም",
+    "albumCover": "https://i.ytimg.com/vi/dNRtT2gjdck/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Asfaw10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ምኔ ደስ አሰኝቶህ ነው",
+      "አልሰግድም",
+      "የዘላለሜ",
+      "ኢየሱስ"
+    ]
+  }
+]

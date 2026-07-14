@@ -1,0 +1,366 @@
+[
+  {
+    "title": "የልቤ አምላክ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song13.mp3",
+    "clipStart": 0,
+    "duration": 39,
+    "choices": [
+      "የልቤ አምላክ",
+      "እግዚአብሄርን አየሁ",
+      "ከሙሴ የሚልቅ",
+      "በቃኝ የማልለው"
+    ]
+  },
+  {
+    "title": "አንድ ቃል",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song14.mp3",
+    "clipStart": 0,
+    "duration": 11,
+    "choices": [
+      "ወደ ተራራው ጫፍ",
+      "እዪልኝ",
+      "አንድ ቃል",
+      "ሰላሜ ነህ"
+    ]
+  },
+  {
+    "title": "ጉዳዬ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song15.mp3",
+    "clipStart": 0,
+    "duration": 7,
+    "choices": [
+      "ከሙሴ የሚልቅ",
+      "ጉዳዬ",
+      "አመልክሃለው",
+      "ሃሌሉያ"
+    ]
+  },
+  {
+    "title": "ፍለጋው አደረገኝ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song16.mp3",
+    "clipStart": 0,
+    "duration": 27,
+    "choices": [
+      "ዝምታህ",
+      "ስምህን ጠራሁ",
+      "የልቤ አምላክ",
+      "ፍለጋው አደረገኝ"
+    ]
+  },
+  {
+    "title": "እግዚአብሄር ፍቅር",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song17.mp3",
+    "clipStart": 0,
+    "duration": 10,
+    "choices": [
+      "አለሁ",
+      "ሃሌሉያ",
+      "ሰላሜ",
+      "እግዚአብሄር ፍቅር"
+    ]
+  },
+  {
+    "title": "በቃኝ የማልለው",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song18.mp3",
+    "clipStart": 0,
+    "duration": 8,
+    "choices": [
+      "በቃኝ የማልለው",
+      "አሜን",
+      "እረዳሻለሁ",
+      "እግዚአብሄር ፍቅር"
+    ]
+  },
+  {
+    "title": "እግዚአብሄርን አየሁ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song19.mp3",
+    "clipStart": 0,
+    "duration": 22,
+    "choices": [
+      "በቃኝ የማልለው",
+      "እግዚአብሄርን አየሁ",
+      "የሚያምር ቃል",
+      "ይለፈኝ"
+    ]
+  },
+  {
+    "title": "ሰላሜ ነህ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song20.mp3",
+    "clipStart": 0,
+    "duration": 11,
+    "choices": [
+      "አሜን",
+      "ይለፈኝ",
+      "አንድ ቃል",
+      "ሰላሜ ነህ"
+    ]
+  },
+  {
+    "title": "ስምህን ጠራሁ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song21.mp3",
+    "clipStart": 0,
+    "duration": 12,
+    "choices": [
+      "አንድ ቃል",
+      "ስምህን ጠራሁ",
+      "መኖር አልችልም",
+      "ይለፈኝ"
+    ]
+  },
+  {
+    "title": "የሚያምር ቃል",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song22.mp3",
+    "clipStart": 0,
+    "duration": 24,
+    "choices": [
+      "የሚያምር ቃል",
+      "ፈራ ፍርሃቴ",
+      "እራስህ አስተማርከኝ",
+      "አመልክሃለው"
+    ]
+  },
+  {
+    "title": "እዪልኝ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song23.mp3",
+    "clipStart": 0,
+    "duration": 22,
+    "choices": [
+      "አለሁ",
+      "ከሙሴ የሚልቅ",
+      "እዪልኝ",
+      "እግዚአብሄርን አየሁ"
+    ]
+  },
+  {
+    "title": "ሃሌሉያ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song24.mp3",
+    "clipStart": 0,
+    "duration": 30,
+    "choices": [
+      "የልቤ አምላክ",
+      "ፈራ ፍርሃቴ",
+      "ከሙሴ የሚልቅ",
+      "ሃሌሉያ"
+    ]
+  },
+  {
+    "title": "ብዛልኝ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song25.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አንድ ቃል",
+      "መምህሬ",
+      "ብዛልኝ",
+      "እዪልኝ"
+    ]
+  },
+  {
+    "title": "አሜን",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song26.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ፍለጋው አደረገኝ",
+      "ጉዳዬ",
+      "ሰላሜ ነህ",
+      "አሜን"
+    ]
+  },
+  {
+    "title": "እራስህ አስተማርከኝ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song27.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አሜን",
+      "እዪልኝ",
+      "እራስህ አስተማርከኝ",
+      "በቃኝ የማልለው"
+    ]
+  },
+  {
+    "title": "መምህሬ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song28.mp3",
+    "clipStart": 0,
+    "duration": 11,
+    "choices": [
+      "መምህሬ",
+      "አንድ ቃል",
+      "ሰላሜ ነህ",
+      "ይለፈኝ"
+    ]
+  },
+  {
+    "title": "ይለፈኝ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song29.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መምህሬ",
+      "እዪልኝ",
+      "ይለፈኝ",
+      "አመልክሃለው"
+    ]
+  },
+  {
+    "title": "እረዳሻለሁ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song30.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "እራስህ አስተማርከኝ",
+      "እረዳሻለሁ",
+      "ሃሌሉያ",
+      "ዝምታህ"
+    ]
+  },
+  {
+    "title": "ሳሙኤልን እንካ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song31.mp3",
+    "clipStart": 0,
+    "duration": 30,
+    "choices": [
+      "የልቤ አምላክ",
+      "ፍለጋው አደረገኝ",
+      "ሳሙኤልን እንካ",
+      "ሃሌሉያ"
+    ]
+  },
+  {
+    "title": "ወደ ተራራው ጫፍ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song32.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ይለፈኝ",
+      "እግዚአብሄርን አየሁ",
+      "አንድ ቃል",
+      "ወደ ተራራው ጫፍ"
+    ]
+  },
+  {
+    "title": "አለሁ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song33.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ብዛልኝ",
+      "አለሁ",
+      "መኖር አልችልም",
+      "እግዚአብሄርን አየሁ"
+    ]
+  },
+  {
+    "title": "መኖር አልችልም",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song34.mp3",
+    "clipStart": 0,
+    "duration": 10,
+    "choices": [
+      "እግዚአብሄርን አየሁ",
+      "የልቤ አምላክ",
+      "ሰላሜ ነህ",
+      "መኖር አልችልም"
+    ]
+  },
+  {
+    "title": "ከሙሴ የሚልቅ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song35.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እግዚአብሄር ፍቅር",
+      "ከሙሴ የሚልቅ",
+      "እራስህ አስተማርከኝ",
+      "ይለፈኝ"
+    ]
+  },
+  {
+    "title": "አመልክሃለው",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song36.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ከሙሴ የሚልቅ",
+      "አመልክሃለው",
+      "ጉዳዬ",
+      "አለሁ"
+    ]
+  },
+  {
+    "title": "ፈራ ፍርሃቴ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song37.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እግዚአብሄር ፍቅር",
+      "ብዛልኝ",
+      "ፈራ ፍርሃቴ",
+      "አለሁ"
+    ]
+  },
+  {
+    "title": "ዝምታህ",
+    "album": "Hallelujah",
+    "albumCover": "assets/Aster_Abebe.png",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song38.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ብዛልኝ",
+      "ይለፈኝ",
+      "የልቤ አምላክ",
+      "ዝምታህ"
+    ]
+  }
+]

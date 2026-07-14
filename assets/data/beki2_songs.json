@@ -1,0 +1,198 @@
+[
+  {
+    "title": "አለሁ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አለሁ",
+      "እሱ ሰው ከበረ",
+      "አባ እወድሃለው",
+      "ማራናታ"
+    ]
+  },
+  {
+    "title": "የውሃ በረሐ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket12.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ማራናታ",
+      "የውሃ በረሐ",
+      "አማላጄ",
+      "መምህሩ"
+    ]
+  },
+  {
+    "title": "ለመልካም ሆነልኝ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket10.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "የቅርቤ",
+      "የውሃ በረሐ",
+      "ይወደኛል",
+      "ለመልካም ሆነልኝ"
+    ]
+  },
+  {
+    "title": "አባ እወድሃለው",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "የቅርቤ",
+      "አለሁ",
+      "መምህሩ",
+      "አባ እወድሃለው"
+    ]
+  },
+  {
+    "title": "አማላጄ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እሱ ሰው ከበረ",
+      "መምህሩ",
+      "አማላጄ",
+      "የቅርቤ"
+    ]
+  },
+  {
+    "title": "የቅርቤ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket11.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "የቅርቤ",
+      "ይወደኛል",
+      "የውሃ በረሐ",
+      "ለመልካም ሆነልኝ"
+    ]
+  },
+  {
+    "title": "አሜን አሜን",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket9.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "I am forgiven",
+      "መምህሩ",
+      "አባ እወድሃለው",
+      "አሜን አሜን"
+    ]
+  },
+  {
+    "title": "ማራናታ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ማራናታ",
+      "አለሁ",
+      "የውሃ በረሐ",
+      "ክብር አለ"
+    ]
+  },
+  {
+    "title": "ይወደኛል",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አቤት ምህረትህ",
+      "አሜን አሜን",
+      "ይወደኛል",
+      "I am forgiven"
+    ]
+  },
+  {
+    "title": "እሱ ሰው ከበረ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket13.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እሱ ሰው ከበረ",
+      "አለሁ",
+      "መምህሩ",
+      "ክብር አለ"
+    ]
+  },
+  {
+    "title": "I am forgiven",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket14.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "I am forgiven",
+      "መምህሩ",
+      "አቤት ምህረትህ",
+      "አማላጄ"
+    ]
+  },
+  {
+    "title": "አቤት ምህረትህ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አሜን አሜን",
+      "I am forgiven",
+      "የቅርቤ",
+      "አቤት ምህረትህ"
+    ]
+  },
+  {
+    "title": "ክብር አለ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket7.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "I am forgiven",
+      "ለመልካም ሆነልኝ",
+      "ክብር አለ",
+      "አለሁ"
+    ]
+  },
+  {
+    "title": "መምህሩ",
+    "album": "መምህሩ",
+    "albumCover": "https://i.ytimg.com/vi/N6NLgX7uDr8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መምህሩ",
+      "አለሁ",
+      "አማላጄ",
+      "የቅርቤ"
+    ]
+  }
+]

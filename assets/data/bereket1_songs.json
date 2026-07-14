@@ -1,0 +1,184 @@
+[
+  {
+    "title": "ያቦቅን ስሻገር",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እንደ ኢየሱስ",
+      "ትሁን ፈቃድህ",
+      "አንተን ባየ አይኔ",
+      "ያቦቅን ስሻገር"
+    ]
+  },
+  {
+    "title": "ከተባለ ለአንተ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከተባለ ለአንተ",
+      "ይኑርልን ጌታ",
+      "ያድናል ኢየሱስ",
+      "አለ የሚገባው"
+    ]
+  },
+  {
+    "title": "አለ የሚገባው",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከተባለ ለአንተ",
+      "አለ የሚገባው",
+      "ያቦቅን ስሻገር",
+      "በመጀመሪያ"
+    ]
+  },
+  {
+    "title": "ይብዛልኝ መታዘዜ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ያቦቅን ስሻገር",
+      "ይብዛልኝ መታዘዜ",
+      "እጠብቅሃለሁ",
+      "ከማየው በዓይኔ"
+    ]
+  },
+  {
+    "title": "ትሁን ፈቃድህ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ያድናል ኢየሱስ",
+      "ትሁን ፈቃድህ",
+      "ከማየው በዓይኔ",
+      "ይኑርልን ጌታ"
+    ]
+  },
+  {
+    "title": "አንተን ባየ አይኔ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጸጋ ጨመረልኝ",
+      "እጠብቅሃለሁ",
+      "አንተን ባየ አይኔ",
+      "ከማየው በዓይኔ"
+    ]
+  },
+  {
+    "title": "በመጀመሪያ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይኑርልን ጌታ",
+      "ይብዛልኝ መታዘዜ",
+      "በመጀመሪያ",
+      "ትሁን ፈቃድህ"
+    ]
+  },
+  {
+    "title": "ጸጋ ጨመረልኝ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከማየው በዓይኔ",
+      "ጸጋ ጨመረልኝ",
+      "ከተባለ ለአንተ",
+      "ያድናል ኢየሱስ"
+    ]
+  },
+  {
+    "title": "ከማየው በዓይኔ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይኑርልን ጌታ",
+      "ከተባለ ለአንተ",
+      "ከማየው በዓይኔ",
+      "እንደ ኢየሱስ"
+    ]
+  },
+  {
+    "title": "እንደ ኢየሱስ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ያቦቅን ስሻገር",
+      "እንደ ኢየሱስ",
+      "በመጀመሪያ",
+      "ከማየው በዓይኔ"
+    ]
+  },
+  {
+    "title": "ያድናል ኢየሱስ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ያድናል ኢየሱስ",
+      "እንደ ኢየሱስ",
+      "ጸጋ ጨመረልኝ",
+      "ትሁን ፈቃድህ"
+    ]
+  },
+  {
+    "title": "እጠብቅሃለሁ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከማየው በዓይኔ",
+      "እጠብቅሃለሁ",
+      "እንደ ኢየሱስ",
+      "ትሁን ፈቃድህ"
+    ]
+  },
+  {
+    "title": "ይኑርልን ጌታ",
+    "album": "ያቦቅን ስሻገር",
+    "albumCover": "https://i.ytimg.com/vi/KSv5-IpaPWs/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/bereket1/Bereket1-7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አንተን ባየ አይኔ",
+      "እጠብቅሃለሁ",
+      "ከማየው በዓይኔ",
+      "ይኑርልን ጌታ"
+    ]
+  }
+]

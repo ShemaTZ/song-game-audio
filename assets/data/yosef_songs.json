@@ -1,0 +1,366 @@
+[
+  {
+    "title": "ከእንግዲማ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከእንግዲማ",
+      "ጠፍቼ ነበር",
+      "ተነሺና አብሪ",
+      "ሁልጊዜ ማመስገን"
+    ]
+  },
+  {
+    "title": "ስለ ምህረቱ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስለ ምህረቱ",
+      "ለዚህ ነው",
+      "የወደደህ ልቤ",
+      "ሁልጊዜ ማመስገን"
+    ]
+  },
+  {
+    "title": "የወደደህ ልቤ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሁልጊዜ ማመስገን",
+      "አምንሃለው",
+      "የወደደህ ልቤ",
+      "ለዚህ ነው"
+    ]
+  },
+  {
+    "title": "ፍቅር ነህ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ፍቅር ነህ",
+      "ለዚህ ነው",
+      "ሰው ሆይ",
+      "የእኔ ነህ"
+    ]
+  },
+  {
+    "title": "ሁልጊዜ ማመስገን",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሁልጊዜ ማመስገን",
+      "ከእንግዲማ",
+      "ጠፍቼ ነበር",
+      "ስለ ምህረቱ"
+    ]
+  },
+  {
+    "title": "የእኔ ነህ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእኔ ነህ",
+      "ኪዳን አለኝ",
+      "ለዚህ ነው",
+      "ይሄውና ልቤ"
+    ]
+  },
+  {
+    "title": "ጠፍቼ ነበር",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሁልጊዜ ማመስገን",
+      "ፍቅር ነህ",
+      "ጠፍቼ ነበር",
+      "ለዚህ ነው"
+    ]
+  },
+  {
+    "title": "ተነሺና አብሪ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ተነሺና አብሪ",
+      "ሁልጊዜ ማመስገን",
+      "የእኔ ነህ",
+      "ፍቅር ነህ"
+    ]
+  },
+  {
+    "title": "ለዚህ ነው",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሰው ሆይ",
+      "ለዚህ ነው",
+      "ከእንግዲማ",
+      "ስለ ምህረቱ"
+    ]
+  },
+  {
+    "title": "አምንሃለው",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስለ ምህረቱ",
+      "የወደደህ ልቤ",
+      "አምንሃለው",
+      "ለዚህ ነው"
+    ]
+  },
+  {
+    "title": "ሰው ሆይ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሰው ሆይ",
+      "ሁልጊዜ ማመስገን",
+      "የወደደህ ልቤ",
+      "ይሄውና ልቤ"
+    ]
+  },
+  {
+    "title": "ይሄውና ልቤ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የወደደህ ልቤ",
+      "ኪዳን አለኝ",
+      "ይሄውና ልቤ",
+      "ተነሺና አብሪ"
+    ]
+  },
+  {
+    "title": "ኪዳን አለኝ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሰው ሆይ",
+      "ኪዳን አለኝ",
+      "የእኔ ነህ",
+      "የወደደህ ልቤ"
+    ]
+  },
+  {
+    "title": "የወደደህ ልቤ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከእንግዲማ",
+      "የወደደህ ልቤ",
+      "ለዚህ ነው",
+      "ፍቅር ነህ"
+    ]
+  },
+  {
+    "title": "አምንሃለው",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይሄውና ልቤ",
+      "ኪዳን አለኝ",
+      "አምንሃለው",
+      "ፍቅር ነህ"
+    ]
+  },
+  {
+    "title": "ይሄውና ልቤ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጠፍቼ ነበር",
+      "ስለ ምህረቱ",
+      "ይሄውና ልቤ",
+      "አምንሃለው"
+    ]
+  },
+  {
+    "title": "ከእንግዲማ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ፍቅር ነህ",
+      "ጠፍቼ ነበር",
+      "ከእንግዲማ",
+      "የእኔ ነህ"
+    ]
+  },
+  {
+    "title": "ፍቅር ነህ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ፍቅር ነህ",
+      "የእኔ ነህ",
+      "ተነሺና አብሪ",
+      "የወደደህ ልቤ"
+    ]
+  },
+  {
+    "title": "ሁልጊዜ ማመስገን",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የወደደህ ልቤ",
+      "ሁልጊዜ ማመስገን",
+      "አምንሃለው",
+      "የእኔ ነህ"
+    ]
+  },
+  {
+    "title": "ተነሺና አብሪ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ፍቅር ነህ",
+      "ስለ ምህረቱ",
+      "ሁልጊዜ ማመስገን",
+      "ተነሺና አብሪ"
+    ]
+  },
+  {
+    "title": "ስለ ምህረቱ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ፍቅር ነህ",
+      "ጠፍቼ ነበር",
+      "ስለ ምህረቱ",
+      "የእኔ ነህ"
+    ]
+  },
+  {
+    "title": "የእኔ ነህ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አምንሃለው",
+      "ኪዳን አለኝ",
+      "የእኔ ነህ",
+      "ሁልጊዜ ማመስገን"
+    ]
+  },
+  {
+    "title": "ሰው ሆይ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስለ ምህረቱ",
+      "ሰው ሆይ",
+      "ተነሺና አብሪ",
+      "ከእንግዲማ"
+    ]
+  },
+  {
+    "title": "ጠፍቼ ነበር",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ለዚህ ነው",
+      "ጠፍቼ ነበር",
+      "ስለ ምህረቱ",
+      "የእኔ ነህ"
+    ]
+  },
+  {
+    "title": "ለዚህ ነው",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጠፍቼ ነበር",
+      "ለዚህ ነው",
+      "ከእንግዲማ",
+      "ይሄውና ልቤ"
+    ]
+  },
+  {
+    "title": "ኪዳን አለኝ",
+    "album": "ኪዳን አለኝ",
+    "albumCover": "https://i.ytimg.com/vi/-SGBGFAxKS0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/yosef/Yosef1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሁልጊዜ ማመስገን",
+      "ኪዳን አለኝ",
+      "ፍቅር ነህ",
+      "የወደደህ ልቤ"
+    ]
+  }
+]

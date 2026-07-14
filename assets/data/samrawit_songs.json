@@ -1,0 +1,184 @@
+[
+  {
+    "title": "ይገባሀል",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አልፋ",
+      "መንፈስ ቅዱስ",
+      "ለዚህ ነው",
+      "ይገባሀል"
+    ]
+  },
+  {
+    "title": "ቃልህ",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "በየማለዳው",
+      "በምስጋና",
+      "ይገባሀል",
+      "ቃልህ"
+    ]
+  },
+  {
+    "title": "በምስጋና",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አልልም",
+      "በምስጋና",
+      "መንፈስ ቅዱስ",
+      "ናልኝ"
+    ]
+  },
+  {
+    "title": "እረኛዬ ነው",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መንፈስ ቅዱስ",
+      "ይገባሀል",
+      "አልፋ",
+      "እረኛዬ ነው"
+    ]
+  },
+  {
+    "title": "መንፈስ ቅዱስ",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit12.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ለዚህ ነው",
+      "እረኛዬ ነው",
+      "መንፈስ ቅዱስ",
+      "ሰላም አለኝ"
+    ]
+  },
+  {
+    "title": "ናልኝ",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "በምስጋና",
+      "ናልኝ",
+      "አልፋ",
+      "ሰላም አለኝ"
+    ]
+  },
+  {
+    "title": "ትውስ ድቅን",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit13.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አልፋ",
+      "ለዚህ ነው",
+      "መንፈስ ቅዱስ",
+      "ትውስ ድቅን"
+    ]
+  },
+  {
+    "title": "የእኔ አለሜ",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ቃልህ",
+      "አልልም",
+      "የእኔ አለሜ",
+      "ለዚህ ነው"
+    ]
+  },
+  {
+    "title": "ሰላም አለኝ",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit9.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ለዚህ ነው",
+      "አልልም",
+      "ሰላም አለኝ",
+      "እረኛዬ ነው"
+    ]
+  },
+  {
+    "title": "በየማለዳው",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit7.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "በየማለዳው",
+      "የእኔ አለሜ",
+      "አልልም",
+      "ሰላም አለኝ"
+    ]
+  },
+  {
+    "title": "ለዚህ ነው",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit10.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መንፈስ ቅዱስ",
+      "ትውስ ድቅን",
+      "በየማለዳው",
+      "ለዚህ ነው"
+    ]
+  },
+  {
+    "title": "አልልም",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit2.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እረኛዬ ነው",
+      "መንፈስ ቅዱስ",
+      "ቃልህ",
+      "አልልም"
+    ]
+  },
+  {
+    "title": "አልፋ",
+    "album": "የእኔ አለሜ",
+    "albumCover": "https://i.ytimg.com/vi/At_W_pEww74/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samrawit11.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ናልኝ",
+      "አልፋ",
+      "እረኛዬ ነው",
+      "በምስጋና"
+    ]
+  }
+]

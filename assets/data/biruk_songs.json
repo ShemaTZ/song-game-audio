@@ -1,0 +1,282 @@
+[
+  {
+    "title": "አይቼሃለው",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እድለኛ ነኝ",
+      "አይቼሃለው",
+      "አይረሳኝም",
+      "ተስፋዬ"
+    ]
+  },
+  {
+    "title": "የእሱስ ልክ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ድነናል",
+      "አይቼሃለው",
+      "የእሱስ ልክ",
+      "ተስፋዬ"
+    ]
+  },
+  {
+    "title": "መኖሪያዬ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መኖሪያዬ",
+      "አይረሳኝም",
+      "ተናግሮ አይረሳም",
+      "እፈልግሃለው"
+    ]
+  },
+  {
+    "title": "ከነሀጥያቴ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከነሀጥያቴ",
+      "የእሱስ ልክ",
+      "እፈልግሃለው",
+      "አይረሳኝም"
+    ]
+  },
+  {
+    "title": "አይረሳኝም",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእሱስ ልክ",
+      "እፈልግሃለው",
+      "ተናግሮ አይረሳም",
+      "አይረሳኝም"
+    ]
+  },
+  {
+    "title": "እፈልግሃለው",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእሱስ ልክ",
+      "አይቼሃለው",
+      "መኖሪያዬ",
+      "እፈልግሃለው"
+    ]
+  },
+  {
+    "title": "ተናግሮ አይረሳም",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእሱስ ልክ",
+      "ተናግሮ አይረሳም",
+      "ንጹህ ልብን",
+      "እፈልግሃለው"
+    ]
+  },
+  {
+    "title": "እድለኛ ነኝ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ንጹህ ልብን",
+      "ከነሀጥያቴ",
+      "እድለኛ ነኝ",
+      "የእሱስ ልክ"
+    ]
+  },
+  {
+    "title": "ድነናል",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይረሳኝም",
+      "መኖሪያዬ",
+      "ከነሀጥያቴ",
+      "ድነናል"
+    ]
+  },
+  {
+    "title": "መኖሪያዬ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይረሳኝም",
+      "መኖሪያዬ",
+      "ከነሀጥያቴ",
+      "ተናግሮ አይረሳም"
+    ]
+  },
+  {
+    "title": "አይረሳኝም",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ድነናል",
+      "አይቼሃለው",
+      "አይረሳኝም",
+      "ንጹህ ልብን"
+    ]
+  },
+  {
+    "title": "ድነናል",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእሱስ ልክ",
+      "ድነናል",
+      "መኖሪያዬ",
+      "ከነሀጥያቴ"
+    ]
+  },
+  {
+    "title": "ንጹህ ልብን",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እፈልግሃለው",
+      "ተስፋዬ",
+      "ንጹህ ልብን",
+      "የእሱስ ልክ"
+    ]
+  },
+  {
+    "title": "የእሱስ ልክ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእሱስ ልክ",
+      "አይቼሃለው",
+      "መኖሪያዬ",
+      "ተስፋዬ"
+    ]
+  },
+  {
+    "title": "አይቼሃለው",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይቼሃለው",
+      "የእሱስ ልክ",
+      "ከነሀጥያቴ",
+      "እድለኛ ነኝ"
+    ]
+  },
+  {
+    "title": "ተናግሮ አይረሳም",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይረሳኝም",
+      "ንጹህ ልብን",
+      "ተናግሮ አይረሳም",
+      "ድነናል"
+    ]
+  },
+  {
+    "title": "እፈልግሃለው",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እፈልግሃለው",
+      "ከነሀጥያቴ",
+      "ድነናል",
+      "ንጹህ ልብን"
+    ]
+  },
+  {
+    "title": "እድለኛ ነኝ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እፈልግሃለው",
+      "መኖሪያዬ",
+      "እድለኛ ነኝ",
+      "አይረሳኝም"
+    ]
+  },
+  {
+    "title": "ተስፋዬ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ድነናል",
+      "ተስፋዬ",
+      "ተናግሮ አይረሳም",
+      "እድለኛ ነኝ"
+    ]
+  },
+  {
+    "title": "ከነሀጥያቴ",
+    "album": "ምክንያቱ",
+    "albumCover": "https://i.ytimg.com/vi/zehhbMUYOeY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/biruk/Biruk1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከነሀጥያቴ",
+      "መኖሪያዬ",
+      "እድለኛ ነኝ",
+      "እፈልግሃለው"
+    ]
+  }
+]

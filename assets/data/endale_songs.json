@@ -1,0 +1,198 @@
+[
+  {
+    "title": "ህያው ምንጭ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale2.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ይፈውስ ይዳሰኝ",
+      "ህያው ምንጭ",
+      "ቅዱስ",
+      "እኔ ቆሜ"
+    ]
+  },
+  {
+    "title": "ላመልክህ የተገባህ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale7.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ላመልክህ የተገባህ",
+      "ይፈውስ ይዳሰኝ",
+      "ህያው ምንጭ",
+      "እኔ ቆሜ"
+    ]
+  },
+  {
+    "title": "ፍጥነት ጨምሬ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale14.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "የእኔ ነህ",
+      "ፍጥነት ጨምሬ",
+      "ይፈውስ ይዳሰኝ",
+      "ስንፍናዬ"
+    ]
+  },
+  {
+    "title": "ተመስገን",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale3.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ይፈውስ ይዳሰኝ",
+      "ስንፍናዬ",
+      "ተመስገን",
+      "ቅዱስ"
+    ]
+  },
+  {
+    "title": "ስንፍናዬ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale11.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "መዳኔ",
+      "ህያው ምንጭ",
+      "ያን አመት",
+      "ስንፍናዬ"
+    ]
+  },
+  {
+    "title": "ያን አመት",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale6.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "አጠገቤ ሆነህ ትናፍቀኛለህ",
+      "ቅዱስ",
+      "ያን አመት",
+      "ተመስገን"
+    ]
+  },
+  {
+    "title": "መዳኔ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale13.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "እኔ ቆሜ",
+      "የእኔ ነህ",
+      "ላመልክህ የተገባህ",
+      "መዳኔ"
+    ]
+  },
+  {
+    "title": "አንተን ሳስብ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale5.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ፍጥነት ጨምሬ",
+      "አንተን ሳስብ",
+      "ተመስገን",
+      "የእኔ ነህ"
+    ]
+  },
+  {
+    "title": "ይፈውስ ይዳሰኝ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale1.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "አንተን ሳስብ",
+      "አመልክሃለሁ",
+      "መዳኔ",
+      "ይፈውስ ይዳሰኝ"
+    ]
+  },
+  {
+    "title": "የእኔ ነህ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale8.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "መዳኔ",
+      "ይፈውስ ይዳሰኝ",
+      "ላመልክህ የተገባህ",
+      "የእኔ ነህ"
+    ]
+  },
+  {
+    "title": "እኔ ቆሜ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale12.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "መዳኔ",
+      "እኔ ቆሜ",
+      "ፍጥነት ጨምሬ",
+      "ተመስገን"
+    ]
+  },
+  {
+    "title": "አመልክሃለሁ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale4.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "አመልክሃለሁ",
+      "ፍጥነት ጨምሬ",
+      "ስንፍናዬ",
+      "መዳኔ"
+    ]
+  },
+  {
+    "title": "ቅዱስ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale10.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ቅዱስ",
+      "አንተን ሳስብ",
+      "ስንፍናዬ",
+      "አመልክሃለሁ"
+    ]
+  },
+  {
+    "title": "አጠገቤ ሆነህ ትናፍቀኛለህ",
+    "album": "ህያው ምንጭ",
+    "albumCover": "https://i.ytimg.com/vi/FSGlwotT55k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Endale9.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ቅዱስ",
+      "አጠገቤ ሆነህ ትናፍቀኛለህ",
+      "መዳኔ",
+      "የእኔ ነህ"
+    ]
+  }
+]

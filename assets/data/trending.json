@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tr-1",
+    "title": "ባለ ምህረት",
+    "artist": "Rahel Alemayehu",
+    "duration": "6:35",
+    "artistImage": "https://i.ytimg.com/vi/By7DlKl3evU/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=By7DlKl3evU"
+  },
+  {
+    "id": "tr-2",
+    "title": "ልመንህ? (ፀሎት)",
+    "artist": "Eyerusalem Worku",
+    "duration": "7:17",
+    "artistImage": "https://i.ytimg.com/vi/enPdjRxeGNk/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=enPdjRxeGNk"
+  }
+]

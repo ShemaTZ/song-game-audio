@@ -1,0 +1,310 @@
+[
+  {
+    "title": "ጥማቴ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አምላኬ ምህረቱን",
+      "በድል ላይ ድልን ይዞ",
+      "ጥማቴ",
+      "በጊዜው ደረሰልኝ"
+    ]
+  },
+  {
+    "title": "እጠብቀዋለሁ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጌታዬ ባንተ",
+      "አልሰለችም",
+      "ታላቅ ነህ",
+      "እጠብቀዋለሁ"
+    ]
+  },
+  {
+    "title": "ልመለስ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጥማቴ",
+      "ልመለስ",
+      "ወዴ ኢየሱስ",
+      "በጊዜው ደረሰልኝ"
+    ]
+  },
+  {
+    "title": "በጊዜው ደረሰልኝ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ልመለስ",
+      "ጥማቴ",
+      "ከኔ የሆነ",
+      "በጊዜው ደረሰልኝ"
+    ]
+  },
+  {
+    "title": "ጌታዬ ባንተ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በጊዜው ደረሰልኝ",
+      "እጠብቀዋለሁ",
+      "አምላኬ ምህረቱን",
+      "ጌታዬ ባንተ"
+    ]
+  },
+  {
+    "title": "ወዴ ኢየሱስ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ወዴ ኢየሱስ",
+      "ልመለስ",
+      "በጊዜው ደረሰልኝ",
+      "አምላኬ ምህረቱን"
+    ]
+  },
+  {
+    "title": "አልሰለችም",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አልሰለችም",
+      "ታላቅ ነህ",
+      "ልመለስ",
+      "አምላኬ ምህረቱን"
+    ]
+  },
+  {
+    "title": "አምላኬ ምህረቱን",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አምላኬ ምህረቱን",
+      "ጥማቴ",
+      "አልሰለችም",
+      "በጊዜው ደረሰልኝ"
+    ]
+  },
+  {
+    "title": "በድል ላይ ድልን ይዞ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በድል ላይ ድልን ይዞ",
+      "ጥማቴ",
+      "ከኔ የሆነ",
+      "ወዴ ኢየሱስ"
+    ]
+  },
+  {
+    "title": "ታላቅ ነህ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ታላቅ ነህ",
+      "ጥማቴ",
+      "ልመለስ",
+      "ከኔ የሆነ"
+    ]
+  },
+  {
+    "title": "ከኔ የሆነ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አምላኬ ምህረቱን",
+      "ወዴ ኢየሱስ",
+      "ከኔ የሆነ",
+      "ልመለስ"
+    ]
+  },
+  {
+    "title": "ጌታዬ ባንተ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጌታዬ ባንተ",
+      "ከኔ የሆነ",
+      "ታላቅ ነህ",
+      "ወዴ ኢየሱስ"
+    ]
+  },
+  {
+    "title": "አልሰለችም",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አልሰለችም",
+      "ወዴ ኢየሱስ",
+      "ልመለስ",
+      "ጌታዬ ባንተ"
+    ]
+  },
+  {
+    "title": "አምላኬ ምህረቱን",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በጊዜው ደረሰልኝ",
+      "ጥማቴ",
+      "አምላኬ ምህረቱን",
+      "በድል ላይ ድልን ይዞ"
+    ]
+  },
+  {
+    "title": "ጥማቴ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ወዴ ኢየሱስ",
+      "እጠብቀዋለሁ",
+      "ጥማቴ",
+      "አምላኬ ምህረቱን"
+    ]
+  },
+  {
+    "title": "ታላቅ ነህ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ልመለስ",
+      "በድል ላይ ድልን ይዞ",
+      "ታላቅ ነህ",
+      "ወዴ ኢየሱስ"
+    ]
+  },
+  {
+    "title": "ልመለስ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በድል ላይ ድልን ይዞ",
+      "እጠብቀዋለሁ",
+      "አልሰለችም",
+      "ልመለስ"
+    ]
+  },
+  {
+    "title": "በድል ላይ ድልን ይዞ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በድል ላይ ድልን ይዞ",
+      "ታላቅ ነህ",
+      "አልሰለችም",
+      "አምላኬ ምህረቱን"
+    ]
+  },
+  {
+    "title": "እጠብቀዋለሁ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በድል ላይ ድልን ይዞ",
+      "ጌታዬ ባንተ",
+      "እጠብቀዋለሁ",
+      "ከኔ የሆነ"
+    ]
+  },
+  {
+    "title": "ወዴ ኢየሱስ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ታላቅ ነህ",
+      "ልመለስ",
+      "አምላኬ ምህረቱን",
+      "ወዴ ኢየሱስ"
+    ]
+  },
+  {
+    "title": "ከኔ የሆነ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከኔ የሆነ",
+      "በድል ላይ ድልን ይዞ",
+      "ታላቅ ነህ",
+      "አልሰለችም"
+    ]
+  },
+  {
+    "title": "በጊዜው ደረሰልኝ",
+    "album": "በአንተ ብርታት",
+    "albumCover": "https://i.ytimg.com/vi/JGqBolS7ue0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/daniel/Daniel1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አምላኬ ምህረቱን",
+      "በጊዜው ደረሰልኝ",
+      "ጥማቴ",
+      "በድል ላይ ድልን ይዞ"
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "title": "በህይወት አለሁ",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru5.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "በህይወት አለሁ",
+      "ያለኝ ይሄ ነው ",
+      "አለኝ የምለው",
+      "መንፈስ ቅዱሰ"
+    ]
+  },
+  {
+    "title": "እዩት የእኔ አባት",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru3.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ያለኝ ይሄ ነው ",
+      "አለኝ የምለው",
+      "ተናግሬ ነበር",
+      "እዩት የእኔ አባት"
+    ]
+  },
+  {
+    "title": "ልቤ አውቆታል",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru8.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ያለኝ ይሄ ነው ",
+      "በአንተ ነው",
+      "ልቤ አውቆታል",
+      "ሌሊቱ ነጋ"
+    ]
+  },
+  {
+    "title": "ሌሊቱ ነጋ",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru2.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ሌሊቱ ነጋ",
+      "መንፈስ ቅዱሰ",
+      "ልቤ አውቆታል",
+      "ፍቅርህ ትክስ ነው"
+    ]
+  },
+  {
+    "title": "ተናግሬ ነበር",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru10.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ፍቅርህ ትክስ ነው",
+      "በአንተ ነው",
+      "እዩት የእኔ አባት",
+      "ተናግሬ ነበር"
+    ]
+  },
+  {
+    "title": "ጸጋህ በዝቶ",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru11.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ጸጋህ በዝቶ",
+      "በህይወት አለሁ",
+      "አለኝ የምለው",
+      "ልቤ አውቆታል"
+    ]
+  },
+  {
+    "title": "ያለኝ ይሄ ነው ",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru1.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ተናግሬ ነበር",
+      "ያለኝ ይሄ ነው ",
+      "ጸጋህ በዝቶ",
+      "ኑሮዬን የታምራት"
+    ]
+  },
+  {
+    "title": "አለኝ የምለው",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru6.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "በአንተ ነው",
+      "ኑሮዬን የታምራት",
+      "አለኝ የምለው",
+      "ፍቅርህ ትክስ ነው"
+    ]
+  },
+  {
+    "title": "ኑሮዬን የታምራት",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru9.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ልቤ አውቆታል",
+      "ያለኝ ይሄ ነው ",
+      "ፍቅርህ ትክስ ነው",
+      "ኑሮዬን የታምራት"
+    ]
+  },
+  {
+    "title": "በአንተ ነው",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru7.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "መንፈስ ቅዱሰ",
+      "ኑሮዬን የታምራት",
+      "በአንተ ነው",
+      "ሌሊቱ ነጋ"
+    ]
+  },
+  {
+    "title": "መንፈስ ቅዱሰ",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru12.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ፍቅርህ ትክስ ነው",
+      "ልቤ አውቆታል",
+      "ተናግሬ ነበር",
+      "መንፈስ ቅዱሰ"
+    ]
+  },
+  {
+    "title": "ፍቅርህ ትክስ ነው",
+    "album": "ሌሊቱ ነጋ",
+    "albumCover": "https://i.ytimg.com/vi/g1Rsz0Auprk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Awtaru4.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ጸጋህ በዝቶ",
+      "እዩት የእኔ አባት",
+      "ፍቅርህ ትክስ ነው",
+      "ያለኝ ይሄ ነው "
+    ]
+  }
+]

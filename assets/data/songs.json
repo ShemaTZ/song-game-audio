@@ -1,0 +1,18 @@
+[
+  {
+    "title": "እራስህ አስተማርከኝ",
+    "album": "Hallelujah",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+    "clipStart": 0,
+    "duration": 30,
+    "choices": ["እራስህ አስተማርከኝ", "አሜን", "ፈራ ፍርሃቴ", "ሃሌሉያ"]
+  },
+  {
+    "title": "አየሁ ፍቅር",
+    "album": "Hallelujah",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song2.mp3",
+    "clipStart": 0,
+    "duration": 30,
+    "choices": ["ሃያል አደረከኝ", "አየሁ ፍቅር", "አሜን", "ሃሌሉያ"]
+  }
+]

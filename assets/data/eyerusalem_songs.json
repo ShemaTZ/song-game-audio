@@ -1,0 +1,366 @@
+[
+  {
+    "title": "ለካ ያየኛል",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስለማን?",
+      "ለካ ያየኛል",
+      "ያቺ ጉጠት",
+      "ይችላል"
+    ]
+  },
+  {
+    "title": "ይችላል",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እረግረጉ ደረቀ",
+      "ሞት ሆይ",
+      "ይችላል",
+      "የእሩቅ አላሚ"
+    ]
+  },
+  {
+    "title": "ወዶኛልና",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ወዶኛልና",
+      "ሞት ሆይ",
+      "እረግረጉ ደረቀ",
+      "ስለማን?"
+    ]
+  },
+  {
+    "title": "ዛሬም አለሁ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስለማን?",
+      "ዛሬም አለሁ",
+      "እረግረጉ ደረቀ",
+      "አወራታለሁ"
+    ]
+  },
+  {
+    "title": "ያቺ ጉጠት",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ያቺ ጉጠት",
+      "አወራታለሁ",
+      "የጸጋውን ቁርበት",
+      "ሞት ሆይ"
+    ]
+  },
+  {
+    "title": "የጸጋውን ቁርበት",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የጸጋውን ቁርበት",
+      "ይችላል",
+      "ለካ ያየኛል",
+      "አወራታለሁ"
+    ]
+  },
+  {
+    "title": "ወለል ያለ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ወለል ያለ",
+      "የጸጋውን ቁርበት",
+      "ያቺ ጉጠት",
+      "እረግረጉ ደረቀ"
+    ]
+  },
+  {
+    "title": "የእሩቅ አላሚ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ወለል ያለ",
+      "ይችላል",
+      "ያቺ ጉጠት",
+      "የእሩቅ አላሚ"
+    ]
+  },
+  {
+    "title": "ስለማን?",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይችላል",
+      "አወራታለሁ",
+      "ወለል ያለ",
+      "ስለማን?"
+    ]
+  },
+  {
+    "title": "ሞት ሆይ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ያቺ ጉጠት",
+      "አወራታለሁ",
+      "ወዶኛልና",
+      "ሞት ሆይ"
+    ]
+  },
+  {
+    "title": "አወራታለሁ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእሩቅ አላሚ",
+      "አወራታለሁ",
+      "ወዶኛልና",
+      "ዛሬም አለሁ"
+    ]
+  },
+  {
+    "title": "ምትኬ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስለማን?",
+      "እረግረጉ ደረቀ",
+      "ወዶኛልና",
+      "ምትኬ"
+    ]
+  },
+  {
+    "title": "እረግረጉ ደረቀ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አወራታለሁ",
+      "ለካ ያየኛል",
+      "የእሩቅ አላሚ",
+      "እረግረጉ ደረቀ"
+    ]
+  },
+  {
+    "title": "ይችላል",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእሩቅ አላሚ",
+      "እረግረጉ ደረቀ",
+      "ይችላል",
+      "ወዶኛልና"
+    ]
+  },
+  {
+    "title": "የእሩቅ አላሚ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የጸጋውን ቁርበት",
+      "የእሩቅ አላሚ",
+      "ስለማን?",
+      "ወለል ያለ"
+    ]
+  },
+  {
+    "title": "ሞት ሆይ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ለካ ያየኛል",
+      "ወለል ያለ",
+      "አወራታለሁ",
+      "ሞት ሆይ"
+    ]
+  },
+  {
+    "title": "ለካ ያየኛል",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይችላል",
+      "ለካ ያየኛል",
+      "ምትኬ",
+      "ዛሬም አለሁ"
+    ]
+  },
+  {
+    "title": "ስለማን?",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእሩቅ አላሚ",
+      "አወራታለሁ",
+      "ወለል ያለ",
+      "ስለማን?"
+    ]
+  },
+  {
+    "title": "የጸጋውን ቁርበት",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የጸጋውን ቁርበት",
+      "ምትኬ",
+      "ወዶኛልና",
+      "ስለማን?"
+    ]
+  },
+  {
+    "title": "ዛሬም አለሁ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ወለል ያለ",
+      "የጸጋውን ቁርበት",
+      "የእሩቅ አላሚ",
+      "ዛሬም አለሁ"
+    ]
+  },
+  {
+    "title": "አወራታለሁ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ለካ ያየኛል",
+      "የጸጋውን ቁርበት",
+      "አወራታለሁ",
+      "እረግረጉ ደረቀ"
+    ]
+  },
+  {
+    "title": "እረግረጉ ደረቀ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እረግረጉ ደረቀ",
+      "ምትኬ",
+      "ወለል ያለ",
+      "ዛሬም አለሁ"
+    ]
+  },
+  {
+    "title": "ያቺ ጉጠት",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ያቺ ጉጠት",
+      "ወዶኛልና",
+      "ሞት ሆይ",
+      "ለካ ያየኛል"
+    ]
+  },
+  {
+    "title": "ወዶኛልና",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ወዶኛልና",
+      "የእሩቅ አላሚ",
+      "ዛሬም አለሁ",
+      "ያቺ ጉጠት"
+    ]
+  },
+  {
+    "title": "ወለል ያለ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የጸጋውን ቁርበት",
+      "የእሩቅ አላሚ",
+      "ምትኬ",
+      "ወለል ያለ"
+    ]
+  },
+  {
+    "title": "ምትኬ",
+    "album": "የጸጋውን ቁርበት",
+    "albumCover": "https://i.ytimg.com/vi/1Tss-w5V-sE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/eyerusalem/Eyerusalem10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሞት ሆይ",
+      "ስለማን?",
+      "ይችላል",
+      "ምትኬ"
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "title": "አመለጠች ነፍሴ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-16.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እርግጠኛ ነኝ",
+      "በመድህኔ",
+      "አመለጠች ነፍሴ",
+      "ይወራ ዝናው"
+    ]
+  },
+  {
+    "title": "በመድህኔ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በመድህኔ",
+      "ትለያለህ",
+      "እድለኛ",
+      "ፈጣሪ"
+    ]
+  },
+  {
+    "title": "አርነት አለ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እርግጠኛ ነኝ",
+      "አትጠገብም",
+      "ትመለካለህ",
+      "አርነት አለ"
+    ]
+  },
+  {
+    "title": "እድለኛ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ትመለካለህ",
+      "በመድህኔ",
+      "ፈጣሪ",
+      "እድለኛ"
+    ]
+  },
+  {
+    "title": "ፈጣሪ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እርግጠኛ ነኝ",
+      "ፈጣሪ",
+      "አትጠገብም",
+      "እታመናለሁ"
+    ]
+  },
+  {
+    "title": "አትጠገብም",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይወራ ዝናው",
+      "ትመለካለህ",
+      "በመድህኔ",
+      "አትጠገብም"
+    ]
+  },
+  {
+    "title": "እታመናለሁ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እታመናለሁ",
+      "ደስ ይበልህ",
+      "መልህቄ",
+      "እድለኛ"
+    ]
+  },
+  {
+    "title": "በላይ ያለውን",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መልህቄ",
+      "በላይ ያለውን",
+      "ደስ ይበልህ",
+      "አርነት አለ"
+    ]
+  },
+  {
+    "title": "ደስ ይበልህ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በላይ ያለውን",
+      "እታመናለሁ",
+      "ደስ ይበልህ",
+      "ፈጣሪ"
+    ]
+  },
+  {
+    "title": "ትመለካለህ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አትጠገብም",
+      "ትመለካለህ",
+      "በላይ ያለውን",
+      "ፈጣሪ"
+    ]
+  },
+  {
+    "title": "እርግጠኛ ነኝ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-15.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ደስ ይበልህ",
+      "እርግጠኛ ነኝ",
+      "አመለጠች ነፍሴ",
+      "መልህቄ"
+    ]
+  },
+  {
+    "title": "ኢየሱስ ድል ነሳ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-14.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ትመለካለህ",
+      "ኢየሱስ ድል ነሳ",
+      "ክንዳቹ አይላላ",
+      "እድለኛ"
+    ]
+  },
+  {
+    "title": "ክንዳቹ አይላላ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መልህቄ",
+      "እርግጠኛ ነኝ",
+      "ፈጣሪ",
+      "ክንዳቹ አይላላ"
+    ]
+  },
+  {
+    "title": "መልህቄ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መልህቄ",
+      "ይወራ ዝናው",
+      "ትለያለህ",
+      "ክንዳቹ አይላላ"
+    ]
+  },
+  {
+    "title": "ይወራ ዝናው",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ትመለካለህ",
+      "ይወራ ዝናው",
+      "ፈጣሪ",
+      "በላይ ያለውን"
+    ]
+  },
+  {
+    "title": "ትለያለህ",
+    "album": "መልህቄ",
+    "albumCover": "https://i.ytimg.com/vi/zDlslg5m8oE/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/samuel/Samuel1-2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አትጠገብም",
+      "አመለጠች ነፍሴ",
+      "ትመለካለህ",
+      "ትለያለህ"
+    ]
+  }
+]

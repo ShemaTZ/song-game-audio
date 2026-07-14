@@ -1,0 +1,366 @@
+[
+  {
+    "title": "አመለጥኩት",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አመለጥኩት",
+      "ነፍሴ እጅግ ወዳሃለች",
+      "ለጌትነቱ ወሰን የለውም",
+      "ይሄ ነው የኔ ጌታ"
+    ]
+  },
+  {
+    "title": "ለጌትነቱ ወሰን የለውም",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ለጌትነቱ ወሰን የለውም",
+      "ኢየሱስ የኔ መድኃኒት",
+      "እቅፍ ድግፍ",
+      "አመለጥኩት"
+    ]
+  },
+  {
+    "title": "ኢየሱስ የኔ መድኃኒት",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እምቢ",
+      "መጥቷል ወደ ደጄ",
+      "ኢየሱስ የኔ መድኃኒት",
+      "አመለጥኩት"
+    ]
+  },
+  {
+    "title": "ደስ የሚለኝ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እምቢ",
+      "አመለጥኩት",
+      "እቅፍ ድግፍ",
+      "ደስ የሚለኝ"
+    ]
+  },
+  {
+    "title": "ነፍሴ እጅግ ወዳሃለች",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መጥቷል ወደ ደጄ",
+      "ይሄ ነው የኔ ጌታ",
+      "እምቢ",
+      "ነፍሴ እጅግ ወዳሃለች"
+    ]
+  },
+  {
+    "title": "መጥቷል ወደ ደጄ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መጥቷል ወደ ደጄ",
+      "ኢየሱስ የኔ መድኃኒት",
+      "ለጌትነቱ ወሰን የለውም",
+      "ተመስገን"
+    ]
+  },
+  {
+    "title": "ምላስ ሁሉ ያንተን ክብር",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ነፍሴ እጅግ ወዳሃለች",
+      "ለዘላለም",
+      "ምላስ ሁሉ ያንተን ክብር",
+      "እምቢ"
+    ]
+  },
+  {
+    "title": "ለዘላለም",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ለዘላለም",
+      "ነፍሴ እጅግ ወዳሃለች",
+      "መጥቷል ወደ ደጄ",
+      "ተመስገን"
+    ]
+  },
+  {
+    "title": "ይሄ ነው የኔ ጌታ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አመለጥኩት",
+      "ይሄ ነው የኔ ጌታ",
+      "ለጌትነቱ ወሰን የለውም",
+      "ለዘላለም"
+    ]
+  },
+  {
+    "title": "ተመስገን",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይኖቼን አንስቼ ወደ ሰማይ",
+      "ይሄ ነው የኔ ጌታ",
+      "ነፍሴ እጅግ ወዳሃለች",
+      "ተመስገን"
+    ]
+  },
+  {
+    "title": "እምቢ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መጥቷል ወደ ደጄ",
+      "አመለጥኩት",
+      "እምቢ",
+      "ኢየሱስ የኔ መድኃኒት"
+    ]
+  },
+  {
+    "title": "እቅፍ ድግፍ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ለጌትነቱ ወሰን የለውም",
+      "ይሄ ነው የኔ ጌታ",
+      "ኢየሱስ የኔ መድኃኒት",
+      "እቅፍ ድግፍ"
+    ]
+  },
+  {
+    "title": "አይኖቼን አንስቼ ወደ ሰማይ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይኖቼን አንስቼ ወደ ሰማይ",
+      "ምላስ ሁሉ ያንተን ክብር",
+      "እምቢ",
+      "ነፍሴ እጅግ ወዳሃለች"
+    ]
+  },
+  {
+    "title": "ለጌትነቱ ወሰን የለውም",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ደስ የሚለኝ",
+      "እምቢ",
+      "አመለጥኩት",
+      "ለጌትነቱ ወሰን የለውም"
+    ]
+  },
+  {
+    "title": "ነፍሴ እጅግ ወዳሃለች",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ምላስ ሁሉ ያንተን ክብር",
+      "ነፍሴ እጅግ ወዳሃለች",
+      "ተመስገን",
+      "መጥቷል ወደ ደጄ"
+    ]
+  },
+  {
+    "title": "ይሄ ነው የኔ ጌታ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ደስ የሚለኝ",
+      "መጥቷል ወደ ደጄ",
+      "ተመስገን",
+      "ይሄ ነው የኔ ጌታ"
+    ]
+  },
+  {
+    "title": "አመለጥኩት",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አመለጥኩት",
+      "መጥቷል ወደ ደጄ",
+      "ለዘላለም",
+      "አይኖቼን አንስቼ ወደ ሰማይ"
+    ]
+  },
+  {
+    "title": "እምቢ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እምቢ",
+      "ለጌትነቱ ወሰን የለውም",
+      "እቅፍ ድግፍ",
+      "ተመስገን"
+    ]
+  },
+  {
+    "title": "ኢየሱስ የኔ መድኃኒት",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እቅፍ ድግፍ",
+      "ለጌትነቱ ወሰን የለውም",
+      "ተመስገን",
+      "ኢየሱስ የኔ መድኃኒት"
+    ]
+  },
+  {
+    "title": "አይኖቼን አንስቼ ወደ ሰማይ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ደስ የሚለኝ",
+      "አመለጥኩት",
+      "ነፍሴ እጅግ ወዳሃለች",
+      "አይኖቼን አንስቼ ወደ ሰማይ"
+    ]
+  },
+  {
+    "title": "መጥቷል ወደ ደጄ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እምቢ",
+      "አመለጥኩት",
+      "መጥቷል ወደ ደጄ",
+      "ነፍሴ እጅግ ወዳሃለች"
+    ]
+  },
+  {
+    "title": "ተመስገን",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ለዘላለም",
+      "መጥቷል ወደ ደጄ",
+      "እቅፍ ድግፍ",
+      "ተመስገን"
+    ]
+  },
+  {
+    "title": "ምላስ ሁሉ ያንተን ክብር",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እምቢ",
+      "ምላስ ሁሉ ያንተን ክብር",
+      "ይሄ ነው የኔ ጌታ",
+      "አይኖቼን አንስቼ ወደ ሰማይ"
+    ]
+  },
+  {
+    "title": "ለዘላለም",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ለዘላለም",
+      "መጥቷል ወደ ደጄ",
+      "አይኖቼን አንስቼ ወደ ሰማይ",
+      "አመለጥኩት"
+    ]
+  },
+  {
+    "title": "ደስ የሚለኝ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ደስ የሚለኝ",
+      "ተመስገን",
+      "ነፍሴ እጅግ ወዳሃለች",
+      "ኢየሱስ የኔ መድኃኒት"
+    ]
+  },
+  {
+    "title": "እቅፍ ድግፍ",
+    "album": "እምቢ",
+    "albumCover": "https://i.ytimg.com/vi/21eb2vA-9N0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/azeb/Azeb11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ኢየሱስ የኔ መድኃኒት",
+      "ለዘላለም",
+      "ነፍሴ እጅግ ወዳሃለች",
+      "እቅፍ ድግፍ"
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "title": "ያለው አይቀርም",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ወትሮም",
+      "አልተጋነነም",
+      "መጀመሪያ",
+      "ያለው አይቀርም"
+    ]
+  },
+  {
+    "title": "እንደገና",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste11.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ይዘልቃል",
+      "አልተጋነነም",
+      "እንደገና",
+      "ወትሮም"
+    ]
+  },
+  {
+    "title": "ወትሮም",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ወትሮም",
+      "እንደገና",
+      "የሁሌ",
+      "ዘምር ዘምር ይለኛል"
+    ]
+  },
+  {
+    "title": "መባረክ አይደክመው",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መባረክ አይደክመው",
+      "ጩህ ጩህ ይለኛል",
+      "አልተጋነነም",
+      "ያለው አይቀርም"
+    ]
+  },
+  {
+    "title": "የሁሌ",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መባረክ አይደክመው",
+      "ይዘልቃል",
+      "የሁሌ",
+      "እንደገና"
+    ]
+  },
+  {
+    "title": "ጩህ ጩህ ይለኛል",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መባረክ አይደክመው",
+      "ጩህ ጩህ ይለኛል",
+      "ወትሮም",
+      "የሁሌ"
+    ]
+  },
+  {
+    "title": "አልተጋነነም",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste14.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አልተጋነነም",
+      "ያስታውቅብኛል",
+      "ያለው አይቀርም",
+      "ይዘልቃል"
+    ]
+  },
+  {
+    "title": "መጀመሪያ",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መጀመሪያ",
+      "እንዳለፈው",
+      "አልተጋነነም",
+      "መባረክ አይደክመው"
+    ]
+  },
+  {
+    "title": "ዘምር ዘምር ይለኛል",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste7.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ያለው አይቀርም",
+      "እንዳለፈው",
+      "መባረክ አይደክመው",
+      "ዘምር ዘምር ይለኛል"
+    ]
+  },
+  {
+    "title": "እንዳለፈው",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste13.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እንዳለፈው",
+      "ጩህ ጩህ ይለኛል",
+      "የሁሌ",
+      "ወትሮም"
+    ]
+  },
+  {
+    "title": "መበርቻዬ",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste10.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እንኳን ሆነ",
+      "ወትሮም",
+      "አልተጋነነም",
+      "መበርቻዬ"
+    ]
+  },
+  {
+    "title": "እንኳን ሆነ",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste9.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ይዘልቃል",
+      "መበርቻዬ",
+      "ወትሮም",
+      "እንኳን ሆነ"
+    ]
+  },
+  {
+    "title": "ያስታውቅብኛል",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መባረክ አይደክመው",
+      "ዘምር ዘምር ይለኛል",
+      "ጩህ ጩህ ይለኛል",
+      "ያስታውቅብኛል"
+    ]
+  },
+  {
+    "title": "ይዘልቃል",
+    "album": "መጀመሪያ | Vol 6",
+    "albumCover": "https://i.ytimg.com/vi/YhF5QqrPw1c/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste12.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ይዘልቃል",
+      "መባረክ አይደክመው",
+      "ወትሮም",
+      "መጀመሪያ"
+    ]
+  }
+]

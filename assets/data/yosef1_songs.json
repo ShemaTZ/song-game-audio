@@ -1,0 +1,128 @@
+[
+  {
+    "title": "ምህረትህ",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph7.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሰው አይረሳም",
+      "እዘክረዋለው",
+      "ምህረትህ",
+      "ስራዬን የሰራለኝ"
+    ]
+  },
+  {
+    "title": "ሰው አይረሳም",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እዘክረዋለው",
+      "ቆጠርከኝ",
+      "ተመቸኝ ቤትህ",
+      "ሰው አይረሳም"
+    ]
+  },
+  {
+    "title": "ተደፍፌዋለው",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሰው አይረሳም",
+      "ምህረትህ",
+      "ስራዬን የሰራለኝ",
+      "ተደፍፌዋለው"
+    ]
+  },
+  {
+    "title": "ላይጨልምብኝ",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ስራዬን የሰራለኝ",
+      "ላይጨልምብኝ",
+      "ተመቸኝ ቤትህ",
+      "ተደፍፌዋለው"
+    ]
+  },
+  {
+    "title": "እዘክረዋለው",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph9.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ተደፍፌዋለው",
+      "ቆጠርከኝ",
+      "ተመቸኝ ቤትህ",
+      "እዘክረዋለው"
+    ]
+  },
+  {
+    "title": "አንተን ከያዘ ሰው",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አንተን ከያዘ ሰው",
+      "ሰው አይረሳም",
+      "ስራዬን የሰራለኝ",
+      "እዘክረዋለው"
+    ]
+  },
+  {
+    "title": "ስራዬን የሰራለኝ",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph2.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ተመቸኝ ቤትህ",
+      "አንተን ከያዘ ሰው",
+      "ላይጨልምብኝ",
+      "ስራዬን የሰራለኝ"
+    ]
+  },
+  {
+    "title": "ቆጠርከኝ",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ቆጠርከኝ",
+      "እዘክረዋለው",
+      "ተመቸኝ ቤትህ",
+      "ላይጨልምብኝ"
+    ]
+  },
+  {
+    "title": "ተመቸኝ ቤትህ",
+    "album": "ስራዬን የሰራልኝ",
+    "albumCover": "https://i.ytimg.com/vi/tON7Z5rasYA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yoseph3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አንተን ከያዘ ሰው",
+      "ተመቸኝ ቤትህ",
+      "ቆጠርከኝ",
+      "እዘክረዋለው"
+    ]
+  }
+]

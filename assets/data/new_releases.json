@@ -1,0 +1,26 @@
+[
+  {
+    "id": "nr-1",
+    "title": "የእንደገና አምላክ ነህ",
+    "artist": "Bethel Choir",
+    "duration": "4:47",
+    "artistImage": "https://i.ytimg.com/vi/HKUi94wycxU/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=HKUi94wycxU"
+  },
+  {
+    "id": "nr-2",
+    "title": "ባለ ምህረት",
+    "artist": "Rahel Alemayehu",
+    "duration": "6:35",
+    "artistImage": "https://i.ytimg.com/vi/By7DlKl3evU/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=By7DlKl3evU"
+  },
+  {
+    "id": "nr-3",
+    "title": "ፍለጋዬ ",
+    "artist": "ካዶሽ የዝማሬ አገልግሎት ህብረት",
+    "duration": "8:11",
+    "artistImage": "https://i.ytimg.com/vi/emro3J0Gk6g/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=emro3J0Gk6g"
+  }
+]

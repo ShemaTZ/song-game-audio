@@ -1,0 +1,166 @@
+[
+{
+  "title": "አየሁ ፍቅር",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song2.mp3",
+  "clipStart": 0,
+  "duration": 20,
+  "choices": [
+    "ክብር የበቃህ ነህ",
+    "ሃያል አደረከኝ",
+    "እስኪ ይንገረኝ",
+    "አየሁ ፍቅር"
+  ]
+},
+
+{
+  "title": "በእረኝነቱ",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song3.mp3",
+  "clipStart": 0,
+  "duration": 20,
+  "choices": [
+    "ትልቅ የሆነውን",
+    "ከማይመቹ ሁኔታዎቼ",
+    "ይሆንልኛል",
+    "በእረኝነቱ"
+  ]
+},
+
+{
+  "title": "ሃያል አደረከኝ",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song4.mp3",
+  "clipStart": 0,
+  "duration": 19,
+  "choices": [
+    "ሃያል አደረከኝ",
+    "ከማይመቹ ሁኔታዎቼ",
+    "ይሆንልኛል",
+    "በእረኝነቱ"
+  ]
+},
+
+{
+  "title": "ትልቅ የሆነውን",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song5.mp3",
+  "clipStart": 0,
+  "duration": 18,
+  "choices": [
+    "ይሆንልኛል",
+    "በእረኝነቱ",
+    "ትልቅ የሆነውን",
+    "ክብር የበቃህ ነህ"
+  ]
+},
+
+{
+  "title": "ፈልጌህ",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song6.mp3",
+  "clipStart": 0,
+  "duration": 20,
+  "choices": [
+    "ክብር የበቃህ ነህ",
+    "ፈልጌህ",
+    "ሃያል አደረከኝ",
+    "አየሁ ፍቅር"
+  ]
+},
+
+{
+  "title": "ይሆንልኛል",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song7.mp3",
+  "clipStart": 0,
+  "duration": 24,
+  "choices": [
+    "በእረኝነቱ",
+    "ይሆንልኛል",
+    "ትልቅ የሆነውን",
+    "ከማይመቹ ሁኔታዎቼ"
+  ]
+},
+
+{
+  "title": "እስኪ ይንገረኝ",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song8.mp3",
+  "clipStart": 0,
+  "duration": 16,
+  "choices": [
+    "ሃያል አደረከኝ",
+    "በእረኝነቱ",
+    "እስኪ ይንገረኝ",
+    "ይሆንልኛል"
+  ]
+},
+
+{
+  "title": "ክብር የበቃህ ነህ",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song9.mp3",
+  "clipStart": 0,
+  "duration": 17,
+  "choices": [
+    "ክብር የበቃህ ነህ",
+    "እስኪ ይንገረኝ",
+    "በእረኝነቱ",
+    "ከማይመቹ ሁኔታዎቼ"
+  ]
+},
+
+{
+  "title": "ጌታ ሆይ ተመስገን",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song10.mp3",
+  "clipStart": 0,
+  "duration": 9,
+  "choices": [
+    "ከማይመቹ ሁኔታዎቼ",
+    "ፈልጌህ",
+    "ጌታ ሆይ ተመስገን",
+    "በእረኝነቱ"
+  ]
+},
+
+
+{
+  "title": "መንፈስ ቅዱስ",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song11.mp3",
+  "clipStart": 0,
+  "duration": 22,
+  "choices": [
+    "ክብር የበቃህ ነህ",
+    "አየሁ ፍቅር",
+    "መንፈስ ቅዱስ",
+    "ከማይመቹ ሁኔታዎቼ"
+  ]
+},
+{
+  "title": "ከማይመቹ ሁኔታዎቼ",
+  "album": "Kibr yebekah neh",
+  "albumCover": "assets/images/astu_cover.jpg",
+  "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song12.mp3",
+  "clipStart": 0,
+  "duration": 18,
+  "choices": [
+    "ከማይመቹ ሁኔታዎቼ",
+    "ሃያል አደረከኝ",
+    "በእረኝነቱ",
+    "ይሆንልኛል"
+  ]
+}
+]

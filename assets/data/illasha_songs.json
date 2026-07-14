@@ -1,0 +1,142 @@
+[
+  {
+    "title": "ዝም ይበል",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha3.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ዝም ይበል",
+      "እየወደድሁህ መጣሁ",
+      "ይችላል",
+      "ስላንተ"
+    ]
+  },
+  {
+    "title": "ይችላል",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha7.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ኢየሱስ ብቻ",
+      "እየወደድሁህ መጣሁ",
+      "ህይወት ሆኖልኛል",
+      "ይችላል"
+    ]
+  },
+  {
+    "title": "ኢየሱስ ብቻ",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha9.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ልዩ",
+      "ስላንተ",
+      "ኢየሱስ ብቻ",
+      "ፍቅርህ ይገርመኛል"
+    ]
+  },
+  {
+    "title": "ፍቅርህ ይገርመኛል",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha2.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ይችላል",
+      "ልዩ",
+      "ካንተው ላንተው",
+      "ፍቅርህ ይገርመኛል"
+    ]
+  },
+  {
+    "title": "ህይወት ሆኖልኛል",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha10.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ዝም ይበል",
+      "ህይወት ሆኖልኛል",
+      "ይችላል",
+      "ኢየሱስ ብቻ"
+    ]
+  },
+  {
+    "title": "ካንተው ላንተው",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha5.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ስላንተ",
+      "ዝም ይበል",
+      "ልዩ",
+      "ካንተው ላንተው"
+    ]
+  },
+  {
+    "title": "ልዩ",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha8.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ልዩ",
+      "ስላንተ",
+      "ኢየሱስ ብቻ",
+      "ካንተው ላንተው"
+    ]
+  },
+  {
+    "title": "እየወደድሁህ መጣሁ",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha6.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ካንተው ላንተው",
+      "ልዩ",
+      "ዝም ይበል",
+      "እየወደድሁህ መጣሁ"
+    ]
+  },
+  {
+    "title": "ተወድጃለሁ",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha1.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ልዩ",
+      "ይችላል",
+      "ተወድጃለሁ",
+      "ካንተው ላንተው"
+    ]
+  },
+  {
+    "title": "ስላንተ",
+    "album": "ስላንተ",
+    "albumCover": "https://i.ytimg.com/vi/NME-8r46K9k/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Illasha4.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ዝም ይበል",
+      "ተወድጃለሁ",
+      "ይችላል",
+      "ስላንተ"
+    ]
+  }
+]

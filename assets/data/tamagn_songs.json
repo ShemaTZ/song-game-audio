@@ -1,0 +1,352 @@
+[
+  {
+    "title": "ባለ ብዙ ስም",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ረድኤቴ",
+      "ይመለካል",
+      "ይዤ",
+      "ባለ ብዙ ስም"
+    ]
+  },
+  {
+    "title": "አይበዛም ወይ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይዤ",
+      "አይበዛም ወይ",
+      "ረድኤቴ",
+      "የበጉ ከተማ"
+    ]
+  },
+  {
+    "title": "ልቅረብ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አላጎልብህ",
+      "ስለኔ",
+      "አሻራ",
+      "ልቅረብ"
+    ]
+  },
+  {
+    "title": "ረድኤቴ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አሻራ",
+      "ድንቅ መካር",
+      "የበጉ ከተማ",
+      "ረድኤቴ"
+    ]
+  },
+  {
+    "title": "አሻራ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ልቅረብ",
+      "ያያል",
+      "አሻራ",
+      "ረድኤቴ"
+    ]
+  },
+  {
+    "title": "ይመለካል",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ልቅረብ",
+      "አሻራ",
+      "ያያል",
+      "ይመለካል"
+    ]
+  },
+  {
+    "title": "ድንቅ መካር",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይዤ",
+      "ድንቅ መካር",
+      "የበጉ ከተማ",
+      "እንዲህ ነው ታሪኬ"
+    ]
+  },
+  {
+    "title": "አላጎልብህ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይበዛም ወይ",
+      "ይመለካል",
+      "የበጉ ከተማ",
+      "አላጎልብህ"
+    ]
+  },
+  {
+    "title": "ይዤ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አላጎልብህ",
+      "ረድኤቴ",
+      "ይመለካል",
+      "ይዤ"
+    ]
+  },
+  {
+    "title": "ስለኔ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስለኔ",
+      "እንዲህ ነው ታሪኬ",
+      "የበጉ ከተማ",
+      "አላጎልብህ"
+    ]
+  },
+  {
+    "title": "እንዲህ ነው ታሪኬ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ያያል",
+      "የበጉ ከተማ",
+      "እንዲህ ነው ታሪኬ",
+      "ይመለካል"
+    ]
+  },
+  {
+    "title": "ያያል",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይመለካል",
+      "ድንቅ መካር",
+      "ባለ ብዙ ስም",
+      "ያያል"
+    ]
+  },
+  {
+    "title": "ረድኤቴ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይመለካል",
+      "ረድኤቴ",
+      "የበጉ ከተማ",
+      "አሻራ"
+    ]
+  },
+  {
+    "title": "እንዲህ ነው ታሪኬ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አሻራ",
+      "እንዲህ ነው ታሪኬ",
+      "ያያል",
+      "አላጎልብህ"
+    ]
+  },
+  {
+    "title": "የበጉ ከተማ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ባለ ብዙ ስም",
+      "እንዲህ ነው ታሪኬ",
+      "የበጉ ከተማ",
+      "ልቅረብ"
+    ]
+  },
+  {
+    "title": "ያያል",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ባለ ብዙ ስም",
+      "ያያል",
+      "ይመለካል",
+      "ድንቅ መካር"
+    ]
+  },
+  {
+    "title": "አላጎልብህ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይዤ",
+      "አላጎልብህ",
+      "ባለ ብዙ ስም",
+      "ረድኤቴ"
+    ]
+  },
+  {
+    "title": "ድንቅ መካር",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ድንቅ መካር",
+      "ስለኔ",
+      "እንዲህ ነው ታሪኬ",
+      "የበጉ ከተማ"
+    ]
+  },
+  {
+    "title": "ይዤ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይዤ",
+      "አይበዛም ወይ",
+      "የበጉ ከተማ",
+      "አሻራ"
+    ]
+  },
+  {
+    "title": "ባለ ብዙ ስም",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ረድኤቴ",
+      "ባለ ብዙ ስም",
+      "የበጉ ከተማ",
+      "ይመለካል"
+    ]
+  },
+  {
+    "title": "አይበዛም ወይ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እንዲህ ነው ታሪኬ",
+      "አላጎልብህ",
+      "ረድኤቴ",
+      "አይበዛም ወይ"
+    ]
+  },
+  {
+    "title": "ልቅረብ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ልቅረብ",
+      "አላጎልብህ",
+      "ድንቅ መካር",
+      "ይመለካል"
+    ]
+  },
+  {
+    "title": "ይመለካል",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ባለ ብዙ ስም",
+      "ይመለካል",
+      "ያያል",
+      "ድንቅ መካር"
+    ]
+  },
+  {
+    "title": "ስለኔ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አላጎልብህ",
+      "ስለኔ",
+      "ልቅረብ",
+      "ይመለካል"
+    ]
+  },
+  {
+    "title": "አሻራ",
+    "album": "ድንቅ መካር",
+    "albumCover": "https://i.ytimg.com/vi/8DB8ldAvSfQ/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tamagn/Tamagn5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ድንቅ መካር",
+      "ይመለካል",
+      "አሻራ",
+      "ያያል"
+    ]
+  }
+]

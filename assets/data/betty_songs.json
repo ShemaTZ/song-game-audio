@@ -1,0 +1,198 @@
+[
+  {
+    "title": "አቤት ውበቱ",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem8.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "አቤት ውበቱ",
+      "አይናፍቀኝም አገሩ",
+      "እግዚአብሔር ፍቅር ነው",
+      "ምህረቱን አስቤ"
+    ]
+  },
+  {
+    "title": "ተፈፀመ",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem4.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ተፈፀመ",
+      "ሰው ክብር ነው",
+      "አይናፍቀኝም አገሩ",
+      "እግዚአብሔር ፍቅር ነው"
+    ]
+  },
+  {
+    "title": "ምህረቱን አስቤ",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem12.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "አቤት ውበቱ",
+      "ተሳልሜ አልሄድም",
+      "ምህረቱን አስቤ",
+      "ኦ ድንቅ ነህ"
+    ]
+  },
+  {
+    "title": "እግዚአብሔር ፍቅር ነው",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem11.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "አቤት ውበቱ",
+      "የሚረባኝን የሚያውቅልኝ",
+      "እግዚአብሄር አለ",
+      "እግዚአብሔር ፍቅር ነው"
+    ]
+  },
+  {
+    "title": "እግዚአብሄር አለ",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem6.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "እግዚአብሄር አለ",
+      "እግዚአብሔር ፍቅር ነው",
+      "ወደ እረፍቴ ገባለው",
+      "ሰው ክብር ነው"
+    ]
+  },
+  {
+    "title": "ኦ ድንቅ ነህ",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem5.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "የሚረባኝን የሚያውቅልኝ",
+      "ኦ ድንቅ ነህ",
+      "እግዚአብሔር ፍቅር ነው",
+      "አቤት ውበቱ"
+    ]
+  },
+  {
+    "title": "አይናፍቀኝም አገሩ",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem7.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ኤልዛቤልን ውሾች ይበሏታል",
+      "አለኝ አባት",
+      "እግዚአብሄር አለ",
+      "አይናፍቀኝም አገሩ"
+    ]
+  },
+  {
+    "title": "ኤልዛቤልን ውሾች ይበሏታል",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem13.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "የሚረባኝን የሚያውቅልኝ",
+      "ጌታን ማሰብ ነው",
+      "ኤልዛቤልን ውሾች ይበሏታል",
+      "ተፈፀመ"
+    ]
+  },
+  {
+    "title": "ወደ እረፍቴ ገባለው",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem9.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "እግዚአብሄር አለ",
+      "ተሳልሜ አልሄድም",
+      "ኦ ድንቅ ነህ",
+      "ወደ እረፍቴ ገባለው"
+    ]
+  },
+  {
+    "title": "የሚረባኝን የሚያውቅልኝ",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem2.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "እግዚአብሄር አለ",
+      "ኤልዛቤልን ውሾች ይበሏታል",
+      "የሚረባኝን የሚያውቅልኝ",
+      "ወደ እረፍቴ ገባለው"
+    ]
+  },
+  {
+    "title": "ተሳልሜ አልሄድም",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem1.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ተሳልሜ አልሄድም",
+      "እግዚአብሄር አለ",
+      "ሰው ክብር ነው",
+      "አይናፍቀኝም አገሩ"
+    ]
+  },
+  {
+    "title": "አለኝ አባት",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem10.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "አለኝ አባት",
+      "አቤት ውበቱ",
+      "የሚረባኝን የሚያውቅልኝ",
+      "እግዚአብሄር አለ"
+    ]
+  },
+  {
+    "title": "ጌታን ማሰብ ነው",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem3.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "የሚረባኝን የሚያውቅልኝ",
+      "አቤት ውበቱ",
+      "ጌታን ማሰብ ነው",
+      "ሰው ክብር ነው"
+    ]
+  },
+  {
+    "title": "ሰው ክብር ነው",
+    "album": "Tefetseme",
+    "albumCover": "https://i.ytimg.com/vi/VAoGTDrF4hA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bethlehem14.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ኤልዛቤልን ውሾች ይበሏታል",
+      "ሰው ክብር ነው",
+      "አይናፍቀኝም አገሩ",
+      "ወደ እረፍቴ ገባለው"
+    ]
+  }
+]

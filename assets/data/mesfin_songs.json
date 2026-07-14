@@ -1,0 +1,170 @@
+[
+  {
+    "title": "አባት አለኝ",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin12.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "በህይወቴ ዘመን",
+      "ኧረ ስንቱ ታለፈ",
+      "እልፍ እልፍ",
+      "አባት አለኝ"
+    ]
+  },
+  {
+    "title": "እግዚአብሄር ለእኔ",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin11.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አንተ የእኔ",
+      "እግዚአብሄር ለእኔ",
+      "ተባረክ ብዬ",
+      "አልፈራም"
+    ]
+  },
+  {
+    "title": "ኧረ ስንቱ ታለፈ",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin3.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ትዝ ይለኛል",
+      "ተባረክ ብዬ",
+      "ኧረ ስንቱ ታለፈ",
+      "እልፍ እልፍ"
+    ]
+  },
+  {
+    "title": "እልፍ እልፍ",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin6.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ውበትህ ከሰው ልጆች",
+      "በህይወቴ ዘመን",
+      "እልፍ እልፍ",
+      "አባት አለኝ"
+    ]
+  },
+  {
+    "title": "በህይወቴ ዘመን",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin9.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "በህይወቴ ዘመን",
+      "ተባረክ ብዬ",
+      "ልቤን ጣልኩት",
+      "እልፍ እልፍ"
+    ]
+  },
+  {
+    "title": "አልፈራም",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin1.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ልቤን ጣልኩት",
+      "አባት አለኝ",
+      "ትዝ ይለኛል",
+      "አልፈራም"
+    ]
+  },
+  {
+    "title": "ተሻገር ያለው",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin5.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ተሻገር ያለው",
+      "እልፍ እልፍ",
+      "እግዚአብሄር ለእኔ",
+      "ልቤን ጣልኩት"
+    ]
+  },
+  {
+    "title": "አንተ የእኔ",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin7.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አልፈራም",
+      "ኧረ ስንቱ ታለፈ",
+      "ትዝ ይለኛል",
+      "አንተ የእኔ"
+    ]
+  },
+  {
+    "title": "ልቤን ጣልኩት",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin2.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "በህይወቴ ዘመን",
+      "ትዝ ይለኛል",
+      "አባት አለኝ",
+      "ልቤን ጣልኩት"
+    ]
+  },
+  {
+    "title": "ተባረክ ብዬ",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin10.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አልፈራም",
+      "ልቤን ጣልኩት",
+      "ተባረክ ብዬ",
+      "ውበትህ ከሰው ልጆች"
+    ]
+  },
+  {
+    "title": "ውበትህ ከሰው ልጆች",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin4.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ውበትህ ከሰው ልጆች",
+      "እግዚአብሄር ለእኔ",
+      "ትዝ ይለኛል",
+      "ኧረ ስንቱ ታለፈ"
+    ]
+  },
+  {
+    "title": "ትዝ ይለኛል",
+    "album": "ተሻገር ያለው",
+    "albumCover": "https://i.ytimg.com/vi/93Ety-Bxe_A/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Mesfin8.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አባት አለኝ",
+      "ተባረክ ብዬ",
+      "ትዝ ይለኛል",
+      "አንተ የእኔ"
+    ]
+  }
+]

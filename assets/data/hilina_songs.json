@@ -1,0 +1,184 @@
+[
+  {
+    "title": "እልልታ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina1.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "እንግዳዬ",
+      "መንገዴ ነህ",
+      "እልልታ",
+      "መሰውያዬ"
+    ]
+  },
+  {
+    "title": "እንግዳዬ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina7.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አልለምደውም",
+      "ፍለጋ",
+      "እንግዳዬ",
+      "ልኑርልህ"
+    ]
+  },
+  {
+    "title": "እግዚአብሔር አለቴ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina6.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "መንገዴ ነህ",
+      "መገኘትህ",
+      "እግዚአብሔር አለቴ",
+      "ፍለጋ"
+    ]
+  },
+  {
+    "title": "መንገዴ ነህ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina4.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ልኑርልህ",
+      "መንገዴ ነህ",
+      "ፍለጋ",
+      "እንግዳዬ"
+    ]
+  },
+  {
+    "title": "መሰውያዬ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina2.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "መሰውያዬ",
+      "በረከቴ",
+      "ስለምወድህ",
+      "ፍለጋ"
+    ]
+  },
+  {
+    "title": "ጣልቃ ሲገባ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina11.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ጣልቃ ሲገባ",
+      "መሰውያዬ",
+      "እንግዳዬ",
+      "አልለምደውም"
+    ]
+  },
+  {
+    "title": "ስለምወድህ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina12.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "መንገዴ ነህ",
+      "ስለምወድህ",
+      "በረከቴ",
+      "ፍለጋ"
+    ]
+  },
+  {
+    "title": "መገኘትህ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina9.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ጣልቃ ሲገባ",
+      "መገኘትህ",
+      "እልልታ",
+      "ልኑርልህ"
+    ]
+  },
+  {
+    "title": "አልለምደውም",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina8.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አልለምደውም",
+      "እንግዳዬ",
+      "ስለምወድህ",
+      "መንገዴ ነህ"
+    ]
+  },
+  {
+    "title": "ፍለጋ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina5.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ፀሎቴ",
+      "እልልታ",
+      "መንገዴ ነህ",
+      "ፍለጋ"
+    ]
+  },
+  {
+    "title": "በረከቴ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina10.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "እግዚአብሔር አለቴ",
+      "መገኘትህ",
+      "በረከቴ",
+      "እልልታ"
+    ]
+  },
+  {
+    "title": "ፀሎቴ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina13.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "መንገዴ ነህ",
+      "መገኘትህ",
+      "ፀሎቴ",
+      "ጣልቃ ሲገባ"
+    ]
+  },
+  {
+    "title": "ልኑርልህ",
+    "album": "ልኑርልህ",
+    "albumCover": "https://i.ytimg.com/vi/uUHJPaX6kQ0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hillina3.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "እንግዳዬ",
+      "እግዚአብሔር አለቴ",
+      "ልኑርልህ",
+      "እልልታ"
+    ]
+  }
+]

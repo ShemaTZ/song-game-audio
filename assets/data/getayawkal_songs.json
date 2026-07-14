@@ -1,0 +1,254 @@
+[
+  {
+    "title": "አድርገህልኛል",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ቀንዴ ከፍ ከፍ አለ",
+      "ሰንሰለቴን",
+      "በክብር በግርማ",
+      "አድርገህልኛል"
+    ]
+  },
+  {
+    "title": "በክብር በግርማ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሰንሰለቴን",
+      "አድርገህልኛል",
+      "በክብር በግርማ",
+      "ቀንዴ ከፍ ከፍ አለ"
+    ]
+  },
+  {
+    "title": "ቀንዴ ከፍ ከፍ አለ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሰንሰለቴን",
+      "ከእኔ የምትፈልገው",
+      "እውነትን ማን ይንገረኝ",
+      "ቀንዴ ከፍ ከፍ አለ"
+    ]
+  },
+  {
+    "title": "አይኖቼን ወደ ተራሮች አነሳው",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይኖቼን ወደ ተራሮች አነሳው",
+      "ሰንሰለቴን",
+      "በእኔ ላይ",
+      "ቀንዴ ከፍ ከፍ አለ"
+    ]
+  },
+  {
+    "title": "ይሙላባቹ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሰንሰለቴን",
+      "እውነትን ማን ይንገረኝ",
+      "ይሙላባቹ",
+      "በእኔ ላይ"
+    ]
+  },
+  {
+    "title": "በእኔ ላይ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይኖቼን ወደ ተራሮች አነሳው",
+      "በእኔ ላይ",
+      "ሰንሰለቴን",
+      "ከእኔ የምትፈልገው"
+    ]
+  },
+  {
+    "title": "ሰንሰለቴን",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በእኔ ላይ",
+      "አይኖቼን ወደ ተራሮች አነሳው",
+      "በክብር በግርማ",
+      "ሰንሰለቴን"
+    ]
+  },
+  {
+    "title": "እውነትን ማን ይንገረኝ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በክብር በግርማ",
+      "ቀንዴ ከፍ ከፍ አለ",
+      "ይሙላባቹ",
+      "እውነትን ማን ይንገረኝ"
+    ]
+  },
+  {
+    "title": "ከእኔ የምትፈልገው",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በእኔ ላይ",
+      "ሰንሰለቴን",
+      "ከእኔ የምትፈልገው",
+      "ቀንዴ ከፍ ከፍ አለ"
+    ]
+  },
+  {
+    "title": "አይኖቼን ወደ ተራሮች አነሳው",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በእኔ ላይ",
+      "ቀንዴ ከፍ ከፍ አለ",
+      "አይኖቼን ወደ ተራሮች አነሳው",
+      "እውነትን ማን ይንገረኝ"
+    ]
+  },
+  {
+    "title": "በክብር በግርማ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በክብር በግርማ",
+      "ከእኔ የምትፈልገው",
+      "እውነትን ማን ይንገረኝ",
+      "ሰንሰለቴን"
+    ]
+  },
+  {
+    "title": "ይሙላባቹ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በክብር በግርማ",
+      "ቀንዴ ከፍ ከፍ አለ",
+      "ይሙላባቹ",
+      "ከእኔ የምትፈልገው"
+    ]
+  },
+  {
+    "title": "አድርገህልኛል",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አድርገህልኛል",
+      "አይኖቼን ወደ ተራሮች አነሳው",
+      "ይሙላባቹ",
+      "እውነትን ማን ይንገረኝ"
+    ]
+  },
+  {
+    "title": "እውነትን ማን ይንገረኝ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በእኔ ላይ",
+      "እውነትን ማን ይንገረኝ",
+      "ይሙላባቹ",
+      "አድርገህልኛል"
+    ]
+  },
+  {
+    "title": "ከእኔ የምትፈልገው",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይኖቼን ወደ ተራሮች አነሳው",
+      "በክብር በግርማ",
+      "ከእኔ የምትፈልገው",
+      "እውነትን ማን ይንገረኝ"
+    ]
+  },
+  {
+    "title": "ሰንሰለቴን",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ቀንዴ ከፍ ከፍ አለ",
+      "ሰንሰለቴን",
+      "አድርገህልኛል",
+      "እውነትን ማን ይንገረኝ"
+    ]
+  },
+  {
+    "title": "በእኔ ላይ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሰንሰለቴን",
+      "በክብር በግርማ",
+      "ይሙላባቹ",
+      "በእኔ ላይ"
+    ]
+  },
+  {
+    "title": "ቀንዴ ከፍ ከፍ አለ",
+    "album": "አድርገህልኛል",
+    "albumCover": "https://i.ytimg.com/vi/grT2iVPCPXU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/getayawkal/Getayawkal8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በክብር በግርማ",
+      "አድርገህልኛል",
+      "አይኖቼን ወደ ተራሮች አነሳው",
+      "ቀንዴ ከፍ ከፍ አለ"
+    ]
+  }
+]

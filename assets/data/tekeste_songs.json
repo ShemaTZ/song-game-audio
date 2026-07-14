@@ -1,0 +1,198 @@
+[
+  {
+    "title": "አዲስ ነህ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-14.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "እየሱስ",
+      "እንደገና",
+      "ይታወቅልኝ",
+      "አዲስ ነህ"
+    ]
+  },
+  {
+    "title": "ሰው ከንቱ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-9.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ልቤ ጸና",
+      "እየሱስ",
+      "ሰው ከንቱ",
+      "አጠገቤ ነህ"
+    ]
+  },
+  {
+    "title": "እየሱስ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-10.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ይታወቅልኝ",
+      "እየሱስ",
+      "ሰው ከንቱ",
+      "እንደገና"
+    ]
+  },
+  {
+    "title": "አጠገቤ ነህ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-6.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ልቤ ጸና",
+      "ይታወቅልኝ",
+      "እንደገና",
+      "አጠገቤ ነህ"
+    ]
+  },
+  {
+    "title": "ሰማይን የሰራ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-11.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ሰማይን የሰራ",
+      "ደግ ነህ",
+      "በል ደህና ውጣ",
+      "አጠገቤ ነህ"
+    ]
+  },
+  {
+    "title": "ደግ ነህ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-4.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "አጠገቤ ነህ",
+      "ጎዳና ላይ",
+      "ደግ ነህ",
+      "ልቤ ጸና"
+    ]
+  },
+  {
+    "title": "ማን ያንከባለው",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-12.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ማን ያንከባለው",
+      "ሰማይን የሰራ",
+      "ልቤ ጸና",
+      "አማን አይደለ ወይ"
+    ]
+  },
+  {
+    "title": "እንደገና",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-5.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ሰው ከንቱ",
+      "በተዘጋ ቤት",
+      "እንደገና",
+      "ደግ ነህ"
+    ]
+  },
+  {
+    "title": "ልቤ ጸና",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-1.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ይታወቅልኝ",
+      "አማን አይደለ ወይ",
+      "ልቤ ጸና",
+      "በተዘጋ ቤት"
+    ]
+  },
+  {
+    "title": "በተዘጋ ቤት",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-3.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "እንደገና",
+      "በተዘጋ ቤት",
+      "ማን ያንከባለው",
+      "ጎዳና ላይ"
+    ]
+  },
+  {
+    "title": "ጎዳና ላይ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-13.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "አጠገቤ ነህ",
+      "ጎዳና ላይ",
+      "አዲስ ነህ",
+      "ደግ ነህ"
+    ]
+  },
+  {
+    "title": "ይታወቅልኝ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-8.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "አጠገቤ ነህ",
+      "አዲስ ነህ",
+      "ይታወቅልኝ",
+      "ልቤ ጸና"
+    ]
+  },
+  {
+    "title": "በል ደህና ውጣ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-2.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ሰማይን የሰራ",
+      "አማን አይደለ ወይ",
+      "በል ደህና ውጣ",
+      "ማን ያንከባለው"
+    ]
+  },
+  {
+    "title": "አማን አይደለ ወይ",
+    "album": "ደግ ነህ",
+    "albumCover": "https://i.ytimg.com/vi/AjjkfkXh7d4/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tekeste2-7.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "በተዘጋ ቤት",
+      "ይታወቅልኝ",
+      "ሰማይን የሰራ",
+      "አማን አይደለ ወይ"
+    ]
+  }
+]

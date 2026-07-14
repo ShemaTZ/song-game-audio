@@ -1,0 +1,145 @@
+[
+  {
+    "id": "song1",
+    "title": "ማንም የለኝ | Track 1",
+    "artist": "Halwot Band",
+    "duration": "13:13",
+    "youtubeUrl": "https://www.youtube.com/watch?v=DeI8VSwMkiA",
+    "artistImage": "https://i.ytimg.com/vi/DeI8VSwMkiA/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/DeI8VSwMkiA/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song2",
+    "title": "ኢየሱስ | Track 2",
+    "artist": "Halwot Band",
+    "duration": "4:45",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dMgivvPis8A",
+    "artistImage": "https://i.ytimg.com/vi/dMgivvPis8A/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/dMgivvPis8A/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song3",
+    "title": "መንግስተ ሰማይ | Track 3",
+    "artist": "Halwot Band",
+    "duration": "8:10",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9JiuY1KiFTY",
+    "artistImage": "https://i.ytimg.com/vi/9JiuY1KiFTY/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/9JiuY1KiFTY/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song4",
+    "title": "አንተን ብቻ ሳስብ | Track 4",
+    "artist": "Halwot Band",
+    "duration": "7:12",
+    "youtubeUrl": "https://www.youtube.com/watch?v=t8r_ldI2DJk",
+    "artistImage": "https://i.ytimg.com/vi/t8r_ldI2DJk/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/t8r_ldI2DJk/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song5",
+    "title": "እወድሃለው | Track 5",
+    "artist": "Halwot Band",
+    "duration": "7:29",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YQjFJlA5L34",
+    "artistImage": "https://i.ytimg.com/vi/YQjFJlA5L34/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/YQjFJlA5L34/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song6",
+    "title": "ኢየሱስ ወዳጄ | Track 6",
+    "artist": "Halwot Band",
+    "duration": "7:41",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TvUSo8T0Ftw",
+    "artistImage": "https://i.ytimg.com/vi/TvUSo8T0Ftw/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/TvUSo8T0Ftw/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song7",
+    "title": "ታሪኬ የጀመረው | Track 7",
+    "artist": "Halwot Band",
+    "duration": "6:17",
+    "youtubeUrl": "https://www.youtube.com/watch?v=A2bxJdzbg0s",
+    "artistImage": "https://i.ytimg.com/vi/A2bxJdzbg0s/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/A2bxJdzbg0s/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song8",
+    "title": "ፍቅር ኢየሱስ | Track 8",
+    "artist": "Halwot Band",
+    "duration": "9:25",
+    "youtubeUrl": "https://www.youtube.com/watch?v=I8cvgRJ3TcM",
+    "artistImage": "https://i.ytimg.com/vi/I8cvgRJ3TcM/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/I8cvgRJ3TcM/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song9",
+    "title": "ቃልህን እወድሃለው | Track 9",
+    "artist": "Halwot Band",
+    "duration": "10:23",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0mnWa0WLh-4",
+    "artistImage": "https://i.ytimg.com/vi/0mnWa0WLh-4/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/0mnWa0WLh-4/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+  {
+    "id": "song10",
+    "title": "የኢየሱስ ደም | Track 10",
+    "artist": "Halwot Band",
+    "duration": "12:19",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3a7dpnYkH7M",
+    "artistImage": "https://i.ytimg.com/vi/3a7dpnYkH7M/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/3a7dpnYkH7M/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  },
+   {
+    "id": "song11",
+    "title": "ክብርህን ላውራ | Track 11",
+    "artist": "Halwot Band",
+    "duration": "6:34",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XccgBaU6fT8",
+    "artistImage": "https://i.ytimg.com/vi/XccgBaU6fT8/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/XccgBaU6fT8/maxresdefault.jpg",
+    "lyrics": [
+      {"text": "[Verse 1]", "time": 0},
+      {"text": "Lyric line 1", "time": 15}
+    ]
+  }
+]

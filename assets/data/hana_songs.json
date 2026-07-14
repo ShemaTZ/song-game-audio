@@ -1,0 +1,198 @@
+[
+  {
+    "title": "በታሪክህ",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna12.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እግዚአብሄር ይመስገን",
+      "እረኛ",
+      "በታሪክህ",
+      "ግታው ሰበቤን"
+    ]
+  },
+  {
+    "title": "ግታው ሰበቤን",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እውነትና እውነት",
+      "ካህን",
+      "ግታው ሰበቤን",
+      "ፍለጋ"
+    ]
+  },
+  {
+    "title": "ብቻ ልቤን",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna11.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ካህን",
+      "የታደልን",
+      "ሽኩር",
+      "ብቻ ልቤን"
+    ]
+  },
+  {
+    "title": "የታደልን",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna13.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "በሩን ክፈቱ",
+      "የታደልን",
+      "በታሪክህ",
+      "ተናገር"
+    ]
+  },
+  {
+    "title": "ካህን",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሽኩር",
+      "ረግቻለሁ",
+      "እውነትና እውነት",
+      "ካህን"
+    ]
+  },
+  {
+    "title": "ሃብተሠማይ",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እረኛ",
+      "ብቻ ልቤን",
+      "ሃብተሠማይ",
+      "በታሪክህ"
+    ]
+  },
+  {
+    "title": "ፍለጋ",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna15.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሁሉን በስርህ",
+      "ሩጫው",
+      "ፍለጋ",
+      "ረግቻለሁ"
+    ]
+  },
+  {
+    "title": "ረግቻለሁ",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እረኛ",
+      "ረግቻለሁ",
+      "ተናገር",
+      "በሩን ክፈቱ"
+    ]
+  },
+  {
+    "title": "በሩን ክፈቱ",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna9.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "በታሪክህ",
+      "ሁሉን በስርህ",
+      "በሩን ክፈቱ",
+      "ሽኩር"
+    ]
+  },
+  {
+    "title": "ሽኩር",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna16.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ብቻ ልቤን",
+      "ተናገር",
+      "ፍለጋ",
+      "ሽኩር"
+    ]
+  },
+  {
+    "title": "እረኛ",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሁሉን በስርህ",
+      "ፍለጋ",
+      "ረግቻለሁ",
+      "እረኛ"
+    ]
+  },
+  {
+    "title": "ተናገር",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna14.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሁሉን በስርህ",
+      "ተናገር",
+      "እውነትና እውነት",
+      "ሃብተሠማይ"
+    ]
+  },
+  {
+    "title": "እውነትና እውነት",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna10.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እውነትና እውነት",
+      "ሁሉን በስርህ",
+      "የታደልን",
+      "ግታው ሰበቤን"
+    ]
+  },
+  {
+    "title": "ሩጫው",
+    "album": "ሃብተሠማይ",
+    "albumCover": "https://i.ytimg.com/vi/D9jxRr6eZvY/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Hanna5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ብቻ ልቤን",
+      "ሩጫው",
+      "ሁሉን በስርህ",
+      "የታደልን"
+    ]
+  }
+]

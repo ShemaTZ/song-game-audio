@@ -1,0 +1,282 @@
+[
+  {
+    "title": "ከቶ ትላንቴን",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከቶ ትላንቴን",
+      "ባንተ",
+      "ሙሉ ሰው",
+      "ድምፅ ይሰማል"
+    ]
+  },
+  {
+    "title": "ካንተ ጋራ",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ካንተ ጋራ",
+      "ቸርነት",
+      "ድምፅ ይሰማል",
+      "ሙሉ ሰው"
+    ]
+  },
+  {
+    "title": "መጀመሪያዬ ነው",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መጀመሪያዬ ነው",
+      "ሙሉ ሰው",
+      "እግዚአብሔር ፃድቅ",
+      "ከቶ ትላንቴን"
+    ]
+  },
+  {
+    "title": "መንግስት",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ባንተ",
+      "ሙሉ ሰው",
+      "መንግስት",
+      "ሰው ታረገኛለህ"
+    ]
+  },
+  {
+    "title": "እግዚአብሔር ፃድቅ",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ባንተ",
+      "ካንተ ጋራ",
+      "መጀመሪያዬ ነው",
+      "እግዚአብሔር ፃድቅ"
+    ]
+  },
+  {
+    "title": "ባንተ",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መጀመሪያዬ ነው",
+      "ድምፅ ይሰማል",
+      "ሰው ታረገኛለህ",
+      "ባንተ"
+    ]
+  },
+  {
+    "title": "ድምፅ ይሰማል",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ድምፅ ይሰማል",
+      "ከቶ ትላንቴን",
+      "ካንተ ጋራ",
+      "ቸርነት"
+    ]
+  },
+  {
+    "title": "ሰው ታረገኛለህ",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መንግስት",
+      "ሰው ታረገኛለህ",
+      "እግዚአብሔር ፃድቅ",
+      "ካንተ ጋራ"
+    ]
+  },
+  {
+    "title": "ሙሉ ሰው",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እግዚአብሔር ፃድቅ",
+      "ከቶ ትላንቴን",
+      "ሙሉ ሰው",
+      "ባንተ"
+    ]
+  },
+  {
+    "title": "ቸርነት",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሙሉ ሰው",
+      "ካንተ ጋራ",
+      "ቸርነት",
+      "መንግስት"
+    ]
+  },
+  {
+    "title": "ቸርነት",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እግዚአብሔር ፃድቅ",
+      "ሙሉ ሰው",
+      "ከቶ ትላንቴን",
+      "ቸርነት"
+    ]
+  },
+  {
+    "title": "ሰው ታረገኛለህ",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ከቶ ትላንቴን",
+      "ሰው ታረገኛለህ",
+      "ቸርነት",
+      "ካንተ ጋራ"
+    ]
+  },
+  {
+    "title": "እግዚአብሔር ፃድቅ",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መንግስት",
+      "ድምፅ ይሰማል",
+      "እግዚአብሔር ፃድቅ",
+      "መጀመሪያዬ ነው"
+    ]
+  },
+  {
+    "title": "ባንተ",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ባንተ",
+      "መጀመሪያዬ ነው",
+      "መንግስት",
+      "ሰው ታረገኛለህ"
+    ]
+  },
+  {
+    "title": "ከቶ ትላንቴን",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ቸርነት",
+      "ሙሉ ሰው",
+      "ካንተ ጋራ",
+      "ከቶ ትላንቴን"
+    ]
+  },
+  {
+    "title": "መጀመሪያዬ ነው",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሙሉ ሰው",
+      "እግዚአብሔር ፃድቅ",
+      "መጀመሪያዬ ነው",
+      "ድምፅ ይሰማል"
+    ]
+  },
+  {
+    "title": "መንግስት",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሙሉ ሰው",
+      "መንግስት",
+      "መጀመሪያዬ ነው",
+      "ባንተ"
+    ]
+  },
+  {
+    "title": "ሙሉ ሰው",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሙሉ ሰው",
+      "ድምፅ ይሰማል",
+      "መጀመሪያዬ ነው",
+      "መንግስት"
+    ]
+  },
+  {
+    "title": "ድምፅ ይሰማል",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ቸርነት",
+      "ባንተ",
+      "ድምፅ ይሰማል",
+      "ሙሉ ሰው"
+    ]
+  },
+  {
+    "title": "ካንተ ጋራ",
+    "album": "ሙሉ ቤት",
+    "albumCover": "https://i.ytimg.com/vi/onWpviYEQgQ/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/gosquala/Gosquala7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ካንተ ጋራ",
+      "እግዚአብሔር ፃድቅ",
+      "መንግስት",
+      "ሙሉ ሰው"
+    ]
+  }
+]

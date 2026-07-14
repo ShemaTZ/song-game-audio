@@ -1,0 +1,114 @@
+[
+  {
+    "title": "አጸደቀን",
+    "album": "ጉዞ",
+    "albumCover": "https://i.ytimg.com/vi/GQxMitBTo9c/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kingdom2.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ቅዱስ ነህ",
+      "አምላክ አለኝ",
+      "ፍቅር",
+      "አጸደቀን"
+    ]
+  },
+  {
+    "title": "ቅዱስ ነህ",
+    "album": "ጉዞ",
+    "albumCover": "https://i.ytimg.com/vi/GQxMitBTo9c/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kingdom7.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ቅዱስ ነህ",
+      "አምላክ አለኝ",
+      "ፍቅር",
+      "ሃሌሉያ"
+    ]
+  },
+  {
+    "title": "ጉዞ",
+    "album": "ጉዞ",
+    "albumCover": "https://i.ytimg.com/vi/GQxMitBTo9c/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kingdom6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አጸደቀን",
+      "ጉዞ",
+      "ፍቅር",
+      "ቅዱስ ነህ"
+    ]
+  },
+  {
+    "title": "ሃሌሉያ",
+    "album": "ጉዞ",
+    "albumCover": "https://i.ytimg.com/vi/GQxMitBTo9c/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kingdom3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ክብሩን ሳየው",
+      "ሃሌሉያ",
+      "ትገዛልህ ነፍሴ",
+      "ፍቅር"
+    ]
+  },
+  {
+    "title": "ክብሩን ሳየው",
+    "album": "ጉዞ",
+    "albumCover": "https://i.ytimg.com/vi/GQxMitBTo9c/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kingdom1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሃሌሉያ",
+      "ፍቅር",
+      "ጉዞ",
+      "ክብሩን ሳየው"
+    ]
+  },
+  {
+    "title": "ፍቅር",
+    "album": "ጉዞ",
+    "albumCover": "https://i.ytimg.com/vi/GQxMitBTo9c/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kingdom5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ትገዛልህ ነፍሴ",
+      "ፍቅር",
+      "ቅዱስ ነህ",
+      "ክብሩን ሳየው"
+    ]
+  },
+  {
+    "title": "ትገዛልህ ነፍሴ",
+    "album": "ጉዞ",
+    "albumCover": "https://i.ytimg.com/vi/GQxMitBTo9c/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kingdom4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሃሌሉያ",
+      "አምላክ አለኝ",
+      "ጉዞ",
+      "ትገዛልህ ነፍሴ"
+    ]
+  },
+  {
+    "title": "አምላክ አለኝ",
+    "album": "ጉዞ",
+    "albumCover": "https://i.ytimg.com/vi/GQxMitBTo9c/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kingdom8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሃሌሉያ",
+      "አምላክ አለኝ",
+      "ፍቅር",
+      "ክብሩን ሳየው"
+    ]
+  }
+]

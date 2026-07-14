@@ -1,0 +1,64 @@
+[
+  {
+    "id": "song1",
+    "title": "Eyemarkegn",
+    "artist": "Kaleab Mengistu @ Kingdom Sound Worship Night 2024",
+    "duration": "19:26",
+    "youtubeUrl": "https://www.youtube.com/watch?v=zKDs9ifFy1o",
+    "artistImage": "https://i.ytimg.com/vi/zKDs9ifFy1o/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/zKDs9ifFy1o/maxresdefault.jpg"
+  },
+  {
+    "id": "song2",
+    "title": "Worship at Halwot Emmanuel United Church የአንደኛ አመት የቤተክርስቲያኑ ምስረታ ልዩ የምስጋና ጊዜ",
+    "artist": "Halwot Choir",
+    "duration": "14:56",
+    "youtubeUrl": "https://www.youtube.com/watch?v=rqDW_A5n3ZY",
+    "artistImage": "https://i.ytimg.com/vi/rqDW_A5n3ZY/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/rqDW_A5n3ZY/maxresdefault.jpg"
+  },
+  {
+    "id": "dr-2",
+    "title": "ከለላዬ(Kelelaye)",
+    "artist": "Dinkayehu Tesfaye Kinea worship team",
+    "duration": "10:33",
+    "artistImage": "https://i.ytimg.com/vi/wcIb32H6q2c/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wcIb32H6q2c"
+  },
+  {
+    "id": "song3",
+    "title": "ብቻውን የሆነውን ሰው",
+    "artist": "ቀሲስ አሸናፊ",
+    "duration": "8:43",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5BT0hYCCi9c",
+    "artistImage": "https://i.ytimg.com/vi/5BT0hYCCi9c/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5BT0hYCCi9c/maxresdefault.jpg"
+  },
+  {
+    "id": "song4",
+    "title": "ዘምር ዘምር አለኝ",
+    "artist": "ቀሲስ አሸናፊ",
+    "duration": "7:52",
+    "youtubeUrl": "https://www.youtube.com/watch?v=765rLI52jHM",
+    "artistImage": "https://i.ytimg.com/vi/765rLI52jHM/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/765rLI52jHM/maxresdefault.jpg"
+  },
+  {
+    "id": "song5",
+    "title": "አንተን የታመነ",
+    "artist": "የ6 ኪሎ ጉባኤ እግዚአብሔር መዘምራን ህብረት",
+    "duration": "9:32",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EDP3_jUfi4Y",
+    "artistImage": "https://i.ytimg.com/vi/EDP3_jUfi4Y/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EDP3_jUfi4Y/maxresdefault.jpg"
+  },
+  {
+    "id": "song6",
+    "title": "ተመስገን",
+    "artist": "Hana Tekle",
+    "duration": "10:11",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tDTje14CLvA",
+    "artistImage": "https://i.ytimg.com/vi/tDTje14CLvA/maxresdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/tDTje14CLvA/maxresdefault.jpg"
+  }
+]

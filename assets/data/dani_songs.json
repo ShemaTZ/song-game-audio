@@ -1,0 +1,184 @@
+[
+  {
+    "title": "የእኔ ዳኛ",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel11.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "የእኔ ዳኛ",
+      "በደስታ",
+      "ከየት እንዳነሳኝ",
+      "አልፌዋለሁ"
+    ]
+  },
+  {
+    "title": "ሰማያዊ ፍቅር",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel6.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ሰላም ይሰማኛል",
+      "የሚረዳልኝ",
+      "ሰማያዊ ፍቅር",
+      "የእኔ ዳኛ"
+    ]
+  },
+  {
+    "title": "አልፌዋለሁ",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel7.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ያንተ መልካምነት",
+      "ሰማያዊ ፍቅር",
+      "አልፌዋለሁ",
+      "ማስረጃው"
+    ]
+  },
+  {
+    "title": "ያንተ መልካምነት",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel13.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ከየት እንዳነሳኝ",
+      "የእኔ ዳኛ",
+      "ያንተ መልካምነት",
+      "አልፌዋለሁ"
+    ]
+  },
+  {
+    "title": "ከየት እንዳነሳኝ",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel3.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ከየት እንዳነሳኝ",
+      "የእኔ ዳኛ",
+      "ልቤ ተቀይሮ",
+      "ልዘምር"
+    ]
+  },
+  {
+    "title": "ልቤ ተቀይሮ",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel4.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "የሚረዳልኝ",
+      "ሰማያዊ ፍቅር",
+      "ልቤ ተቀይሮ",
+      "አልፌዋለሁ"
+    ]
+  },
+  {
+    "title": "ማስረጃው",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel8.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ማስረጃው",
+      "ያንተ መልካምነት",
+      "መንፈሱ መጣ",
+      "የሚረዳልኝ"
+    ]
+  },
+  {
+    "title": "ልዘምር",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel1.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አልፌዋለሁ",
+      "ልዘምር",
+      "ማስረጃው",
+      "ሰማያዊ ፍቅር"
+    ]
+  },
+  {
+    "title": "በደስታ",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel10.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "አልፌዋለሁ",
+      "ሰላም ይሰማኛል",
+      "ከየት እንዳነሳኝ",
+      "በደስታ"
+    ]
+  },
+  {
+    "title": "ማምለጫ",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel5.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ማስረጃው",
+      "ማምለጫ",
+      "የእኔ ዳኛ",
+      "ልቤ ተቀይሮ"
+    ]
+  },
+  {
+    "title": "መንፈሱ መጣ",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel12.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ያንተ መልካምነት",
+      "የእኔ ዳኛ",
+      "መንፈሱ መጣ",
+      "ልዘምር"
+    ]
+  },
+  {
+    "title": "የሚረዳልኝ",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel9.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "የሚረዳልኝ",
+      "ማምለጫ",
+      "ያንተ መልካምነት",
+      "አልፌዋለሁ"
+    ]
+  },
+  {
+    "title": "ሰላም ይሰማኛል",
+    "album": "ልዘምር",
+    "albumCover": "https://i.ytimg.com/vi/plycKACf97I/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Daniel2.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ልቤ ተቀይሮ",
+      "የእኔ ዳኛ",
+      "ሰላም ይሰማኛል",
+      "አልፌዋለሁ"
+    ]
+  }
+]

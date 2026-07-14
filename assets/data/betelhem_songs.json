@@ -1,0 +1,310 @@
+[
+  {
+    "title": "በከፍታ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ግዛኝ",
+      "በከፍታ",
+      "ቸር ነህ",
+      "አዳኝ ነህ"
+    ]
+  },
+  {
+    "title": "መኖሪያዬ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ባለውለታዬ",
+      "መኖሪያዬ",
+      "ስላንተማ",
+      "ግዛኝ"
+    ]
+  },
+  {
+    "title": "ጌታ ላመስግንህ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ቸር ነህ",
+      "ጌታ ላመስግንህ",
+      "በከፍታ",
+      "ባለውለታዬ"
+    ]
+  },
+  {
+    "title": "አዳኝ ነህ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አዳኝ ነህ",
+      "ጌታ ላመስግንህ",
+      "ብቻህን ታምራትን",
+      "ስላንተማ"
+    ]
+  },
+  {
+    "title": "ስላንተማ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አዳኝ ነህ",
+      "ስላንተማ",
+      "ቸር ነህ",
+      "ዓይን ከማየት"
+    ]
+  },
+  {
+    "title": "ብቻህን ታምራትን",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አዳኝ ነህ",
+      "ዓይን ከማየት",
+      "ግዛኝ",
+      "ብቻህን ታምራትን"
+    ]
+  },
+  {
+    "title": "ባለውለታዬ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ብሩክ ምንጭ",
+      "መኖሪያዬ",
+      "ባለውለታዬ",
+      "ቸር ነህ"
+    ]
+  },
+  {
+    "title": "ብሩክ ምንጭ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጌታ ላመስግንህ",
+      "ባለውለታዬ",
+      "መኖሪያዬ",
+      "ብሩክ ምንጭ"
+    ]
+  },
+  {
+    "title": "ዓይን ከማየት",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ዓይን ከማየት",
+      "ቸር ነህ",
+      "ስላንተማ",
+      "ግዛኝ"
+    ]
+  },
+  {
+    "title": "ቸር ነህ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አዳኝ ነህ",
+      "ግዛኝ",
+      "ቸር ነህ",
+      "ጌታ ላመስግንህ"
+    ]
+  },
+  {
+    "title": "ግዛኝ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ግዛኝ",
+      "ቸር ነህ",
+      "አዳኝ ነህ",
+      "ዓይን ከማየት"
+    ]
+  },
+  {
+    "title": "ጌታ ላመስግንህ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጌታ ላመስግንህ",
+      "ብቻህን ታምራትን",
+      "ብሩክ ምንጭ",
+      "መኖሪያዬ"
+    ]
+  },
+  {
+    "title": "ብሩክ ምንጭ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ቸር ነህ",
+      "ጌታ ላመስግንህ",
+      "ባለውለታዬ",
+      "ብሩክ ምንጭ"
+    ]
+  },
+  {
+    "title": "አዳኝ ነህ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አዳኝ ነህ",
+      "ብቻህን ታምራትን",
+      "ዓይን ከማየት",
+      "ቸር ነህ"
+    ]
+  },
+  {
+    "title": "ግዛኝ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በከፍታ",
+      "ስላንተማ",
+      "ግዛኝ",
+      "ብቻህን ታምራትን"
+    ]
+  },
+  {
+    "title": "በከፍታ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "በከፍታ",
+      "ዓይን ከማየት",
+      "ጌታ ላመስግንህ",
+      "ብሩክ ምንጭ"
+    ]
+  },
+  {
+    "title": "ባለውለታዬ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ብሩክ ምንጭ",
+      "ባለውለታዬ",
+      "አዳኝ ነህ",
+      "ቸር ነህ"
+    ]
+  },
+  {
+    "title": "ስላንተማ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ብሩክ ምንጭ",
+      "ስላንተማ",
+      "አዳኝ ነህ",
+      "ዓይን ከማየት"
+    ]
+  },
+  {
+    "title": "መኖሪያዬ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ብሩክ ምንጭ",
+      "ቸር ነህ",
+      "ግዛኝ",
+      "መኖሪያዬ"
+    ]
+  },
+  {
+    "title": "ብቻህን ታምራትን",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ዓይን ከማየት",
+      "አዳኝ ነህ",
+      "ብቻህን ታምራትን",
+      "ቸር ነህ"
+    ]
+  },
+  {
+    "title": "ዓይን ከማየት",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ዓይን ከማየት",
+      "ጌታ ላመስግንህ",
+      "ቸር ነህ",
+      "ብቻህን ታምራትን"
+    ]
+  },
+  {
+    "title": "ቸር ነህ",
+    "album": "ስላንተማ",
+    "albumCover": "https://i.ytimg.com/vi/9g5GBLeGweA/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betelhem/Betelhem2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ዓይን ከማየት",
+      "ስላንተማ",
+      "ቸር ነህ",
+      "በከፍታ"
+    ]
+  }
+]

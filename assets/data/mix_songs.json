@@ -1,0 +1,142 @@
+[
+  {
+    "title": "እዮብ አሊ፡ እጅግ ልቀህ",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q1.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ይድነቃቸው ተካ፡ ቸኮለብኝ",
+      "ተከስተ ጌትነት፡ ያልሰጠኸኝ ምን አለ", 
+      "እዮብ አሊ፡ እጅግ ልቀህ",
+      "ሀና ተክሌ፡ የዘላለም ፈጣሪ"
+    ]
+  },
+  {
+    "title": "ዳንኤል አምደሚካኤል፡ ሲነጋም ሲመሽም",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q2.mp3",
+    "clipStart": 0,
+    "duration": 25,
+    "choices": [
+      "ዳንኤል አምደሚካኤል፡ ሁሉ ባንተ ነው",
+      "ዳንኤል አምደሚካኤል፡ ሲነጋም ሲመሽም", 
+      "ዳንኤል አምደሚካኤል፡ ደስታዬ በጌታ ሙሉ ነው",
+      "ተከስተ ጌትነት፡ አልረሳውም"
+    ]
+  },
+  {
+    "title": "ቃልኪዳን(ሊሊ) ጥላሁን፡ በየት ሃገር ነው እግዚአብሄር",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q3.mp3",
+    "clipStart": 0,
+    "duration": 17,
+    "choices": [
+      "ቃልኪዳን(ሊሊ) ጥላሁን፡ በየት ሃገር ነው እግዚአብሄር",
+      "ሀና ተክሌ፡ አልተረሳሁም", 
+      "አስቴር አበበ፡ ትልቅ የሆነውን",
+      "አውታሮ ከበደ፡ እንደ ንስር"
+    ]
+  },
+  {
+    "title": "ተስፋዬ ጋቢሶ፡ ግሩም አባት ነህ",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q4.mp3",
+    "clipStart": 0,
+    "duration": 28,
+    "choices": [
+      "ፓስተር ሸዋዬ ዳምጤ፡ ኑሮ ከጌታ ከኢየሱስ ጋር",
+      "ታምራት ሃይሌ፡ በድንቅ አጠራርህ", 
+      "ተስፋዬ ጋቢሶ፡ ግሩም አባት ነህ",
+      "ደረጀ ከበደ፡ አሃዱ እላለሁኝ"
+    ]
+  },
+  {
+    "title": "ቃልኪዳን(ሊሊ) ጥላሁን፡ ውሃ ውሃ እንዳይል",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q5.mp3",
+    "clipStart": 0,
+    "duration": 23,
+    "choices": [
+      "ቢንያም አየለ፡ ሰንበትበት አለ",
+      "በረከት ተስፋዬ፡ የደስታዬ እልልታ", 
+      "አዲስአለም አሰፋ፡ ጆሮዬን ልብሳ",
+      "ቃልኪዳን(ሊሊ) ጥላሁን፡ ውሃ ውሃ እንዳይል"
+    ]
+  },
+  {
+    "title": "ቤተልሄም ተዘራ፡ እድሜዬ በቤትህ",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q6.mp3",
+    "clipStart": 0,
+    "duration": 23,
+    "choices": [
+      "አዜብ ሃይሉ፡ ተመስገን",
+      "ቤተልሄም ወልዴ፡ መኖሪያዬ ነህ", 
+      "ቤተልሄም ተዘራ፡ እድሜዬ በቤትህ",
+      "አዲስአለም አሰፋ፡ ጆሮዬን ልብሳ"
+    ]
+    },
+    {
+    "title": "ዮሴፍ አያሌው፡ ስምህ ጋሻዬና ከለላዬ",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/jossy1.mp3",
+    "clipStart": 0,
+    "duration": 27,
+    "choices": [
+      "ተከስተ ጌትነት፡ ሲከፋኝ",
+      "ዮሴፍ አያሌው፡ ስምህ ጋሻዬና ከለላዬ", 
+      "ቤተልሄም ተዘራ፡ እድሜዬ በቤትህ",
+      "ዮሴፍ ካሳ፡ ከኖሩማ"
+    ]
+    },
+    {
+    "title": "ምህረት ኢታፋ፡ ባለግርማ",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/m1.mp3",
+    "clipStart": 0,
+    "duration": 14,
+    "choices": [
+      "መስገረም ጌቱ፡ መንግስተ ሰማይ",
+      "ቤተልሄም ወልዴ፡ በምስጋና ላይ", 
+      "ቤተልሄም ተዘራ፡ እድሜዬ በቤትህ",
+      "ምህረት ኢታፋ፡ ባለግርማ"
+    ]
+    },
+    {
+    "title": "ዳንኤል አምደሚካኤል፡ በምድረ በዳ የሆነኝ ጥላ",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/d1.mp3",
+    "clipStart": 0,
+    "duration": 19,
+    "choices": [
+      "ዳንኤል አምደሚካኤል፡ በምድረ በዳ የሆነኝ ጥላ",
+      "ዳንኤል አምደሚካኤል፡ ደስታዬ", 
+      "ዳንኤል አምደሚካኤል፡ እጅግ ያኮራኛል",
+      "ዳንኤል አምደሚካኤል፡ የጌቶች ጌታ"
+    ]
+    },
+    {
+    "title": "ተከስተ ጌትነት፡ ያስዋውቅብኛል",
+    "album": "Mix",
+    "albumCover": "assets/images/mix_cover.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/t1.mp3",
+    "clipStart": 0,
+    "duration": 40,
+    "choices": [
+      "ዮሴፍ ካሳ፡ ደግሞ ተነሳ",
+      "ተከስተ ጌትነት፡ ያስዋውቅብኛል", 
+      "ተከስተ ጌትነት፡ ዘምር ዘምር አለኝ",
+      "ዳንኤል አምደሚካኤል፡ የጌቶች ጌታ"
+    ]
+    }
+]

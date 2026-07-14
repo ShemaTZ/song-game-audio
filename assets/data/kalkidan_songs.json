@@ -1,0 +1,142 @@
+[
+  {
+    "title": "የበረከት አምላክ",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan4.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "እንደ እግዚአብሔር ያለ",
+      "የበረከት አምላክ",
+      "ክብር እሰጥሃለሁ",
+      "ምንድን ነው ደስ የሚለኝ"
+    ]
+  },
+  {
+    "title": "ስራዬ አንተን ማምለክ ነው",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan3.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "እንደ እግዚአብሔር ያለ",
+      "ስራዬ አንተን ማምለክ ነው",
+      "ክብር እሰጥሃለሁ",
+      "አላገኘሁም ፈልጌ"
+    ]
+  },
+  {
+    "title": "እንደ እግዚአብሔር ያለ",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan10.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ድል ድል ይሸተኛል",
+      "አላገኘሁም ፈልጌ",
+      "እንደ እግዚአብሔር ያለ",
+      "አመንኩህ ስትናገር"
+    ]
+  },
+  {
+    "title": "የልቤ አምላክ",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan7.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ስራዬ አንተን ማምለክ ነው",
+      "አላገኘሁም ፈልጌ",
+      "ድል ድል ይሸተኛል",
+      "የልቤ አምላክ"
+    ]
+  },
+  {
+    "title": "አላገኘሁም ፈልጌ",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan9.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ስራዬ አንተን ማምለክ ነው",
+      "እንደ እግዚአብሔር ያለ",
+      "አላገኘሁም ፈልጌ",
+      "የልቤ አምላክ"
+    ]
+  },
+  {
+    "title": "ምንድን ነው ደስ የሚለኝ",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan2.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ድል ድል ይሸተኛል",
+      "አላገኘሁም ፈልጌ",
+      "ምንድን ነው ደስ የሚለኝ",
+      "ካንተ የሚበልጥ ለኔ ማንም የለም"
+    ]
+  },
+  {
+    "title": "ክብር እሰጥሃለሁ",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan1.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ክብር እሰጥሃለሁ",
+      "የልቤ አምላክ",
+      "አላገኘሁም ፈልጌ",
+      "የበረከት አምላክ"
+    ]
+  },
+  {
+    "title": "አመንኩህ ስትናገር",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan8.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "እንደ እግዚአብሔር ያለ",
+      "አመንኩህ ስትናገር",
+      "የልቤ አምላክ",
+      "አላገኘሁም ፈልጌ"
+    ]
+  },
+  {
+    "title": "ድል ድል ይሸተኛል",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan5.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "የልቤ አምላክ",
+      "ድል ድል ይሸተኛል",
+      "ክብር እሰጥሃለሁ",
+      "ምንድን ነው ደስ የሚለኝ"
+    ]
+  },
+  {
+    "title": "ካንተ የሚበልጥ ለኔ ማንም የለም",
+    "album": "ይታየኛል ብዙ ነገር",
+    "albumCover": "https://i.ytimg.com/vi/zcxIq45CpHU/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Kalkidan6.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ምንድን ነው ደስ የሚለኝ",
+      "የልቤ አምላክ",
+      "ካንተ የሚበልጥ ለኔ ማንም የለም",
+      "ድል ድል ይሸተኛል"
+    ]
+  }
+]

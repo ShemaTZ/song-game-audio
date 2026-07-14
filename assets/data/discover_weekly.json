@@ -1,0 +1,129 @@
+[
+  {
+    "id": "dr-1",
+    "title": "Yastawekebegnal",
+    "artist": "Samuel Zergaw Kingdom Sound",
+    "duration": "14:23",
+    "artistImage": "https://i.ytimg.com/vi/u18sXxyaITc/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=u18sXxyaITc"
+  },
+  {
+    "id": "dr-2",
+    "title": "ከለላዬ(Kelelaye)",
+    "artist": "Dinkayehu Tesfaye Kinea worship team",
+    "duration": "10:33",
+    "artistImage": "https://i.ytimg.com/vi/wcIb32H6q2c/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wcIb32H6q2c"
+  },
+  {
+    "id": "dr-3",
+    "title": "ነገን አልፈራውም",
+    "artist": "Samrawit Caesar",
+    "duration": "6:31",
+    "artistImage": "https://i.ytimg.com/vi/9Ft9WA4A7UU/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9Ft9WA4A7UU"
+  },
+  {
+    "id": "dr-4",
+    "title": "ምስጋና ነው ስራዬ",
+    "artist": "Tiztaw Samuel",
+    "duration": "5:44",
+    "artistImage": "https://i.ytimg.com/vi/bHrwyDIWaQc/hqdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=bHrwyDIWaQc",
+    "lyrics": [
+              {"text": "[INTRO]", "time": 0},
+              {"text": "ምስጋና ነው ስራዬ", "time": 49},
+              {"text": "በዘመኔ በእድሜዬ", "time": 52},
+              {"text": "ለዋለለኝ ውለታ", "time": 56},
+              {"text": "ምን ልክፈለው ለጌታ", "time": 60},
+
+              {"text": "ምስጋና ነው ስራዬ", "time": 63},
+              {"text": "በዘመኔ በእድሜዬ", "time": 67},
+              {"text": "ለዋለለኝ ውለታ", "time": 71},
+              {"text": "ምን ልክፈለው ለጌታ", "time": 74},
+
+              {"text": "[MUSIC]", "time": 78},
+
+              {"text": "ትላንትና ጥልቁ ነበር መኖሪያዬ", "time": 87},
+              {"text": "የማዳኑ ቀኑ ደረሰ የጌታዬ", "time": 93},
+              {"text": "እራቁቴን ሸፍኖልኛል በብርሃኑ", "time": 99},
+              {"text": "ምግቤ ሆኖል ስሙን ማወደስ በየቀኑ", "time": 105},
+
+              {"text": "ምስጋና ነው ስራዬ", "time": 111},
+              {"text": "በዘመኔ በእድሜዬ", "time": 114},
+              {"text": "ለዋለለኝ ውለታ", "time": 118},
+              {"text": "ምን ልክፈለው ለጌታ", "time": 121},
+
+              {"text": "[MUSIC]", "time": 125},
+
+              {"text": "አልተራብኩም አልተጠማውም በዘመኔ", "time": 134},
+              {"text": "ምግበ ስጋ ምግበ ነፍስ ነው ጌታ ለእኔ", "time": 140},
+              {"text": "ተበጥሷል የእሳቱ ገመድ ሰንሰለት", "time": 146},
+              {"text": "አልረሳውም የእርሱን ውለታ ብድራት", "time": 151},
+
+              {"text": "ምስጋና ነው ስራዬ", "time": 157},
+              {"text": "በዘመኔ በእድሜዬ", "time": 161},
+              {"text": "ለዋለለኝ ውለታ", "time": 164.8},
+              {"text": "ምን ልክፈለው ለጌታ", "time": 168},
+
+              {"text": "[MUSIC]", "time": 171},
+
+              {"text": "ማን ያፈቅራል እስከ ሞት ድረስ", "time": 180},
+              {"text": "ዋጋ ከፍሎ ማን ያድናል", "time": 184},
+              {"text": "ባለስልጣኑን ሞትን ገድሎ", "time": 188},
+              {"text": "አማኑኤል በፍቅሩ ጸዳል ምድርን", "time": 192},
+              {"text": "ከድኖ ሰው አድርጎኛል", "time": 196},
+              {"text": "የማይሆኑትን ሁሉ ሆኖ", "time": 200},
+
+              {"text": "ምስጋና ነው ስራዬ", "time": 203},
+              {"text": "በዘመኔ በእድሜዬ", "time": 207},
+              {"text": "ለዋለለኝ ውለታ", "time": 211},
+              {"text": "ምን ልክፈለው ለጌታ", "time": 214},
+
+              {"text": "[MUSIC]", "time": 219},
+
+              {"text": "እንዴት ሆኜ ፍቅሩን ልግለጸው", "time": 227},
+              {"text": "እንዴት ብዬ ስለ እጆቹ", "time": 230},
+              {"text": "በእንባ ጨቀየ መኝታዬ", "time": 234},
+              {"text": "በእርሱ ቁስል ነፍሴ ወጥታለች", "time": 238},
+              {"text": "ከመከራ በዝማሬ ስሙን ማክበር", "time": 242},
+              {"text": "ነው የእኔ ስራ", "time": 246},
+
+              {"text": "ምስጋና ነው ስራዬ", "time": 249},
+              {"text": "በዘመኔ በእድሜዬ", "time": 253},
+              {"text": "ለዋለለኝ ውለታ", "time": 257},
+              {"text": "ምን ልክፈለው ለጌታ", "time": 260},
+
+              {"text": "[MUSIC]", "time": 263},
+
+              {"text": "ማን ያፈቅራል እስከ ሞት ድረስ", "time":  273},
+              {"text": "ዋጋ ከፍሎ ማን ያድናል", "time": 276},
+              {"text": "ባለስልጣኑን ሞትን ገድሎ", "time": 280},
+              {"text": "አማኑኤል በፍቅሩ ጸዳል ምድርን", "time": 284},
+              {"text": "ከድኖ ሰው አድርጎኛል", "time": 288},
+              {"text": "የማይሆኑትን ሁሉ ሆኖ", "time": 292},
+
+              {"text": "ምስጋና ነው ስራዬ", "time": 295},
+              {"text": "በዘመኔ በእድሜዬ", "time": 299},
+              {"text": "ለዋለለኝ ውለታ", "time": 302},
+              {"text": "ምን ልክፈለው ለጌታ", "time": 306},
+
+              {"text": "ምስጋና ነው ስራዬ", "time": 309},
+              {"text": "በዘመኔ በእድሜዬ", "time": 313},
+              {"text": "ለዋለለኝ ውለታ", "time": 317},
+              {"text": "ምን ልክፈለው ለጌታ", "time": 320},
+
+              {"text": "[OUTRO]", "time": 323}
+            ]
+
+  },
+  {
+    "id": "dr-5",
+    "title": "እንደ እኔ የረዳኸው የለም",
+    "artist": "Tiztaw Samuel",
+    "duration": "6:25",
+    "artistImage": "https://i.ytimg.com/vi/AzsiI9fhzVQ/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=AzsiI9fhzVQ"
+  }
+  
+]

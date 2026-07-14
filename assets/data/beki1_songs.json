@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Holy Ghost Fire",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-13.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መዳኛ ነህ",
+      "የደስታዬ እልልታ",
+      "Holy Ghost Fire",
+      "ዘምራላሁ"
+    ]
+  },
+  {
+    "title": "ዘምራላሁ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-9.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መንፈስህ",
+      "Holy Ghost Fire",
+      "ዘምራላሁ",
+      "ጌታን አገኘሁ"
+    ]
+  },
+  {
+    "title": "ስሰማው Sisemaw",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-2.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ታይልኝ",
+      "ስሰማው Sisemaw",
+      "የደስታዬ እልልታ",
+      "የደስታዬ ምንጭ"
+    ]
+  },
+  {
+    "title": "የደስታዬ እልልታ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መዳኛ ነህ",
+      "አቤት ደግነት",
+      "የደስታዬ እልልታ",
+      "ስሰማው Sisemaw"
+    ]
+  },
+  {
+    "title": "አነሱ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-11.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ባለውለታዬ",
+      "ከየት እንደማጣሁ",
+      "አነሱ",
+      "ዘምራላሁ"
+    ]
+  },
+  {
+    "title": "ከየት እንደማጣሁ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-7.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ስሰማው Sisemaw",
+      "ጌታን አገኘሁ",
+      "ታይልኝ",
+      "ከየት እንደማጣሁ"
+    ]
+  },
+  {
+    "title": "አቤት ደግነት",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "Holy Ghost Fire",
+      "ጌታን አገኘሁ",
+      "ስሰማው Sisemaw",
+      "አቤት ደግነት"
+    ]
+  },
+  {
+    "title": "ጌታን አገኘሁ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ዘምራላሁ",
+      "የደስታዬ እልልታ",
+      "ጌታን አገኘሁ",
+      "ታይልኝ"
+    ]
+  },
+  {
+    "title": "መንፈስህ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-10.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "መዳኛ ነህ",
+      "መንፈስህ",
+      "ስሰማው Sisemaw",
+      "ባለውለታዬ"
+    ]
+  },
+  {
+    "title": "ታይልኝ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-12.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ታይልኝ",
+      "አነሱ",
+      "የደስታዬ እልልታ",
+      "የደስታዬ ምንጭ"
+    ]
+  },
+  {
+    "title": "ባለውለታዬ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ባለውለታዬ",
+      "አነሱ",
+      "ዘምራላሁ",
+      "መንፈስህ"
+    ]
+  },
+  {
+    "title": "መዳኛ ነህ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ጌታን አገኘሁ",
+      "የደስታዬ እልልታ",
+      "አነሱ",
+      "መዳኛ ነህ"
+    ]
+  },
+  {
+    "title": "የደስታዬ ምንጭ",
+    "album": "የደስታዬ እልልታ",
+    "albumCover": "https://i.ytimg.com/vi/GsuLuuFBU44/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Bereket2-4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አቤት ደግነት",
+      "የደስታዬ ምንጭ",
+      "መንፈስህ",
+      "ስሰማው Sisemaw"
+    ]
+  }
+]

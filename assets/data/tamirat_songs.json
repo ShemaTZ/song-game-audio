@@ -1,0 +1,184 @@
+[
+  {
+    "title": "ወንድም ጋሼ",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat8.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "ወንድም ጋሼ",
+      "እንደታላቅነትህ",
+      "ሊሆን አልፈልግም",
+      "ራስህን ጠብቅ"
+    ]
+  },
+  {
+    "title": "ሊሆን አልፈልግም",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat7.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "ሊሆን አልፈልግም",
+      "እንደታላቅነትህ",
+      "ራስህን ጠብቅ",
+      "አልፈራህም"
+    ]
+  },
+  {
+    "title": "አልፈራህም",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat12.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "ምን ይሁን",
+      "ሊሆን አልፈልግም",
+      "ብርቱን ደካማ",
+      "አልፈራህም"
+    ]
+  },
+  {
+    "title": "ራስህን ጠብቅ",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat4.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "የመጨረሻ ምርጫዬ",
+      "ራስህን ጠብቅ",
+      "ምን ይሁን",
+      "ይሻለኛል"
+    ]
+  },
+  {
+    "title": "አቤት ፍቅርህ",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat2.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "አቤት ፍቅርህ",
+      "የመጨረሻ ምርጫዬ",
+      "ሊሆን አልፈልግም",
+      "ወንድም ጋሼ"
+    ]
+  },
+  {
+    "title": "ምነው ጠፋብኝ",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat5.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "የመጨረሻ ምርጫዬ",
+      "ምነው ጠፋብኝ",
+      "ይሻለኛል",
+      "እንደታላቅነትህ"
+    ]
+  },
+  {
+    "title": "እንደታላቅነትህ",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat11.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "ምነው ጠፋብኝ",
+      "ብርቱን ደካማ",
+      "እንደታላቅነትህ",
+      "የመጨረሻ ምርጫዬ"
+    ]
+  },
+  {
+    "title": "ምን ይሁን",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat6.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "በቃኝ!",
+      "ራስህን ጠብቅ",
+      "ምን ይሁን",
+      "የመጨረሻ ምርጫዬ"
+    ]
+  },
+  {
+    "title": "ብርቱን ደካማ",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat1.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "ወንድም ጋሼ",
+      "ብርቱን ደካማ",
+      "አልፈራህም",
+      "ምን ይሁን"
+    ]
+  },
+  {
+    "title": "በቃኝ!",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat10.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "ብርቱን ደካማ",
+      "ምን ይሁን",
+      "አቤት ፍቅርህ",
+      "በቃኝ!"
+    ]
+  },
+  {
+    "title": "ይሻለኛል",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat3.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "እንደታላቅነትህ",
+      "ምን ይሁን",
+      "ወንድም ጋሼ",
+      "ይሻለኛል"
+    ]
+  },
+  {
+    "title": "ምን ይሁን",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat6.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "እንደታላቅነትህ",
+      "ምን ይሁን",
+      "ወንድም ጋሼ",
+      "በቃኝ!"
+    ]
+  },
+  {
+    "title": "የመጨረሻ ምርጫዬ",
+    "album": "ወንድም ጋሼ",
+    "albumCover": "https://i.ytimg.com/vi/_kwm5c7zXTw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Tamirat9.mp3",
+    "clipStart": 0,
+    "duration": 15,
+    "choices": [
+      "የመጨረሻ ምርጫዬ",
+      "ብርቱን ደካማ",
+      "ሊሆን አልፈልግም",
+      "ምነው ጠፋብኝ"
+    ]
+  }
+]

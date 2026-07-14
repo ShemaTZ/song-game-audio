@@ -1,0 +1,184 @@
+[
+  {
+    "title": "ላይተወኝ",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem7.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አማላጄ",
+      "ህይወቴን ፈውስ",
+      "የእኔን ነገር",
+      "ላይተወኝ"
+    ]
+  },
+  {
+    "title": "አማኑኤል",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አማኑኤል",
+      "አይዞህ",
+      "ኢየሱስ ነው መፍትሄው",
+      "ህይወቴን ፈውስ"
+    ]
+  },
+  {
+    "title": "የእኔን ነገር",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ፍቅር ነው ለእኔ",
+      "አማላጄ",
+      "አይዞህ",
+      "የእኔን ነገር"
+    ]
+  },
+  {
+    "title": "ለእኔ መሞቱን",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem11.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ለእኔ መሞቱን",
+      "ህይወቴን ፈውስ",
+      "እከተልሀለሁ",
+      "ተመችቶኝ ነው"
+    ]
+  },
+  {
+    "title": "አማላጄ",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem13.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "የእኔን ነገር",
+      "አማላጄ",
+      "ለእኔ መሞቱን",
+      "ህይወቴን ፈውስ"
+    ]
+  },
+  {
+    "title": "ተመችቶኝ ነው",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "አማላጄ",
+      "ተመችቶኝ ነው",
+      "አይዞህ",
+      "አማኑኤል"
+    ]
+  },
+  {
+    "title": "ምን አለኝ",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ምን አለኝ",
+      "ፍቅር ነው ለእኔ",
+      "እከተልሀለሁ",
+      "ለእኔ መሞቱን"
+    ]
+  },
+  {
+    "title": "ፍቅር ነው ለእኔ",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ለእኔ መሞቱን",
+      "ጥበብን የሚሰጥ",
+      "ፍቅር ነው ለእኔ",
+      "አማኑኤል"
+    ]
+  },
+  {
+    "title": "እከተልሀለሁ",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem12.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "እከተልሀለሁ",
+      "ህይወቴን ፈውስ",
+      "አይዞህ",
+      "አማኑኤል"
+    ]
+  },
+  {
+    "title": "አይዞህ",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "የእኔን ነገር",
+      "አይዞህ",
+      "ለእኔ መሞቱን",
+      "ህይወቴን ፈውስ"
+    ]
+  },
+  {
+    "title": "ኢየሱስ ነው መፍትሄው",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem9.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ኢየሱስ ነው መፍትሄው",
+      "የእኔን ነገር",
+      "አማኑኤል",
+      "ላይተወኝ"
+    ]
+  },
+  {
+    "title": "ህይወቴን ፈውስ",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem2.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ህይወቴን ፈውስ",
+      "ምን አለኝ",
+      "ጥበብን የሚሰጥ",
+      "የእኔን ነገር"
+    ]
+  },
+  {
+    "title": "ጥበብን የሚሰጥ",
+    "album": "እከትልሃለሁ",
+    "albumCover": "https://i.ytimg.com/vi/zrWPZRFgwdA/sddefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Meskerem10.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ምን አለኝ",
+      "ጥበብን የሚሰጥ",
+      "ኢየሱስ ነው መፍትሄው",
+      "ተመችቶኝ ነው"
+    ]
+  }
+]

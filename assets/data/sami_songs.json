@@ -1,0 +1,184 @@
+[
+  {
+    "title": "ስውር እስሬን",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የፍቅርን ትርጉም",
+      "ጌታ እኮ ነው",
+      "የማመልከው",
+      "ስውር እስሬን"
+    ]
+  },
+  {
+    "title": "የፍቅርን ትርጉም",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስውር እስሬን",
+      "ክፉ ሳይመጣ",
+      "ይመሥገን",
+      "የፍቅርን ትርጉም"
+    ]
+  },
+  {
+    "title": "ኢየሱስ",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ምሳሌ የሌለህ",
+      "ክበር በሉት",
+      "ፊትህን ሳየው",
+      "ኢየሱስ"
+    ]
+  },
+  {
+    "title": "አልፋ ነህ ኦሜጋ",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሃሌሉያ",
+      "ፊትህን ሳየው",
+      "አልፋ ነህ ኦሜጋ",
+      "ስውር እስሬን"
+    ]
+  },
+  {
+    "title": "የከበረ",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ኢየሱስ",
+      "ሃሌሉያ",
+      "የከበረ",
+      "ስውር እስሬን"
+    ]
+  },
+  {
+    "title": "ፊትህን ሳየው",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይመሥገን",
+      "ኢየሱስ",
+      "ክፉ ሳይመጣ",
+      "ፊትህን ሳየው"
+    ]
+  },
+  {
+    "title": "ይመሥገን",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ክፉ ሳይመጣ",
+      "ይመሥገን",
+      "ፊትህን ሳየው",
+      "ጌታ እኮ ነው"
+    ]
+  },
+  {
+    "title": "ምሳሌ የሌለህ",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ኢየሱስ",
+      "ምሳሌ የሌለህ",
+      "ሃሌሉያ",
+      "የማመልከው"
+    ]
+  },
+  {
+    "title": "ክበር በሉት",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ክበር በሉት",
+      "የከበረ",
+      "የዘለዓለም ቃልኪዳን",
+      "የማመልከው"
+    ]
+  },
+  {
+    "title": "ጌታ እኮ ነው",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስውር እስሬን",
+      "ጌታ እኮ ነው",
+      "የማመልከው",
+      "የዘለዓለም ቃልኪዳን"
+    ]
+  },
+  {
+    "title": "የማመልከው",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የከበረ",
+      "ኢየሱስ",
+      "የማመልከው",
+      "ጌታ እኮ ነው"
+    ]
+  },
+  {
+    "title": "ሃሌሉያ",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሃሌሉያ",
+      "ክበር በሉት",
+      "የዘለዓለም ቃልኪዳን",
+      "ጌታ እኮ ነው"
+    ]
+  },
+  {
+    "title": "ክፉ ሳይመጣ",
+    "album": "ምሳሌ የሌለህ",
+    "albumCover": "https://i.ytimg.com/vi/CBaZAyd0xg0/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Samuel12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የማመልከው",
+      "ኢየሱስ",
+      "ክበር በሉት",
+      "ክፉ ሳይመጣ"
+    ]
+  }
+]

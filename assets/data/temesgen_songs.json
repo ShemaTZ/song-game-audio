@@ -1,0 +1,170 @@
+[
+  {
+    "title": "ያልከው ይሆናል",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen9.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ስገረም",
+      "ተስፋ አለኝ",
+      "ያልከው ይሆናል",
+      "ላታደርግ ላትፈጽም"
+    ]
+  },
+  {
+    "title": "ሃይል አለ",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen2.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "በጨነቀኝ ጊዜ",
+      "ሃይል አለ",
+      "ያልከው ይሆናል",
+      "ተስፋ አለኝ"
+    ]
+  },
+  {
+    "title": "አንተ ለእኔ መልካም ነህ",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen1.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "በጨነቀኝ ጊዜ",
+      "ተስፋ አለኝ",
+      "ስገረም",
+      "አንተ ለእኔ መልካም ነህ"
+    ]
+  },
+  {
+    "title": "ተስፋ አለኝ",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen5.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ተስፋ አለኝ",
+      "ሃይል አለ",
+      "ስገረም",
+      "ላታደርግ ላትፈጽም"
+    ]
+  },
+  {
+    "title": "ላታደርግ ላትፈጽም",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen3.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "አንደኛ ነህ ጌታ",
+      "ዘምር አለኝ",
+      "ስገረም",
+      "ላታደርግ ላትፈጽም"
+    ]
+  },
+  {
+    "title": "ዘምር አለኝ",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen7.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "የግሌ ነህ",
+      "በጨነቀኝ ጊዜ",
+      "ዘምር አለኝ",
+      "ላታደርግ ላትፈጽም"
+    ]
+  },
+  {
+    "title": "ነጋ ሌሊቱ",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen4.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ነጋ ሌሊቱ",
+      "አንተ ለእኔ መልካም ነህ",
+      "ላታደርግ ላትፈጽም",
+      "ተስፋ አለኝ"
+    ]
+  },
+  {
+    "title": "ስገረም",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen12.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ስገረም",
+      "ሃይል አለ",
+      "ዘምር አለኝ",
+      "ለየት አድርጎኛል"
+    ]
+  },
+  {
+    "title": "የግሌ ነህ",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen8.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "አንተ ለእኔ መልካም ነህ",
+      "በጨነቀኝ ጊዜ",
+      "ተስፋ አለኝ",
+      "የግሌ ነህ"
+    ]
+  },
+  {
+    "title": "ለየት አድርጎኛል",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen11.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ላታደርግ ላትፈጽም",
+      "ለየት አድርጎኛል",
+      "አንደኛ ነህ ጌታ",
+      "የግሌ ነህ"
+    ]
+  },
+  {
+    "title": "አንደኛ ነህ ጌታ",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen10.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ነጋ ሌሊቱ",
+      "አንደኛ ነህ ጌታ",
+      "ሃይል አለ",
+      "ላታደርግ ላትፈጽም"
+    ]
+  },
+  {
+    "title": "በጨነቀኝ ጊዜ",
+    "album": "ሃይል አለ",
+    "albumCover": "https://i.ytimg.com/vi/XgKnaRGFFZk/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Temesgen6.mp3",
+    "clipStart": 0,
+    "duration": 18,
+    "choices": [
+      "ዘምር አለኝ",
+      "ላታደርግ ላትፈጽም",
+      "በጨነቀኝ ጊዜ",
+      "ያልከው ይሆናል"
+    ]
+  }
+]

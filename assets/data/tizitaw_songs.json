@@ -1,0 +1,394 @@
+[
+  {
+    "title": "ወዳጄ ወዳጄ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ማሸነፊያ ነው ",
+      "ወዳጄ ወዳጄ ",
+      "እልፍ ቃላት ",
+      "የምን ማዘን ነው "
+    ]
+  },
+  {
+    "title": "ራርቶልኝ ነው ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እግዚአብሔር እኮ",
+      "ራርቶልኝ ነው ",
+      "የምን ማዘን ነው ",
+      "እልፍ ቃላት "
+    ]
+  },
+  {
+    "title": "አንዱ ስለሁሉ ሞተ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "Kidus መንፈስ ቅዱስ ",
+      "አንዱ ስለሁሉ ሞተ ",
+      "እልፍ ቃላት ",
+      "አልሄድም ወደኋላ "
+    ]
+  },
+  {
+    "title": "አንድ ነገር ብቻ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አንድ ነገር ብቻ ",
+      "መገረም ",
+      "የምን ማዘን ነው ",
+      "አወይ ቸርነትህ "
+    ]
+  },
+  {
+    "title": "አልሄድም ወደኋላ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አንድ ነገር ብቻ ",
+      "አልሄድም ወደኋላ ",
+      "ኢየሱስ ይመጣል ",
+      "እግዚአብሔር እኮ"
+    ]
+  },
+  {
+    "title": "መገረም ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መገረም ",
+      "አንዱ ስለሁሉ ሞተ ",
+      "ኢየሱስ ይመጣል ",
+      "Kidus መንፈስ ቅዱስ "
+    ]
+  },
+  {
+    "title": "አወይ ቸርነትህ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አንዱ ስለሁሉ ሞተ ",
+      "Kidus መንፈስ ቅዱስ ",
+      "አወይ ቸርነትህ ",
+      "ኢየሱስ ይመጣል "
+    ]
+  },
+  {
+    "title": "የምን ማዘን ነው ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW14.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የምን ማዘን ነው ",
+      "ማሸነፊያ ነው ",
+      "ራርቶልኝ ነው ",
+      "Kidus መንፈስ ቅዱስ "
+    ]
+  },
+  {
+    "title": "ኢየሱስ ይመጣል ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ኢየሱስ ይመጣል ",
+      "እልፍ ቃላት ",
+      "አንዱ ስለሁሉ ሞተ ",
+      "ወዳጄ ወዳጄ "
+    ]
+  },
+  {
+    "title": "እግዚአብሔር እኮ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እግዚአብሔር እኮ",
+      "አይሆንም የተባለው ",
+      "ራርቶልኝ ነው ",
+      "አወይ ቸርነትህ "
+    ]
+  },
+  {
+    "title": "Kidus መንፈስ ቅዱስ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መገረም ",
+      "አልሄድም ወደኋላ ",
+      "ኢየሱስ ይመጣል ",
+      "Kidus መንፈስ ቅዱስ "
+    ]
+  },
+  {
+    "title": "ማሸነፊያ ነው ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይሆንም የተባለው ",
+      "ማሸነፊያ ነው ",
+      "አንድ ነገር ብቻ ",
+      "መገረም "
+    ]
+  },
+  {
+    "title": "እልፍ ቃላት ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የምን ማዘን ነው ",
+      "አወይ ቸርነትህ ",
+      "አይሆንም የተባለው ",
+      "እልፍ ቃላት "
+    ]
+  },
+  {
+    "title": "አይሆንም የተባለው ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አንድ ነገር ብቻ ",
+      "አይሆንም የተባለው ",
+      "መገረም ",
+      "ኢየሱስ ይመጣል "
+    ]
+  },
+  {
+    "title": "ኢየሱስ ይመጣል ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አወይ ቸርነትህ ",
+      "እልፍ ቃላት ",
+      "ኢየሱስ ይመጣል ",
+      "ራርቶልኝ ነው "
+    ]
+  },
+  {
+    "title": "እግዚአብሔር እኮ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የምን ማዘን ነው ",
+      "እግዚአብሔር እኮ",
+      "ወዳጄ ወዳጄ ",
+      "አንዱ ስለሁሉ ሞተ "
+    ]
+  },
+  {
+    "title": "አልሄድም ወደኋላ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መገረም ",
+      "አወይ ቸርነትህ ",
+      "አልሄድም ወደኋላ ",
+      "ማሸነፊያ ነው "
+    ]
+  },
+  {
+    "title": "መገረም ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መገረም ",
+      "የምን ማዘን ነው ",
+      "እልፍ ቃላት ",
+      "እግዚአብሔር እኮ"
+    ]
+  },
+  {
+    "title": "አወይ ቸርነትህ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ራርቶልኝ ነው ",
+      "እልፍ ቃላት ",
+      "አወይ ቸርነትህ ",
+      "ማሸነፊያ ነው "
+    ]
+  },
+  {
+    "title": "አይሆንም የተባለው ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ወዳጄ ወዳጄ ",
+      "መገረም ",
+      "አይሆንም የተባለው ",
+      "እልፍ ቃላት "
+    ]
+  },
+  {
+    "title": "ወዳጄ ወዳጄ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW12.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እልፍ ቃላት ",
+      "ወዳጄ ወዳጄ ",
+      "የምን ማዘን ነው ",
+      "ማሸነፊያ ነው "
+    ]
+  },
+  {
+    "title": "ማሸነፊያ ነው ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "Kidus መንፈስ ቅዱስ ",
+      "ወዳጄ ወዳጄ ",
+      "ማሸነፊያ ነው ",
+      "ኢየሱስ ይመጣል "
+    ]
+  },
+  {
+    "title": "ራርቶልኝ ነው ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW13.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እግዚአብሔር እኮ",
+      "ማሸነፊያ ነው ",
+      "አወይ ቸርነትህ ",
+      "ራርቶልኝ ነው "
+    ]
+  },
+  {
+    "title": "Kidus መንፈስ ቅዱስ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የምን ማዘን ነው ",
+      "ወዳጄ ወዳጄ ",
+      "Kidus መንፈስ ቅዱስ ",
+      "እግዚአብሔር እኮ"
+    ]
+  },
+  {
+    "title": "አንዱ ስለሁሉ ሞተ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ማሸነፊያ ነው ",
+      "አንዱ ስለሁሉ ሞተ ",
+      "አይሆንም የተባለው ",
+      "Kidus መንፈስ ቅዱስ "
+    ]
+  },
+  {
+    "title": "የምን ማዘን ነው ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW14.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "Kidus መንፈስ ቅዱስ ",
+      "የምን ማዘን ነው ",
+      "ኢየሱስ ይመጣል ",
+      "አንዱ ስለሁሉ ሞተ "
+    ]
+  },
+  {
+    "title": "አንድ ነገር ብቻ ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አልሄድም ወደኋላ ",
+      "አንድ ነገር ብቻ ",
+      "አንዱ ስለሁሉ ሞተ ",
+      "ኢየሱስ ይመጣል "
+    ]
+  },
+  {
+    "title": "እልፍ ቃላት ",
+    "album": "ወዳጄ ወዳጄ",
+    "albumCover": "https://i.ytimg.com/vi/guMuHZ_Q5T8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/tizitaw/TIZITAW4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እልፍ ቃላት ",
+      "አንድ ነገር ብቻ ",
+      "ማሸነፊያ ነው ",
+      "እግዚአብሔር እኮ"
+    ]
+  }
+]

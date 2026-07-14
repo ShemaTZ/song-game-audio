@@ -1,0 +1,184 @@
+[
+  {
+    "title": "ታማኝ ነህ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew7.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ምደነግጥልህ",
+      "ሌላ ቃል አለ",
+      "ይገባሀል",
+      "ታማኝ ነህ"
+    ]
+  },
+  {
+    "title": "የግድ ታስፈልገኛለህ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew9.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ምደነግጥልህ",
+      "ስምህ",
+      "ይገባሀል",
+      "የግድ ታስፈልገኛለህ"
+    ]
+  },
+  {
+    "title": "ብቸኝነት አይሰማኝም",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew1.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ብቸኝነት አይሰማኝም",
+      "ስምህ",
+      "በደም ያጌጠ",
+      "ወንጌል ስለ ልጁ"
+    ]
+  },
+  {
+    "title": "የክብሬ ደጋሽ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew2.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ምደነግጥልህ",
+      "የክብሬ ደጋሽ",
+      "ብቸኝነት አይሰማኝም",
+      "ይገባሀል"
+    ]
+  },
+  {
+    "title": "ስምህ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew10.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ምደነግጥልህ",
+      "ይገባሀል",
+      "ስምህ",
+      "ግን ባንተ"
+    ]
+  },
+  {
+    "title": "ላውድልህ ሀገሩን",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew4.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ምደነግጥልህ",
+      "የግድ ታስፈልገኛለህ",
+      "ስምህ",
+      "ላውድልህ ሀገሩን"
+    ]
+  },
+  {
+    "title": "በደም ያጌጠ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew8.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ፍቅሬን አንጠፍጥፌ",
+      "በደም ያጌጠ",
+      "ብቸኝነት አይሰማኝም",
+      "ታማኝ ነህ"
+    ]
+  },
+  {
+    "title": "ፍቅሬን አንጠፍጥፌ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew6.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ወንጌል ስለ ልጁ",
+      "ታማኝ ነህ",
+      "የክብሬ ደጋሽ",
+      "ፍቅሬን አንጠፍጥፌ"
+    ]
+  },
+  {
+    "title": "ግን ባንተ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew3.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "የክብሬ ደጋሽ",
+      "ሌላ ቃል አለ",
+      "ግን ባንተ",
+      "የግድ ታስፈልገኛለህ"
+    ]
+  },
+  {
+    "title": "ሁሉ ይደርሳል",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew5.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ብቸኝነት አይሰማኝም",
+      "ሌላ ቃል አለ",
+      "ግን ባንተ",
+      "ሁሉ ይደርሳል"
+    ]
+  },
+  {
+    "title": "ወንጌል ስለ ልጁ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew11.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ሌላ ቃል አለ",
+      "ላውድልህ ሀገሩን",
+      "የግድ ታስፈልገኛለህ",
+      "ወንጌል ስለ ልጁ"
+    ]
+  },
+  {
+    "title": "ሌላ ቃል አለ",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew13.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "በደም ያጌጠ",
+      "የክብሬ ደጋሽ",
+      "የግድ ታስፈልገኛለህ",
+      "ሌላ ቃል አለ"
+    ]
+  },
+  {
+    "title": "ይገባሀል",
+    "album": "ኢየሱስ",
+    "albumCover": "https://i.ytimg.com/vi/k-j1UI5xEew/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/Yidnekachew14.mp3",
+    "clipStart": 0,
+    "duration": 20,
+    "choices": [
+      "ምደነግጥልህ",
+      "ሁሉ ይደርሳል",
+      "ይገባሀል",
+      "ግን ባንተ"
+    ]
+  }
+]

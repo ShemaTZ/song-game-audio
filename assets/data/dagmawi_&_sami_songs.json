@@ -1,0 +1,156 @@
+[
+  {
+    "title": "ይወራ የሱ ፍቅር",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ትልቅ ነህ",
+      "አያለው",
+      "ይወራ የሱ ፍቅር",
+      "አይደለህም"
+    ]
+  },
+  {
+    "title": "ትልቅ ነህ",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አይደለህም",
+      "ትልቅ ነህ",
+      "ኢየሱስ ነው",
+      "አሜን እላለሁ"
+    ]
+  },
+  {
+    "title": "መጥቻለው",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መጥቻለው",
+      "አሜን እላለሁ",
+      "እኩያ የለህ",
+      "ኢየሱስ ነው"
+    ]
+  },
+  {
+    "title": "አይደለህም",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይወራ የሱ ፍቅር",
+      "አይደለህም",
+      "እልልታ",
+      "አያለው"
+    ]
+  },
+  {
+    "title": "አያለው",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አያለው",
+      "ሌላ ሌላ",
+      "ትልቅ ነህ",
+      "ኢየሱስ ነው"
+    ]
+  },
+  {
+    "title": "አሜን እላለሁ",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አያለው",
+      "እልልታ",
+      "አሜን እላለሁ",
+      "ትልቅ ነህ"
+    ]
+  },
+  {
+    "title": "እኩያ የለህ",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ሌላ ሌላ",
+      "አይደለህም",
+      "ትልቅ ነህ",
+      "እኩያ የለህ"
+    ]
+  },
+  {
+    "title": "ኢየሱስ ነው",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እልልታ",
+      "ኢየሱስ ነው",
+      "ትልቅ ነህ",
+      "ሌላ ሌላ"
+    ]
+  },
+  {
+    "title": "አለኝ",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይወራ የሱ ፍቅር",
+      "አለኝ",
+      "አሜን እላለሁ",
+      "አይደለህም"
+    ]
+  },
+  {
+    "title": "ሌላ ሌላ",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "መጥቻለው",
+      "ሌላ ሌላ",
+      "ኢየሱስ ነው",
+      "እኩያ የለህ"
+    ]
+  },
+  {
+    "title": "እልልታ",
+    "album": "ሌላ ሌላ",
+    "albumCover": "https://i.ytimg.com/vi/DhbgiJz68Iw/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/dagmawi/Dagmawi6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እልልታ",
+      "ይወራ የሱ ፍቅር",
+      "አለኝ",
+      "አሜን እላለሁ"
+    ]
+  }
+]

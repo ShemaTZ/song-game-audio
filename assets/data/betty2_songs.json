@@ -1,0 +1,156 @@
+[
+  {
+    "title": "ያለኝ ይበቃኛል",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-10.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ኑ እናውራ",
+      "የእግዚአብሔር ጊዜ",
+      "ያለኝ ይበቃኛል",
+      "እዚህ ደረስኩ"
+    ]
+  },
+  {
+    "title": "ጥበብ ሠነፈች",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-7.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ይቅር ባዬ",
+      "እወድሀለው",
+      "ጥበብ ሠነፈች",
+      "ኑ እናውራ"
+    ]
+  },
+  {
+    "title": "ስሙ እግዚአብሔር ነው",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-4.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ስሙ እግዚአብሔር ነው",
+      "እዚህ ደረስኩ",
+      "እወድሀለው",
+      "ይቅር ባዬ"
+    ]
+  },
+  {
+    "title": "ይቅር ባዬ",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-6.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጥበብ ሠነፈች",
+      "ፍቅር ተፃፈ",
+      "እወድሀለው",
+      "ይቅር ባዬ"
+    ]
+  },
+  {
+    "title": "እወድሀለው",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-5.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "አመንኩኝ",
+      "ፀሎቴ",
+      "እወድሀለው",
+      "ይቅር ባዬ"
+    ]
+  },
+  {
+    "title": "ፍቅር ተፃፈ",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-11.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እወድሀለው",
+      "አመንኩኝ",
+      "ያለኝ ይበቃኛል",
+      "ፍቅር ተፃፈ"
+    ]
+  },
+  {
+    "title": "አመንኩኝ",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-3.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእግዚአብሔር ጊዜ",
+      "አመንኩኝ",
+      "እወድሀለው",
+      "እዚህ ደረስኩ"
+    ]
+  },
+  {
+    "title": "እዚህ ደረስኩ",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-2.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "የእግዚአብሔር ጊዜ",
+      "ይቅር ባዬ",
+      "ጥበብ ሠነፈች",
+      "እዚህ ደረስኩ"
+    ]
+  },
+  {
+    "title": "ፀሎቴ",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-8.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ፍቅር ተፃፈ",
+      "ጥበብ ሠነፈች",
+      "ፀሎቴ",
+      "አመንኩኝ"
+    ]
+  },
+  {
+    "title": "የእግዚአብሔር ጊዜ",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-9.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "ጥበብ ሠነፈች",
+      "የእግዚአብሔር ጊዜ",
+      "ያለኝ ይበቃኛል",
+      "ስሙ እግዚአብሔር ነው"
+    ]
+  },
+  {
+    "title": "ኑ እናውራ",
+    "album": "ፍቅር ተጻፈ",
+    "albumCover": "https://i.ytimg.com/vi/fr0uwVe0So8/maxresdefault.jpg",
+    "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/clips/betty/Betty2-1.mp3",
+    "clipStart": 0,
+    "duration": 16,
+    "choices": [
+      "እወድሀለው",
+      "ፀሎቴ",
+      "ይቅር ባዬ",
+      "ኑ እናውራ"
+    ]
+  }
+]
