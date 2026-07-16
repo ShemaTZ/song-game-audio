@@ -2,7 +2,7 @@
   {
     "title": "እዮብ አሊ፡ እጅግ ልቀህ",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q1.mp3",
     "clipStart": 0,
     "duration": 18,
@@ -16,7 +16,7 @@
   {
     "title": "ዳንኤል አምደሚካኤል፡ ሲነጋም ሲመሽም",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q2.mp3",
     "clipStart": 0,
     "duration": 25,
@@ -30,7 +30,7 @@
   {
     "title": "ቃልኪዳን(ሊሊ) ጥላሁን፡ በየት ሃገር ነው እግዚአብሄር",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q3.mp3",
     "clipStart": 0,
     "duration": 17,
@@ -44,7 +44,7 @@
   {
     "title": "ተስፋዬ ጋቢሶ፡ ግሩም አባት ነህ",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q4.mp3",
     "clipStart": 0,
     "duration": 28,
@@ -58,7 +58,7 @@
   {
     "title": "ቃልኪዳን(ሊሊ) ጥላሁን፡ ውሃ ውሃ እንዳይል",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q5.mp3",
     "clipStart": 0,
     "duration": 23,
@@ -72,7 +72,7 @@
   {
     "title": "ቤተልሄም ተዘራ፡ እድሜዬ በቤትህ",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/q6.mp3",
     "clipStart": 0,
     "duration": 23,
@@ -86,7 +86,7 @@
     {
     "title": "ዮሴፍ አያሌው፡ ስምህ ጋሻዬና ከለላዬ",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/jossy1.mp3",
     "clipStart": 0,
     "duration": 27,
@@ -100,7 +100,7 @@
     {
     "title": "ምህረት ኢታፋ፡ ባለግርማ",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/m1.mp3",
     "clipStart": 0,
     "duration": 14,
@@ -114,7 +114,7 @@
     {
     "title": "ዳንኤል አምደሚካኤል፡ በምድረ በዳ የሆነኝ ጥላ",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/d1.mp3",
     "clipStart": 0,
     "duration": 19,
@@ -128,7 +128,7 @@
     {
     "title": "ተከስተ ጌትነት፡ ያስዋውቅብኛል",
     "album": "Mix",
-    "albumCover": "assets/images/mix_cover.jpg",
+    "albumCover": "https://github.com/ShemaTZ/song-game-audio/blob/main/assets/images/mix_cover.jpg",
     "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/t1.mp3",
     "clipStart": 0,
     "duration": 40,
