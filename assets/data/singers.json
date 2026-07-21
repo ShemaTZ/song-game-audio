@@ -78,5 +78,74 @@
         "albumCoverImage": "https://i.ytimg.com/vi/fdgmchca-wY/maxresdefault.jpg"
       }
     ]
+  },
+  {
+    "id": "4",
+    "name": "Endale Woldegiorgis",
+    "coverImage": "http://yt3.googleusercontent.com/VkDjDzKmNcFu0nwVbkXx7cF_1Tief1FlTbc65MW_vq4OGM82pty44M9ju2N7u1Lqpl-9MxMXRA=s160-c-k-c0x00ffffff-no-rj",
+    "songCount": 1,
+    "genres": ["Gospel", "Ethiopian"],
+    "country": "Ethiopia",
+    "songs": [
+      {
+        "id": "1-1",
+        "title": "ነፍሴ ተስፋ",
+        "artist": "Endale Woldegiorgis",
+        "duration": "4:09",
+        "artistImage": "https://i.ytimg.com/vi/hoGl_wPMeeU/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hoGl_wPMeeU",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/hoGl_wPMeeU/maxresdefault.jpg",
+        "lyrics": [
+                {"text": "[INTRO]", "time": 0},
+                {"text": "ነፍሴ ተስፋ እያደረገችህ", "time": 34},
+                {"text": "ምትዉልብህ ምታድርብህ", "time": 39},
+                {"text": "ህያዉ ተስፋዬ", "time": 42},
+                {"text": "ልቤ አንተን አምኖ ልቤ", "time": 45},
+                {"text": "ልቤ ባንተ ፀና ልቤ", "time": 51},
+                {"text": "ልቤ አንተን አምኖ ልቤ", "time": 56},
+                {"text": "ልቤ ባንተ ፀና ልቤ", "time": 62},
+                {"text": "[MUSIC]", "time": 67},
+                
+                {"text": "ጓዳዬን ሙላ አደባባዬን", "time": 79},
+                {"text": "ልኑር አንተን ስል ቀሪ ዘመኔን", "time": 84},
+                {"text": "ምንም አልሆንም አንተን ብያለሁ", "time": 89},
+                {"text": "የደህንነቴን እራስ ይዣለሁ", "time": 95},
+               
+                {"text": "ልቤ ፀናልኝ አንተን በማመን", "time": 100},
+                {"text": "ፍጹም ነህ ጌታ የለብህ እንከን", "time": 106},
+                {"text": "ነፍሴ ትላለች ህያዉ ተስፋዬ", "time": 112},
+                {"text": "ከአዳኝ ወጥመድ መሸሸጊያዬ", "time": 117},
+                
+                {"text": "ነፍሴ ተስፋ እያደረገችህ", "time": 123},
+                {"text": "ምትዉልብህ ምታድርብህ", "time": 128},
+                {"text": "ህያዉ ተስፋዬ", "time": 130},
+                {"text": "ልቤ አንተን አምኖ ልቤ", "time": 134},
+                {"text": "ልቤ ባንተ ፀና ልቤ", "time": 139},
+                {"text": "ልቤ አንተን አምኖ ልቤ", "time": 145},
+                {"text": "ልቤ ባንተ ፀና ልቤ", "time": 150},
+                {"text": "[MUSIC]", "time": 155},
+                {"text": "አንተን ያደረገ መድህን", "time": 184},
+                {"text": "አንተን ያደረገ ጥላ", "time": 189},
+                {"text": "ሆነህለት አየሁ እንጂ", "time": 195},
+                {"text": "ክፉ እንዳይነካዉ ከለላ", "time": 200},
+                {"text": "እኔስ ኧረ እኔስ ካሉት", "time": 206},
+                {"text": "ከለላ ካሉት አጥር", "time": 209},
+                {"text": "እንደምትበልጥ አይቻለዉ", "time": 213},
+                {"text": "እግዚአብሔር", "time": 216},
+                {"text": "እንደምትበልጥ አይቻለዉ", "time": 220},
+                {"text": "እግዚአብሔር", "time": 223},
+                {"text": "[MUSIC]", "time": 178},
+                {"text": "እኔስ ኧረ እኔስ ካሉት", "time": 227},
+                {"text": "ከለላ ካሉት አጥር", "time": 230},
+                {"text": "እንደምትበልጥ አይቻለዉ", "time": 234},
+                {"text": "እግዚአብሔር", "time": 237},
+                {"text": "እንደምትበልጥ አይቻለዉ", "time": 241},
+                {"text": "እግዚአብሔር", "time": 244},
+                {"text": "OUTRO", "time": 246}
+  ]
+
+      }
+    ]
   }
 ]
