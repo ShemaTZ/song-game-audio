@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Eba Daniel",
-    "coverImage": "https://i.ytimg.com/vi/LWoaNWwWGsQ/maxresdefault.jpg",
+    "coverImage": "https://i.ytimg.com/vi/86turtR_q88/hddefault.jpg",
     "songCount": 2,
     "description": "Ethiopian gospel singer known for powerful worship songs",
     "genres": ["Gospel", "Worship", "Ethiopian"],
@@ -13,10 +13,10 @@
         "title": "ረግቻለሁ",
         "artist": "Eba Daniel",
         "duration": "4:53",
-        "artistImage": "https://i.ytimg.com/vi/CipJvk6vKAk/maxresdefault.jpg",
+        "artistImage": "https://i.ytimg.com/vi/86turtR_q88/maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=CipJvk6vKAk",
         "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
-        "albumCoverImage": "https://i.ytimg.com/vi/CipJvk6vKAk/maxresdefault.jpg"
+        "albumCoverImage": "https://i.ytimg.com/vi/86turtR_q88/maxresdefault.jpg"
       }
     ]
   }
