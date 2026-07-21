@@ -4,7 +4,6 @@
     "name": "Eba Daniel",
     "coverImage": "https://i.ytimg.com/vi/LWoaNWwWGsQ/maxresdefault.jpg",
     "songCount": 1,
-    "description": "Ethiopian gospel singer known for powerful worship songs",
     "genres": ["Gospel", "Worship", "Ethiopian"],
     "country": "Ethiopia",
     "songs": [
@@ -17,6 +16,66 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=CipJvk6vKAk",
         "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
         "albumCoverImage": "https://i.ytimg.com/vi/86turtR_q88/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Kaleab Mengistu",
+    "coverImage": "https://yt3.googleusercontent.com/PnSBl2pdx39BfIP4BTopUta6YEVVkxFs7sDT-QmXtUoXuFcTWzNBjBPw_UAXzPbgnf1_8IZwmA=s160-c-k-c0x00ffffff-no-rj",
+    "songCount": 2,
+    "genres": ["Gospel", "Ethiopian"],
+    "country": "Ethiopia",
+    "songs": [
+      {
+        "id": "1-1",
+        "title": "ኢየሱስ",
+        "artist": "Kaleab Mengistu",
+        "duration": "5:12",
+        "artistImage": "https://i.ytimg.com/vi/r0JRDvWcNc4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=r0JRDvWcNc4",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/r0JRDvWcNc4/maxresdefault.jpg"
+      },
+      {
+        "id": "1-2",
+        "title": "አታፈግፍጊ",
+        "artist": "Kaleab Mengistu",
+        "duration": "6:41",
+        "artistImage": "https://i.ytimg.com/vi/IedGThM02rA/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IedGThM02rA",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/IedGThM02rA/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Rahel Alemayehu",
+    "coverImage": "https://yt3.googleusercontent.com/VjN_V28gc1R2MFWkfKCZOcfBVkKfFCHbrNCQt9ehTBQgnGkK5edN1aRZblvCIYknEhM_yiSWcg=s160-c-k-c0x00ffffff-no-rj",
+    "songCount": 2,
+    "genres": ["Gospel", "Ethiopian"],
+    "country": "Ethiopia",
+    "songs": [
+      {
+        "id": "1-1",
+        "title": "ባለ ምህረት”",
+        "artist": "Rahel Alemayehu",
+        "duration": "6:35",
+        "artistImage": "https://i.ytimg.com/vi/By7DlKl3evU/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=By7DlKl3evU",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/By7DlKl3evU/maxresdefault.jpg"
+      },
+      {
+        "id": "1-2",
+        "title": "ከእግሮችህ ስር",
+        "artist": "Rahel Alemayehy",
+        "duration": "6:55",
+        "artistImage": "https://i.ytimg.com/vi/fdgmchca-wY/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fdgmchca-wY",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/fdgmchca-wY/maxresdefault.jpg"
       }
     ]
   }
