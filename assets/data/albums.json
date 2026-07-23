@@ -8646,5 +8646,131 @@
       "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song12.mp3"
     }
   ]
+},
+{
+  "id": "51",
+  "title": "ዘፀአት",
+  "artist": "Elora Gospel Singers",
+  "coverImage": "https://i.ytimg.com/vi/0kmYxxxsJ4U/maxresdefault.jpg",
+  "songCount": 13,
+  "tracks": [
+    {
+      "id": "51-1",
+      "title": "ያንስበታል",
+      "artist": "Elora Gospel Singers",
+      "duration": "3:52",
+      "artistImage": "https://i.ytimg.com/vi/0kmYxxxsJ4U/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0kmYxxxsJ4U",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3"
+    },
+    {
+      "id": "51-2",
+      "title": "መንፈስ ቅዱስ",
+      "artist": "Elora Gospel Singers",
+      "duration": "4:51",
+      "artistImage": "https://i.ytimg.com/vi/hQT8Q7vZugc/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hQT8Q7vZugc",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song2.mp3"
+    },
+    {
+      "id": "51-3",
+      "title": "ሁን ዝግጁ",
+      "artist": "Elora Gospel Singers",
+      "duration": "3:56",
+      "artistImage": "https://i.ytimg.com/vi/Vf8e1EiQqNQ/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vf8e1EiQqNQ",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song3.mp3"
+    },
+    {
+      "id": "51-4",
+      "title": "እየሱስ ያድናል",
+      "artist": "Elora Gospel Singers",
+      "duration": "5:33",
+      "artistImage": "https://i.ytimg.com/vi/HHNjCifbk_o/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HHNjCifbk_o",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song4.mp3"
+    },
+    {
+      "id": "51-5",
+      "title": "ዘፀአት",
+      "artist": "Elora Gospel Singers",
+      "duration": "5:38",
+      "artistImage": "https://i.ytimg.com/vi/7jGEMYqZJ9Q/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7jGEMYqZJ9Q",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song5.mp3"
+    },
+    {
+      "id": "51-6",
+      "title": "እልፍ",
+      "artist": "Elora Gospel Singers",
+      "duration": "4:53",
+      "artistImage": "https://i.ytimg.com/vi/H_9Ixm0hV3M/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=H_9Ixm0hV3M",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song6.mp3"
+    },
+    {
+      "id": "51-7",
+      "title": "በ ፀጋ",
+      "artist": "Elora Gospel Singers",
+      "duration": "5:14",
+      "artistImage": "https://i.ytimg.com/vi/6BSuuXJ-csA/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6BSuuXJ-csA",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song7.mp3"
+    },
+    {
+      "id": "51-8",
+      "title": "መስቀሉ ይናገር",
+      "artist": "Elora Gospel Singers",
+      "duration": "5:09",
+      "artistImage": "https://i.ytimg.com/vi/atBEEY9gQlU/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=atBEEY9gQlU",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song8.mp3"
+    },
+    {
+      "id": "51-9",
+      "title": "አመልክሀለው",
+      "artist": "Elora Gospel Singers",
+      "duration": "5:05",
+      "artistImage": "https://i.ytimg.com/vi/zlh7QmefknI/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zlh7QmefknI",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song9.mp3"
+    },
+    {
+      "id": "51-10",
+      "title": "ምስጋና ይብዛለት",
+      "artist": "Elora Gospel Singers",
+      "duration": "4:26",
+      "artistImage": "https://i.ytimg.com/vi/cfyA5kdBRVE/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cfyA5kdBRVE",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song10.mp3"
+    },
+    {
+      "id": "51-11",
+      "title": "የምስራች",
+      "artist": "Elora Gospel Singers",
+      "duration": "5:29",
+      "artistImage": "https://i.ytimg.com/vi/_Nwr6U1gdws/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_Nwr6U1gdws",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song11.mp3"
+    },
+    {
+      "id": "51-12",
+      "title": "ቀላል ነው",
+      "artist": "Elora Gospel Singers",
+      "duration": "5:41",
+      "artistImage": "https://i.ytimg.com/vi/LvabqPQQtuw/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LvabqPQQtuw",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song12.mp3"
+    },
+    {
+      "id": "51-13",
+      "title": "ለኔ የሆንክልኝ",
+      "artist": "Elora Gospel Singers",
+      "duration": "4:54",
+      "artistImage": "https://i.ytimg.com/vi/CipJvk6vKAk/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CipJvk6vKAk",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song13.mp3"
+    }
+  ]
 }
 ]
