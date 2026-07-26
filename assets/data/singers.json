@@ -146,5 +146,25 @@
 
       }
     ]
+  },
+  {
+    "id": "5",
+    "name": "Biniyam Yonas",
+    "coverImage": "https://yt3.googleusercontent.com/nxVP7j2vyRTG2qwgH07FS-N4eNrVPYBp0F7LCdbchs6OzNutVonXmRgVGbi7QnU8WE7Ji67QnQ=s160-c-k-c0x00ffffff-no-rj",
+    "songCount": 3,
+    "genres": ["Gospel", "Ethiopian"],
+    "country": "Ethiopia",
+    "songs": [
+      {
+        "id": "1-1",
+        "title": " የናፈቀኝ",
+        "artist": "Biniyam Yonas",
+        "duration": "6:59",
+        "artistImage": "https://i.ytimg.com/vi/aqG7UNBfBJ0/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aqG7UNBfBJ0",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/aqG7UNBfBJ0/maxresdefault.jpg"
+      }
+    ]
   }
 ]
