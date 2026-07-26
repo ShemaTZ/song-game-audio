@@ -9619,5 +9619,590 @@
       "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song16.mp3"
     }
   ]
+},
+{
+  "id": "56",
+  "title": "አምላኬ ደስታዬ",
+  "artist": "Yohannes Girma",
+  "coverImage": "https://i.ytimg.com/vi/k7SwF2B30CE/maxresdefault.jpg",
+  "songCount": 11,
+  "tracks": [
+    {
+      "id": "56-1",
+      "title": "አምላኬ ደስታዬ",
+      "artist": "Yohannes Girma",
+      "duration": "6:14",
+      "artistImage": "https://i.ytimg.com/vi/k7SwF2B30CE/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k7SwF2B30CE",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3"
+    },
+    {
+      "id": "56-2",
+      "title": "ከመገኘትህ ወዴት እሄዳለው",
+      "artist": "Yohannes Girma",
+      "duration": "5:18",
+      "artistImage": "https://i.ytimg.com/vi/4x6y1U3ZmII/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4x6y1U3ZmII",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song2.mp3"
+    },
+    {
+      "id": "56-3",
+      "title": "ካንተ ሌላ አባት",
+      "artist": "Yohannes Girma",
+      "duration": "6:43",
+      "artistImage": "https://i.ytimg.com/vi/UyL24sARhps/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UyL24sARhps",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song3.mp3"
+    },
+    {
+      "id": "56-4",
+      "title": "የመውደዴን ብዛት",
+      "artist": "Yohannes Girma",
+      "duration": "5:53",
+      "artistImage": "https://i.ytimg.com/vi/FpcraGiJ_jA/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FpcraGiJ_jA",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song4.mp3"
+    },
+    {
+      "id": "56-5",
+      "title": "ያህዌ ንሲ",
+      "artist": "Yohannes Girma",
+      "duration": "6:26",
+      "artistImage": "https://i.ytimg.com/vi/K8bj_rZb41s/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K8bj_rZb41s",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song5.mp3"
+    },
+    {
+      "id": "56-6",
+      "title": "አንተ ዘላለም ነህ",
+      "artist": "Yohannes Girma",
+      "duration": "4:14",
+      "artistImage": "https://i.ytimg.com/vi/hLZQu1d9IC0/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hLZQu1d9IC0",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song6.mp3"
+    },
+    {
+      "id": "56-7",
+      "title": "መቅበዝበዝ ሳበዛ",
+      "artist": "Yohannes Girma",
+      "duration": "8:03",
+      "artistImage": "https://i.ytimg.com/vi/UqxcirTMJuk/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UqxcirTMJuk",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song7.mp3"
+    },
+    {
+      "id": "56-8",
+      "title": "ከጠዋት አንስቶ",
+      "artist": "Yohannes Girma",
+      "duration": "7:08",
+      "artistImage": "https://i.ytimg.com/vi/sbTU7PQZtG8/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sbTU7PQZtG8",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song8.mp3"
+    },
+    {
+      "id": "56-9",
+      "title": "አንድ አምላክ",
+      "artist": "Yohannes Girma",
+      "duration": "5:20",
+      "artistImage": "https://i.ytimg.com/vi/67ShUmqvd9s/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=67ShUmqvd9s",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song9.mp3"
+    },
+    {
+      "id": "56-10",
+      "title": "ለክብር የሚሆን እቃ",
+      "artist": "Yohannes Girma",
+      "duration": "6:11",
+      "artistImage": "https://i.ytimg.com/vi/R6QJnTJElHw/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=R6QJnTJElHw",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song10.mp3"
+    },
+    {
+      "id": "56-11",
+      "title": "ሃሌሉያ",
+      "artist": "Yohannes Girma",
+      "duration": "7:06",
+      "artistImage": "https://i.ytimg.com/vi/coGvV_vCQIc/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=coGvV_vCQIc",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song11.mp3"
+    }
+  ]
+},
+{
+  "id": "57",
+  "title": "አባትነትህ",
+  "artist": "Frehiwot Abebaw",
+  "coverImage": "https://i.ytimg.com/vi/BY_0ngwIEyo/maxresdefault.jpg",
+  "songCount": 13,
+  "tracks": [
+    {
+      "id": "57-1",
+      "title": "በምህረትህ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "5:03",
+      "artistImage": "https://i.ytimg.com/vi/LTccbOOjWwg/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LTccbOOjWwg",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song15.mp3"
+    },
+    {
+      "id": "57-2",
+      "title": "አባትነትህ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "6:51",
+      "artistImage": "https://i.ytimg.com/vi/hRn-RKd2GBc/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hRn-RKd2GBc",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song14.mp3"
+    },
+    {
+      "id": "57-3",
+      "title": "አንድዬ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "5:20",
+      "artistImage": "https://i.ytimg.com/vi/jKldEck-pNc/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jKldEck-pNc",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song13.mp3"
+    },
+    {
+      "id": "57-4",
+      "title": "የመስቀሉ ቃል",
+      "artist": "Frehiwot Abebaw",
+      "duration": "4:03",
+      "artistImage": "https://i.ytimg.com/vi/6mSQxlxu3dA/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6mSQxlxu3dA",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song12.mp3"
+    },
+    {
+      "id": "57-5",
+      "title": "ኢየሱስ ወዳጄ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "6:28",
+      "artistImage": "https://i.ytimg.com/vi/yeM8gEw5hTY/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yeM8gEw5hTY",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song11.mp3"
+    },
+    {
+      "id": "57-6",
+      "title": "ነበርክ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "7:23",
+      "artistImage": "https://i.ytimg.com/vi/cKNfbF6OAOE/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cKNfbF6OAOE",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song10.mp3"
+    },
+    {
+      "id": "57-7",
+      "title": "ተመስገን",
+      "artist": "Frehiwot Abebaw",
+      "duration": "5:14",
+      "artistImage": "https://i.ytimg.com/vi/HtStm3DqN88/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HtStm3DqN88",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song9.mp3"
+    },
+    {
+      "id": "57-8",
+      "title": "መንፈስ ቅዱስ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "6:33",
+      "artistImage": "https://i.ytimg.com/vi/xhTUk4SscVY/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xhTUk4SscVY",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song8.mp3"
+    },
+    {
+      "id": "57-9",
+      "title": "ንጉሴ ነህ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "4:58",
+      "artistImage": "https://i.ytimg.com/vi/AAO0tCrqphU/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AAO0tCrqphU",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song7.mp3"
+    },
+    {
+      "id": "57-10",
+      "title": "ቃልህ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "3:44",
+      "artistImage": "https://i.ytimg.com/vi/ryxBJkHXeZk/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ryxBJkHXeZk",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song6.mp3"
+    },
+    {
+      "id": "57-11",
+      "title": "ሃሌሉያ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "5:07",
+      "artistImage": "https://i.ytimg.com/vi/WUlCFmbvB3Q/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WUlCFmbvB3Q",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song5.mp3"
+    },
+    {
+      "id": "57-12",
+      "title": "ታስብልኛለህ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "4:37",
+      "artistImage": "https://i.ytimg.com/vi/TyJvcsAHsTM/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TyJvcsAHsTM",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song4.mp3"
+    },
+    {
+      "id": "57-13",
+      "title": "አሰብኩህ",
+      "artist": "Frehiwot Abebaw",
+      "duration": "5:50",
+      "artistImage": "https://i.ytimg.com/vi/m8T4kbbbo6k/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=m8T4kbbbo6k",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song3.mp3"
+    }
+  ]
+},
+{
+  "id": "58",
+  "title": "አልደራደርም",
+  "artist": "Selam Desta Official",
+  "coverImage": "https://i.ytimg.com/vi/GaW0OJK8cls/maxresdefault.jpg",
+  "songCount": 13,
+  "tracks": [
+    {
+      "id": "58-1",
+      "title": "ፍፁም አላፈረም",
+      "artist": "Selam Desta Official",
+      "duration": "5:07",
+      "artistImage": "https://i.ytimg.com/vi/GaW0OJK8cls/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GaW0OJK8cls",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3"
+    },
+    {
+      "id": "58-2",
+      "title": "በቂ ነው",
+      "artist": "Selam Desta Official",
+      "duration": "4:25",
+      "artistImage": "https://i.ytimg.com/vi/nC8pGvxaDt8/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nC8pGvxaDt8",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song2.mp3"
+    },
+    {
+      "id": "58-3",
+      "title": "በቃ ዳንኩኝ",
+      "artist": "Selam Desta Official",
+      "duration": "6:08",
+      "artistImage": "https://i.ytimg.com/vi/c_BO2qvjDew/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c_BO2qvjDew",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song3.mp3"
+    },
+    {
+      "id": "58-4",
+      "title": "ደሙ",
+      "artist": "Selam Desta Official",
+      "duration": "4:48",
+      "artistImage": "https://i.ytimg.com/vi/oZq2tjgSS4E/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oZq2tjgSS4E",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song4.mp3"
+    },
+    {
+      "id": "58-5",
+      "title": "አልደራደርም",
+      "artist": "Selam Desta Official",
+      "duration": "3:38",
+      "artistImage": "https://i.ytimg.com/vi/B_JNYo-0goA/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B_JNYo-0goA",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song5.mp3"
+    },
+    {
+      "id": "58-6",
+      "title": "ፍቅር ነህ",
+      "artist": "Selam Desta Official",
+      "duration": "6:13",
+      "artistImage": "https://i.ytimg.com/vi/VcrMe7mLJKU/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VcrMe7mLJKU",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song6.mp3"
+    },
+    {
+      "id": "58-7",
+      "title": "ፀጋህ ይርዳኝ",
+      "artist": "Selam Desta Official",
+      "duration": "6:20",
+      "artistImage": "https://i.ytimg.com/vi/sCLQqMSlU7w/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sCLQqMSlU7w",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song7.mp3"
+    },
+    {
+      "id": "58-8",
+      "title": "አቤቱ",
+      "artist": "Selam Desta Official",
+      "duration": "4:52",
+      "artistImage": "https://i.ytimg.com/vi/4bSz7eL3a7M/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4bSz7eL3a7M",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song8.mp3"
+    },
+    {
+      "id": "58-9",
+      "title": "ያልኖርክበት",
+      "artist": "Selam Desta Official",
+      "duration": "7:23",
+      "artistImage": "https://i.ytimg.com/vi/kIPXS94FoPE/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kIPXS94FoPE",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song9.mp3"
+    },
+    {
+      "id": "58-10",
+      "title": "ክብርህ የሌለበት",
+      "artist": "Selam Desta Official",
+      "duration": "5:28",
+      "artistImage": "https://i.ytimg.com/vi/7Qe84g_Yovg/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7Qe84g_Yovg",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song10.mp3"
+    },
+    {
+      "id": "58-11",
+      "title": "ተመርጫለሁ",
+      "artist": "Selam Desta Official",
+      "duration": "3:49",
+      "artistImage": "https://i.ytimg.com/vi/sKT5GZ03CaE/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sKT5GZ03CaE",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song11.mp3"
+    },
+    {
+      "id": "58-12",
+      "title": "ና ጌታ ይወድሀል",
+      "artist": "Selam Desta Official",
+      "duration": "5:36",
+      "artistImage": "https://i.ytimg.com/vi/elSf3CmhVX0/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=elSf3CmhVX0",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song12.mp3"
+    },
+    {
+      "id": "58-13",
+      "title": "እሄዳለሁ",
+      "artist": "Selam Desta Official",
+      "duration": "5:28",
+      "artistImage": "https://i.ytimg.com/vi/IfIqCo0ozPc/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IfIqCo0ozPc",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song13.mp3"
+    }
+  ]
+},
+{
+  "id": "59",
+  "title": "ካሰነበትከኝ",
+  "artist": "Soreti Moges",
+  "coverImage": "https://i.ytimg.com/vi/ra_Iz6e2Qqw/maxresdefault.jpg",
+  "songCount": 11,
+  "tracks": [
+    {
+      "id": "59-1",
+      "title": "ሁልጊዜ",
+      "artist": "Soreti Moges",
+      "duration": "5:26",
+      "artistImage": "https://i.ytimg.com/vi/ra_Iz6e2Qqw/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ra_Iz6e2Qqw",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3"
+    },
+    {
+      "id": "59-2",
+      "title": "ካሰነበትከኝ",
+      "artist": "Soreti Moges",
+      "duration": "4:21",
+      "artistImage": "https://i.ytimg.com/vi/tVfQl87pmBA/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tVfQl87pmBA",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song2.mp3"
+    },
+    {
+      "id": "59-3",
+      "title": "አለኝ ያለ",
+      "artist": "Soreti Moges",
+      "duration": "4:23",
+      "artistImage": "https://i.ytimg.com/vi/kdk9dspLvhg/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kdk9dspLvhg",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song3.mp3"
+    },
+    {
+      "id": "59-4",
+      "title": "አላፈርክብኝም",
+      "artist": "Soreti Moges",
+      "duration": "4:18",
+      "artistImage": "https://i.ytimg.com/vi/lh3s7fmlU4w/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lh3s7fmlU4w",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song4.mp3"
+    },
+    {
+      "id": "59-5",
+      "title": "ይኸው",
+      "artist": "Soreti Moges",
+      "duration": "4:34",
+      "artistImage": "https://i.ytimg.com/vi/tBUTfvYxMLM/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tBUTfvYxMLM",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song5.mp3"
+    },
+    {
+      "id": "59-6",
+      "title": "የማውቀው",
+      "artist": "Soreti Moges",
+      "duration": "1:51",
+      "artistImage": "https://i.ytimg.com/vi/JFCcrPJcdc0/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JFCcrPJcdc0",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song6.mp3"
+    },
+    {
+      "id": "59-7",
+      "title": "በቅድስና",
+      "artist": "Soreti Moges",
+      "duration": "4:35",
+      "artistImage": "https://i.ytimg.com/vi/LHHSQTmx6RQ/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LHHSQTmx6RQ",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song7.mp3"
+    },
+    {
+      "id": "59-8",
+      "title": "የነገዬ ድምቀት",
+      "artist": "Soreti Moges",
+      "duration": "4:10",
+      "artistImage": "https://i.ytimg.com/vi/bAtIMpOMe8Q/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bAtIMpOMe8Q",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song8.mp3"
+    },
+    {
+      "id": "59-9",
+      "title": "ልስገድልህ",
+      "artist": "Soreti Moges",
+      "duration": "4:53",
+      "artistImage": "https://i.ytimg.com/vi/PtwKXwj789Q/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PtwKXwj789Q",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song9.mp3"
+    },
+    {
+      "id": "59-10",
+      "title": "እየራራህልኝ",
+      "artist": "Soreti Moges",
+      "duration": "4:22",
+      "artistImage": "https://i.ytimg.com/vi/K9_DuJFLj04/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K9_DuJFLj04",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song10.mp3"
+    },
+    {
+      "id": "59-11",
+      "title": "በድንገት",
+      "artist": "Soreti Moges",
+      "duration": "4:18",
+      "artistImage": "https://i.ytimg.com/vi/krQc6Ybceq0/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=krQc6Ybceq0",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song11.mp3"
+    }
+  ]
+},
+{
+  "id": "60",
+  "title": "ሁሉን ታውቃለህ",
+  "artist": "Workneh Alaro",
+  "coverImage": "https://i.ytimg.com/vi/OSibqqDKvw8/maxresdefault.jpg",
+  "songCount": 12,
+  "tracks": [
+    {
+      "id": "60-1",
+      "title": "ለክብሩ",
+      "artist": "Workneh Alaro",
+      "duration": "5:44",
+      "artistImage": "https://i.ytimg.com/vi/KsXvIss4bv8/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KsXvIss4bv8",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song4.mp3"
+    },
+    {
+      "id": "60-2",
+      "title": "ሁሉን ታውቃለህ",
+      "artist": "Workneh Alaro",
+      "duration": "4:44",
+      "artistImage": "https://i.ytimg.com/vi/7dAvVKQFRDE/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7dAvVKQFRDE",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song12.mp3"
+    },
+    {
+      "id": "60-3",
+      "title": "ታላቅ የምስራች",
+      "artist": "Workneh Alaro",
+      "duration": "5:12",
+      "artistImage": "https://i.ytimg.com/vi/gUUMV_I5GzA/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gUUMV_I5GzA",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song3.mp3"
+    },
+    {
+      "id": "60-4",
+      "title": "እየጨመረ",
+      "artist": "Workneh Alaro",
+      "duration": "4:44",
+      "artistImage": "https://i.ytimg.com/vi/eI4V9KbJVYI/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eI4V9KbJVYI",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song2.mp3"
+    },
+    {
+      "id": "60-5",
+      "title": "በፍቅር አይኖቹ",
+      "artist": "Workneh Alaro",
+      "duration": "4:57",
+      "artistImage": "https://i.ytimg.com/vi/X0XgVeIvvac/sddefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=X0XgVeIvvac",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song11.mp3"
+    },
+    {
+      "id": "60-6",
+      "title": "በኒ ጉራን",
+      "artist": "Workneh Alaro",
+      "duration": "5:25",
+      "artistImage": "https://i.ytimg.com/vi/OSibqqDKvw8/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OSibqqDKvw8",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3"
+    },
+    {
+      "id": "60-7",
+      "title": "ከወዳጅ ይልቅ",
+      "artist": "Workneh Alaro",
+      "duration": "4:18",
+      "artistImage": "https://i.ytimg.com/vi/bVHgazAtP3g/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bVHgazAtP3g",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song9.mp3"
+    },
+    {
+      "id": "60-8",
+      "title": "ክብር ነው",
+      "artist": "Workneh Alaro",
+      "duration": "5:06",
+      "artistImage": "https://i.ytimg.com/vi/4h0bzqEAh8s/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4h0bzqEAh8s",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song8.mp3"
+    },
+    {
+      "id": "60-9",
+      "title": "ታማኝ ነህ",
+      "artist": "Workneh Alaro",
+      "duration": "5:00",
+      "artistImage": "https://i.ytimg.com/vi/IcqNPXJ0XsQ/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IcqNPXJ0XsQ",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song6.mp3"
+    },
+    {
+      "id": "60-10",
+      "title": "ማገልገል",
+      "artist": "Workneh Alaro",
+      "duration": "5:46",
+      "artistImage": "https://i.ytimg.com/vi/qt5bcwSQLkA/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qt5bcwSQLkA",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song10.mp3"
+    },
+    {
+      "id": "60-11",
+      "title": "እታመናለሁ",
+      "artist": "Workneh Alaro",
+      "duration": "5:34",
+      "artistImage": "https://i.ytimg.com/vi/ATIp8ZhfjtQ/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ATIp8ZhfjtQ",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song7.mp3"
+    },
+    {
+      "id": "60-12",
+      "title": "ተወው",
+      "artist": "Workneh Alaro",
+      "duration": "3:30",
+      "artistImage": "https://i.ytimg.com/vi/FjohSrBmmK0/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FjohSrBmmK0",
+      "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song5.mp3"
+    }
+  ]
 }
 ]
