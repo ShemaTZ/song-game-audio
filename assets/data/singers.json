@@ -186,5 +186,35 @@
         "albumCoverImage": "https://i.ytimg.com/vi/lDJvdvCgyuk/maxresdefault.jpg"
       }
     ]
+  },
+  {
+    "id": "6",
+    "name": "Aster Abebe",
+    "coverImage": "https://yt3.googleusercontent.com/OO4swGa_Moj2riOI_JXqNHe4qG98ICoH6u809N8VAoiAKygg3tPXhPPWXmNbkA-Xi-PpP38c0Nc=s160-c-k-c0x00ffffff-no-rj",
+    "songCount": 2,
+    "genres": ["Gospel", "Ethiopian"],
+    "country": "Ethiopia",
+    "songs": [
+      {
+        "id": "1-1",
+        "title": "ባየው ባየው",
+        "artist": "Aster Abebe",
+        "duration": "7:56",
+        "artistImage": "https://i.ytimg.com/vi/ipYXBD_znvo/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ipYXBD_znvo",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/ipYXBD_znvo/maxresdefault.jpg"
+      },
+      {
+        "id": "1-2",
+        "title": "በዘመኔ አያለሁ",
+        "artist": "Aster Abebe",
+        "duration": "6:44",
+        "artistImage": "https://i.ytimg.com/vi/6s-xG7PDJLU/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6s-xG7PDJLU",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/6s-xG7PDJLU/maxresdefault.jpg"
+      }
+    ]
   }
 ]
