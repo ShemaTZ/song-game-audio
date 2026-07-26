@@ -157,13 +157,33 @@
     "songs": [
       {
         "id": "1-1",
-        "title": " የናፈቀኝ",
+        "title": "የናፈቀኝ",
         "artist": "Biniyam Yonas",
         "duration": "6:59",
         "artistImage": "https://i.ytimg.com/vi/aqG7UNBfBJ0/maxresdefault.jpg",
         "youtubeUrl": "https://www.youtube.com/watch?v=aqG7UNBfBJ0",
         "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
         "albumCoverImage": "https://i.ytimg.com/vi/aqG7UNBfBJ0/maxresdefault.jpg"
+      },
+      {
+        "id": "1-2",
+        "title": "ቃልህን ወደድኩት",
+        "artist": "Biniyam Yonas",
+        "duration": "5:21",
+        "artistImage": "https://i.ytimg.com/vi/0JkfhS1Ef1U/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0JkfhS1Ef1U",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/0JkfhS1Ef1U/maxresdefault.jpg"
+      },
+      {
+        "id": "1-3",
+        "title": "ይሰማ በዓለም",
+        "artist": "Biniyam Yonas",
+        "duration": "6:48",
+        "artistImage": "https://i.ytimg.com/vi/lDJvdvCgyuk/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lDJvdvCgyuk",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3",
+        "albumCoverImage": "https://i.ytimg.com/vi/lDJvdvCgyuk/maxresdefault.jpg"
       }
     ]
   }
