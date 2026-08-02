@@ -3571,5 +3571,959 @@
         "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song396.mp3"
       }
     ]
+  },
+  {
+    "id": "UCBRaMydGNe-Aa8R8n9bmPig",
+    "title": "CFW WORSHIP MINISTRY ",
+    "artist": "CFW WORSHIP MINISTRY ",
+    "coverImage": "https://yt3.ggpht.com/Pa7HsBgPEkPCzC3p-oku-Iu0AjEWtV3OHgELwIic0v9lkIlCyIyxQs04CuG3prNld1sXd_E0XFM=s800-c-k-c0x00ffffff-no-rj",
+    "songCount": 154,
+    "tracks": [
+      {
+        "id": "CFW-1",
+        "title": "ገረመኝ ማዳንህ | Ruth Amare | Created For Worship | Geremegn Madanih | Original Song By Yohannes Girma",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "20:12",
+        "artistImage": "https://i.ytimg.com/vi/opuq4r4xxDo/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=opuq4r4xxDo",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song1.mp3"
+      },
+      {
+        "id": "CFW-2",
+        "title": "ማነው ሰማይን የሰራ | kalkidan mohammed | Created For Worship |  | Org. Song By Tekeste Getnet",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "13:29",
+        "artistImage": "https://i.ytimg.com/vi/uw9RLQ1D12M/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=uw9RLQ1D12M",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song2.mp3"
+      },
+      {
+        "id": "CFW-3",
+        "title": "ካንተ ጋራ | ARGITU MISGANA | Created For Worship | Situ jira | Org. Song By Meskerem Getu",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "13:29",
+        "artistImage": "https://i.ytimg.com/vi/ROsS0qFspDU/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ROsS0qFspDU",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song3.mp3"
+      },
+      {
+        "id": "CFW-4",
+        "title": "ይፈውስ ይዳሰኝ | Selamu Kedir | Created For Worship | Yefewes Yedasegn | Org. Song By Endale Woldegiorgis",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "19:03",
+        "artistImage": "https://i.ytimg.com/vi/9BGCHIyBCUM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9BGCHIyBCUM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song4.mp3"
+      },
+      {
+        "id": "CFW-5",
+        "title": "Akka Namaa Ta'ee | Selamu Kedir | Created For Worship 2026 | Org. Song By Baacaa Bayyanaa",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "10:12",
+        "artistImage": "https://i.ytimg.com/vi/Yx9_ESSvHaM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Yx9_ESSvHaM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song5.mp3"
+      },
+      {
+        "id": "CFW-6",
+        "title": "ለኛ ግን መጠለያችን | Zakiyos Abiti | Created For Worship | Original Song By Dr. Dereje Kebede",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "16:19",
+        "artistImage": "https://i.ytimg.com/vi/JDA3Pc94je0/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JDA3Pc94je0",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song6.mp3"
+      },
+      {
+        "id": "CFW-7",
+        "title": "መፅናኛዬ | Mihret | Created For Worship |Org. Song By Endale Woldegiorgis",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "14:19",
+        "artistImage": "https://i.ytimg.com/vi/yjym5XB1fQk/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yjym5XB1fQk",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song7.mp3"
+      },
+      {
+        "id": "CFW-8",
+        "title": "ፍቅርህ አይሎብኝ | Bereket Wubishet | Created For Worship | Original Song By Rahel Wendwesen",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "17:06",
+        "artistImage": "https://i.ytimg.com/vi/vHFXOlSh1c8/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vHFXOlSh1c8",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song8.mp3"
+      },
+      {
+        "id": "CFW-9",
+        "title": "ልዑልን መጠጊያ | Yohannis Getaye | Created For Worship | Leulen Metegiya | Original Song By Mesfin Gutu",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "11:39",
+        "artistImage": "https://i.ytimg.com/vi/D0ZRcq2NatM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=D0ZRcq2NatM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song9.mp3"
+      },
+      {
+        "id": "CFW-10",
+        "title": "አጠገቤ ነህ  | shalom | Created For Worship |Org. Song By Tekeste Getnet",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "16:12",
+        "artistImage": "https://i.ytimg.com/vi/zc_DsSzs1z4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zc_DsSzs1z4",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song10.mp3"
+      },
+      {
+        "id": "CFW-11",
+        "title": "ዝም ይበል | Selamu Kedir | Created For Worship 2026 | Zim Yibel | Org. Song By Illasha Fekadu",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "13:30",
+        "artistImage": "https://i.ytimg.com/vi/vQxiMBsBmEM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vQxiMBsBmEM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song11.mp3"
+      },
+      {
+        "id": "CFW-12",
+        "title": "ህዝብን አበዛህ | Mintesnot Gemechu | Created For Worship |Org. Song By Tamirat Haile & Tesfaye gabisso",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "13:52",
+        "artistImage": "https://i.ytimg.com/vi/OY8-4Ho9Kd8/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OY8-4Ho9Kd8",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song12.mp3"
+      },
+      {
+        "id": "CFW-13",
+        "title": "ይንደድ እሳቱ | Zakiyos Abiti | Created For Worship | Original Song By Yoseph Bekele",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "18:05",
+        "artistImage": "https://i.ytimg.com/vi/mWZP4vBY_54/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mWZP4vBY_54",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song13.mp3"
+      },
+      {
+        "id": "CFW-14",
+        "title": "መንገዴን አደራ | Bereket Wubishet | Created For Worship | Original Song By Agegnehu Yideg",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "18:31",
+        "artistImage": "https://i.ytimg.com/vi/MbbQxIxbZkQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MbbQxIxbZkQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song14.mp3"
+      },
+      {
+        "id": "CFW-15",
+        "title": "ሁልጊዜ | Yohannis Getaye | Created For Worship | Hulgize | Original Song By Awtaru kebede",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "24:55",
+        "artistImage": "https://i.ytimg.com/vi/WVlFLOqVA5g/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WVlFLOqVA5g",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song15.mp3"
+      },
+      {
+        "id": "CFW-16",
+        "title": "የቱ ጀግና ነው | Mintesnot Gemechu | Created For Worship |Org. Song By Bereket Tesfaye & Yidnekachew Teka",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "19:05",
+        "artistImage": "https://i.ytimg.com/vi/34IvJZEJo54/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=34IvJZEJo54",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song16.mp3"
+      },
+      {
+        "id": "CFW-17",
+        "title": "አልፋ ነህ ኦሜጋ | Ruth Amare | Created For Worship |Alfa neh Omega| Original Song By Samuel TesfaMichael",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "10:38",
+        "artistImage": "https://i.ytimg.com/vi/AJnqoCNEzA4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AJnqoCNEzA4",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song17.mp3"
+      },
+      {
+        "id": "CFW-18",
+        "title": "ኢየሱስ አንተን አለች ነፍሴ | Selamu Kedir | Created For Worship 2026 |Eyasus Anten Alech Nefse |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "18:39",
+        "artistImage": "https://i.ytimg.com/vi/V-GS2O0l1Fo/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=V-GS2O0l1Fo",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song18.mp3"
+      },
+      {
+        "id": "CFW-19",
+        "title": "sewed geta | Bereket Wubishet | Created For Worship |  ሲወድ ጌታ | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "19:18",
+        "artistImage": "https://i.ytimg.com/vi/avCVLSLt9PQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=avCVLSLt9PQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song19.mp3"
+      },
+      {
+        "id": "CFW-20",
+        "title": "ለጥቂት ጊዜ | Mintesnot Gemechu | Created For Worship | Letekit Gize |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "15:55",
+        "artistImage": "https://i.ytimg.com/vi/VkaRUgYeSp0/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VkaRUgYeSp0",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song20.mp3"
+      },
+      {
+        "id": "CFW-21",
+        "title": "AN GOODOOKEE JALAA | Bereket Wubishet | Created For Worship | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "13:04",
+        "artistImage": "https://i.ytimg.com/vi/DJEGbaIDY_w/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DJEGbaIDY_w",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song21.mp3"
+      },
+      {
+        "id": "CFW-22",
+        "title": "Hulu Yidersal | Zakiyos Abiti | Created For Worship 2026 | ሁሉ ይደርሳል | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "18:17",
+        "artistImage": "https://i.ytimg.com/vi/dmxXRu7h-JA/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dmxXRu7h-JA",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song22.mp3"
+      },
+      {
+        "id": "CFW-23",
+        "title": "Ayehu Fiker | Bereket Wubishet | Created For Worship | አየሁ ፍቅር | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "13:14",
+        "artistImage": "https://i.ytimg.com/vi/-kUMOSCaxLk/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-kUMOSCaxLk",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song23.mp3"
+      },
+      {
+        "id": "CFW-24",
+        "title": "እንዴት እንዲያድን ያውቃል እግዚአብሄር | Mintesnot Gemechu | Created For Worship |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "15:54",
+        "artistImage": "https://i.ytimg.com/vi/ppKdJxbwQBk/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ppKdJxbwQBk",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song24.mp3"
+      },
+      {
+        "id": "CFW-25",
+        "title": "በዘላለም ዙፋን ልይ  | Ruth Amare | Created For Worship | Bezelalem Zufan Lay |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "10:12",
+        "artistImage": "https://i.ytimg.com/vi/CVrE6UNViTM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CVrE6UNViTM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song25.mp3"
+      },
+      {
+        "id": "CFW-26",
+        "title": "ማራናታ | Nobel Eskinder | Created For Worship | Maranata  |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "11:54",
+        "artistImage": "https://i.ytimg.com/vi/ciZWl3G-S9w/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ciZWl3G-S9w",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song26.mp3"
+      },
+      {
+        "id": "CFW-27",
+        "title": "ምን ይዤ ልቅረብ በፊትህ | Mintesnot Gemechu | Created For Worship | Men Yezie Leqreb Befiteh |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "15:30",
+        "artistImage": "https://i.ytimg.com/vi/BFkFG8d8B6I/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BFkFG8d8B6I",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song27.mp3"
+      },
+      {
+        "id": "CFW-28",
+        "title": "Engedaye | Bereket Wubishet | Created For Worship | እንግዳዬ | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "22:14",
+        "artistImage": "https://i.ytimg.com/vi/Y0alpWohGQM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Y0alpWohGQM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song28.mp3"
+      },
+      {
+        "id": "CFW-29",
+        "title": "Isan Bo'ee Itti Himadhe | Selamu Kedir | Created For Worship | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "11:15",
+        "artistImage": "https://i.ytimg.com/vi/jbV_jMhQJrc/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jbV_jMhQJrc",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song29.mp3"
+      },
+      {
+        "id": "CFW-30",
+        "title": "Minem Behonleh | Bereket Wubishet | Created For Worship  | ምንም ብሆንልህ | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "16:19",
+        "artistImage": "https://i.ytimg.com/vi/2qFQ4vkKik4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2qFQ4vkKik4",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song30.mp3"
+      },
+      {
+        "id": "CFW-31",
+        "title": "Waaqayyooti amane bara koo | Mintesnot Gemechu | Created For Worship |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "11:45",
+        "artistImage": "https://i.ytimg.com/vi/ew4xkzBKKmw/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ew4xkzBKKmw",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song31.mp3"
+      },
+      {
+        "id": "CFW-32",
+        "title": "Menoriyayie | Ruth Amare | Created For Worship 2026 | መኖሪያዬ | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "19:50",
+        "artistImage": "https://i.ytimg.com/vi/rUXrKL7td9s/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rUXrKL7td9s",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song32.mp3"
+      },
+      {
+        "id": "CFW-33",
+        "title": "Anten kagegne sew | Yohannis Getaye | Created For Worship 2026 | አንተን ካገኘ ሰው | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "14:44",
+        "artistImage": "https://i.ytimg.com/vi/m9WzfNn_Exg/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=m9WzfNn_Exg",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song33.mp3"
+      },
+      {
+        "id": "CFW-34",
+        "title": "Medanga Neh | Selamu Kedir | Created For Worship 2026 | መዳኛ ነህ  | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "16:20",
+        "artistImage": "https://i.ytimg.com/vi/M316IESQ0q0/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=M316IESQ0q0",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song34.mp3"
+      },
+      {
+        "id": "CFW-35",
+        "title": "Nefse Ataleh  | Zakiyos Abiti | Created For Worship 2026 | ነፍሴ_አጥታልህ | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "11:00",
+        "artistImage": "https://i.ytimg.com/vi/HEQK4hUUKQ0/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=HEQK4hUUKQ0",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song35.mp3"
+      },
+      {
+        "id": "CFW-36",
+        "title": "Eyesus Selame New | Yohannis Getaye | Created For Worship 2026 | ኢየሱስ ሰላሜ ነው | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "12:28",
+        "artistImage": "https://i.ytimg.com/vi/F-y-rEy2VdE/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=F-y-rEy2VdE",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song36.mp3"
+      },
+      {
+        "id": "CFW-37",
+        "title": "Metamegnaye | Ruth Amare | Created For Worship 2026 | መታመኛዬ | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "16:03",
+        "artistImage": "https://i.ytimg.com/vi/r8AfrmHaX2c/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=r8AfrmHaX2c",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song37.mp3"
+      },
+      {
+        "id": "CFW-38",
+        "title": "Aletewukegnem | Selamu Kedir | Created For Worship 2026 | አልተውከኝም | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "16:07",
+        "artistImage": "https://i.ytimg.com/vi/IPPOIdXS_fM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IPPOIdXS_fM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song38.mp3"
+      },
+      {
+        "id": "CFW-39",
+        "title": "Fiker | Bereket Wubishet | Created For Worship 2026 | ፍቅር | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "22:33",
+        "artistImage": "https://i.ytimg.com/vi/_XUPHJyc50o/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_XUPHJyc50o",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song39.mp3"
+      },
+      {
+        "id": "CFW-40",
+        "title": "Created For Worship 2025 Full Album",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "21:18",
+        "artistImage": "https://i.ytimg.com/vi/OICM6sTPcRQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OICM6sTPcRQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song40.mp3"
+      },
+      {
+        "id": "CFW-41",
+        "title": "ተራራው የሚናድለት | Mintesnot Gemechu |",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:43",
+        "artistImage": "https://i.ytimg.com/vi/YqWQtIJs_m4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YqWQtIJs_m4",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song41.mp3"
+      },
+      {
+        "id": "CFW-42",
+        "title": "የፍቅር ስጦታዬ | Zakiyos Abiti | Created For Worship 2026 | Yefikir Sitotataye | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "8:41",
+        "artistImage": "https://i.ytimg.com/vi/RyKyPwQNcnQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=RyKyPwQNcnQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song42.mp3"
+      },
+      {
+        "id": "CFW-43",
+        "title": "ተራራው የሚናድለት | Mintesnot Gemechu | Created For Worship | Terara Yeminadelat |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "15:35",
+        "artistImage": "https://i.ytimg.com/vi/bm5d6sF2Ifc/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bm5d6sF2Ifc",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song43.mp3"
+      },
+      {
+        "id": "CFW-44",
+        "title": "የፍቅር ስጦታዬ Zakiyos Abiti",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:53",
+        "artistImage": "https://i.ytimg.com/vi/UptUHjvtg5o/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UptUHjvtg5o",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song44.mp3"
+      },
+      {
+        "id": "CFW-45",
+        "title": "Track 01 | የጌታን ቀን | Yegetan Qen | Selamu Kedir | Created For Worship 2025 Album",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "4:38",
+        "artistImage": "https://i.ytimg.com/vi/PgQik05D14M/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PgQik05D14M",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song45.mp3"
+      },
+      {
+        "id": "CFW-46",
+        "title": "Track 02 | ዘላለማዊ | Zelalemawi | Yohannis Getaye | Created For Worship 2025 Album",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "4:08",
+        "artistImage": "https://i.ytimg.com/vi/y6uzHJSxLgw/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=y6uzHJSxLgw",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song46.mp3"
+      },
+      {
+        "id": "CFW-47",
+        "title": "Track 03 | እግዚአብሔር ፃድቅ | Egziabher Tsadeq | Zakiyos Abiti | Created For Worship 2025 Album",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "4:23",
+        "artistImage": "https://i.ytimg.com/vi/Qyv0a7OFd_s/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Qyv0a7OFd_s",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song47.mp3"
+      },
+      {
+        "id": "CFW-48",
+        "title": "Track 04 | ሮኢ | Ro'i | Bereket Wubishet | Created For Worship 2025 Album",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "5:09",
+        "artistImage": "https://i.ytimg.com/vi/sAqL84Bz3-g/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sAqL84Bz3-g",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song48.mp3"
+      },
+      {
+        "id": "CFW-49",
+        "title": "Track 05 | ይገባሃል ምስጋና | Yegabahal Mesgana | Mintesnot Gemechu | Created For Worship 2025 Album",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "4:07",
+        "artistImage": "https://i.ytimg.com/vi/lVpMJid_MVQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lVpMJid_MVQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song49.mp3"
+      },
+      {
+        "id": "CFW-50",
+        "title": "CFW WORSHIP MINISTRY ALBUM  እግዚአብሔር ፃድቅ",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:24",
+        "artistImage": "https://i.ytimg.com/vi/VAqubrFpipQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VAqubrFpipQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song50.mp3"
+      },
+      {
+        "id": "CFW-51",
+        "title": "CFW WORSHIP MINISTRY ALBUM የጌታን ቀን",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:41",
+        "artistImage": "https://i.ytimg.com/vi/7TWFDLpFETQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7TWFDLpFETQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song51.mp3"
+      },
+      {
+        "id": "CFW-52",
+        "title": "CFW WORSHIP MINISTRY ALBUM ይገባሃል ምስጋና",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:51",
+        "artistImage": "https://i.ytimg.com/vi/sme7c0ewxSs/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sme7c0ewxSs",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song52.mp3"
+      },
+      {
+        "id": "CFW-53",
+        "title": "CFW WORSHIP MINISTRY ALBUM  ዘላለማዊ",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:45",
+        "artistImage": "https://i.ytimg.com/vi/bBOeYggFglM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bBOeYggFglM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song53.mp3"
+      },
+      {
+        "id": "CFW-54",
+        "title": "CFW WORSHIP MINISTRY ALBUM ሮኢ",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:02",
+        "artistImage": "https://i.ytimg.com/vi/kAr09Ch--0A/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kAr09Ch--0A",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song54.mp3"
+      },
+      {
+        "id": "CFW-55",
+        "title": "ብዙ ምክኒያት አለኝ | Selamu Kedir | Created For Worship 2025 | Bizu Mikniyat Alegn | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "17:35",
+        "artistImage": "https://i.ytimg.com/vi/3PX3zCqIyko/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3PX3zCqIyko",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song55.mp3"
+      },
+      {
+        "id": "CFW-56",
+        "title": "የሚረዳኝ | Ruth Amare | Created For Worship 2025 | Yemirdagn | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "18:27",
+        "artistImage": "https://i.ytimg.com/vi/hAZgQAbdQXk/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hAZgQAbdQXk",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song56.mp3"
+      },
+      {
+        "id": "CFW-57",
+        "title": "እማኝ | Zakiyos Abiti | Created For Worship 2025 | Emagn | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "14:58",
+        "artistImage": "https://i.ytimg.com/vi/_tUl-ISr9fc/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_tUl-ISr9fc",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song57.mp3"
+      },
+      {
+        "id": "CFW-58",
+        "title": "ትላንት ከትላንትም በስቲያ | Mintesnot Gemechu | Created For Worship | Tilant Ketilantim Bestiya |Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "15:34",
+        "artistImage": "https://i.ytimg.com/vi/4cVXsn6LtIU/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4cVXsn6LtIU",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song58.mp3"
+      },
+      {
+        "id": "CFW-59",
+        "title": "አቤት እግዚአብሄር እርሱ | Yohannis Getaye | Created For Worship 2025 | EGZIYABEHERE ERSU | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "11:16",
+        "artistImage": "https://i.ytimg.com/vi/ZES7KJdQPVk/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZES7KJdQPVk",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song59.mp3"
+      },
+      {
+        "id": "CFW-60",
+        "title": "Gallata Qabna | Benjamin Abebe | Created For Worship 2025 || Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "6:17",
+        "artistImage": "https://i.ytimg.com/vi/LkzbvYsX6o8/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LkzbvYsX6o8",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song60.mp3"
+      },
+      {
+        "id": "CFW-61",
+        "title": "ኢየሱስ | Bereket Wubishet | Created For Worship 2025 | Eyesus  | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "14:41",
+        "artistImage": "https://i.ytimg.com/vi/xwpeD-3QCHM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xwpeD-3QCHM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song61.mp3"
+      },
+      {
+        "id": "CFW-62",
+        "title": "Zakiyos Abiti | እማኝ",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:55",
+        "artistImage": "https://i.ytimg.com/vi/RXX2hGnGka0/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=RXX2hGnGka0",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song62.mp3"
+      },
+      {
+        "id": "CFW-63",
+        "title": "ብዙ ምክኒያት አለኝ | Selamu Kedir",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:15",
+        "artistImage": "https://i.ytimg.com/vi/-CrmrETUBAY/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-CrmrETUBAY",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song63.mp3"
+      },
+      {
+        "id": "CFW-64",
+        "title": "Ruth Amare | የሚረዳኝ",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:14",
+        "artistImage": "https://i.ytimg.com/vi/DwmLYURNWoQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DwmLYURNWoQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song64.mp3"
+      },
+      {
+        "id": "CFW-65",
+        "title": "Mintesnot Gemechu | ትላንት ከትላንትም በስቲያ",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:44",
+        "artistImage": "https://i.ytimg.com/vi/bgS379OdEbk/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bgS379OdEbk",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song65.mp3"
+      },
+      {
+        "id": "CFW-66",
+        "title": "gallata qabna | Benjamin Abebe",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:34",
+        "artistImage": "https://i.ytimg.com/vi/hk8-jSUfQd4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hk8-jSUfQd4",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song66.mp3"
+      },
+      {
+        "id": "CFW-67",
+        "title": "ኢየሱስ | በረከት ውብሸት",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:46",
+        "artistImage": "https://i.ytimg.com/vi/NDWwzFT-Mqc/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=NDWwzFT-Mqc",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song67.mp3"
+      },
+      {
+        "id": "CFW-68",
+        "title": "አቤት እግዚአብሄር እርሱ  | Yohannis Getaye",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:40",
+        "artistImage": "https://i.ytimg.com/vi/EcbL9YtrgLI/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EcbL9YtrgLI",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song68.mp3"
+      },
+      {
+        "id": "CFW-69",
+        "title": "Thanks Giving",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:20",
+        "artistImage": "https://i.ytimg.com/vi/dhf_QfK5yPA/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dhf_QfK5yPA",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song69.mp3"
+      },
+      {
+        "id": "CFW-70",
+        "title": "ክብር የበቃ ነህ | Bereket Wubishet | Created For Worship 2025 | Kibir Yebeka Neh | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "14:00",
+        "artistImage": "https://i.ytimg.com/vi/ZngT4CuryTc/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZngT4CuryTc",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song70.mp3"
+      },
+      {
+        "id": "CFW-71",
+        "title": "የምትሳሳልኝ | Zakiyos Abiti | Created For Worship 2025 | Yemetesasalegn | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "15:46",
+        "artistImage": "https://i.ytimg.com/vi/GgibF0FAaTQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GgibF0FAaTQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song71.mp3"
+      },
+      {
+        "id": "CFW-72",
+        "title": "ባለ ዕዳ ነኝ | Selamu Kedir | Created For Worship 2025 | Bale Ida Negn | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "7:43",
+        "artistImage": "https://i.ytimg.com/vi/EhTEh9Vyz2U/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EhTEh9Vyz2U",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song72.mp3"
+      },
+      {
+        "id": "CFW-73",
+        "title": "አልፈራም | Mintesnot Gemechu | Created For Worship 2025 | Alferam | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "10:57",
+        "artistImage": "https://i.ytimg.com/vi/gKbZBvn0krs/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gKbZBvn0krs",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song73.mp3"
+      },
+      {
+        "id": "CFW-74",
+        "title": "ሞትን አልፌአለሁ | Selamu Kedir | Created For Worship 2025 | Moten Alifiyalaw | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "14:47",
+        "artistImage": "https://i.ytimg.com/vi/xhPFQq5MWY8/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xhPFQq5MWY8",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song74.mp3"
+      },
+      {
+        "id": "CFW-75",
+        "title": "የሆነው ነገር  እሱ የሚሆን  ነው | Ruth Amare | Created For Worship 2025 | Yehonaw Neger Esu | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "11:41",
+        "artistImage": "https://i.ytimg.com/vi/7MPrqXvtwvQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7MPrqXvtwvQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song75.mp3"
+      },
+      {
+        "id": "CFW-76",
+        "title": "የኔን ክፉ የማትወደዉ | Yohannis Getaye | Created For Worship 2025 | Yenen Kifu Yematodew | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "12:48",
+        "artistImage": "https://i.ytimg.com/vi/hEUOGYXr5ow/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hEUOGYXr5ow",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song76.mp3"
+      },
+      {
+        "id": "CFW-77",
+        "title": "ክብር የበቃ ነህ | በረከት ውብሸት",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:14",
+        "artistImage": "https://i.ytimg.com/vi/zwpyPlshI2o/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zwpyPlshI2o",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song77.mp3"
+      },
+      {
+        "id": "CFW-78",
+        "title": "Mintesnot Gemechu | አልፈራም",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:42",
+        "artistImage": "https://i.ytimg.com/vi/wk9uopavWV4/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wk9uopavWV4",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song78.mp3"
+      },
+      {
+        "id": "CFW-79",
+        "title": "Zakiyos Abiti | የምትሳሳልኝ",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:14",
+        "artistImage": "https://i.ytimg.com/vi/wSAnvFg39wo/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wSAnvFg39wo",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song79.mp3"
+      },
+      {
+        "id": "CFW-80",
+        "title": "Ruth Amare | የሆነው ነገር  እሱ የሚሆን  ነው",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:15",
+        "artistImage": "https://i.ytimg.com/vi/QuumdamNKCI/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QuumdamNKCI",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song80.mp3"
+      },
+      {
+        "id": "CFW-81",
+        "title": "ባለ ዕዳ ነኝ | Selamu Kedir",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:57",
+        "artistImage": "https://i.ytimg.com/vi/ExMSxyTA7UI/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ExMSxyTA7UI",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song81.mp3"
+      },
+      {
+        "id": "CFW-82",
+        "title": "የኔን ክፉ የማትወደዉ |Yohannis Getaye",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:47",
+        "artistImage": "https://i.ytimg.com/vi/cBkQJOGILbM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cBkQJOGILbM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song82.mp3"
+      },
+      {
+        "id": "CFW-83",
+        "title": "የሞትን መውጊያ | Selamu Kedir",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:52",
+        "artistImage": "https://i.ytimg.com/vi/PXpKaaWKN50/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PXpKaaWKN50",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song83.mp3"
+      },
+      {
+        "id": "CFW-84",
+        "title": "አይለወጥም | Selamu Kedir | Created For Worship 2025 | Ayelawatem | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "13:53",
+        "artistImage": "https://i.ytimg.com/vi/75GYQOR6v1A/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=75GYQOR6v1A",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song84.mp3"
+      },
+      {
+        "id": "CFW-85",
+        "title": "አዳኜ ኢየሱስ | Yohannis Getaye | Created For Worship 2025 | Adagne Eyesus | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "6:24",
+        "artistImage": "https://i.ytimg.com/vi/oG6_-zdMTsg/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=oG6_-zdMTsg",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song85.mp3"
+      },
+      {
+        "id": "CFW-86",
+        "title": "ከልጅነቴ ጀምሮ | Zakiyos Abiti | Created For Worship 2025 | Kelijenate Jemero | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "14:18",
+        "artistImage": "https://i.ytimg.com/vi/qJHgTrhi3IQ/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qJHgTrhi3IQ",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song86.mp3"
+      },
+      {
+        "id": "CFW-87",
+        "title": "Galata Irratti Galata | Benjamin Abebe | Created For Worship 2025 || Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "6:53",
+        "artistImage": "https://i.ytimg.com/vi/odZhIJQTj2E/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=odZhIJQTj2E",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song87.mp3"
+      },
+      {
+        "id": "CFW-88",
+        "title": "አባበልከኝ | Meskerem Yelma | Created For Worship 2025 | Ababelkegn | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "10:12",
+        "artistImage": "https://i.ytimg.com/vi/nkBN3E54Tjs/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nkBN3E54Tjs",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song88.mp3"
+      },
+      {
+        "id": "CFW-89",
+        "title": "እግዚአብሔር ይባርክህ | Mintesnot Gemechu | Created For Worship 2025 |  Egzihabher Yibarkeh | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "13:04",
+        "artistImage": "https://i.ytimg.com/vi/WokCTuXjzdo/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WokCTuXjzdo",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song89.mp3"
+      },
+      {
+        "id": "CFW-90",
+        "title": "የኃያላን  ሁሉ  ኃያል | Kaleab Teshome | Created For Worship 2025 | Yehayalan Hulu Hayal | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "9:14",
+        "artistImage": "https://i.ytimg.com/vi/o2oe7UelBzE/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=o2oe7UelBzE",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song90.mp3"
+      },
+      {
+        "id": "CFW-91",
+        "title": "ጌታ እኮ ነው | Betelhem Buzayew | Created For Worship 2025 | Geta Eko New | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "10:28",
+        "artistImage": "https://i.ytimg.com/vi/3UVT7lk06hc/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3UVT7lk06hc",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song91.mp3"
+      },
+      {
+        "id": "CFW-92",
+        "title": "አዳኜ ኢየሱስ | Yohannis Getaye | Created For Worship 2025 | Adagne Eyesus | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:04",
+        "artistImage": "https://i.ytimg.com/vi/O_8p4R9JhbU/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=O_8p4R9JhbU",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song92.mp3"
+      },
+      {
+        "id": "CFW-93",
+        "title": "Benjamin Abebe",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:58",
+        "artistImage": "https://i.ytimg.com/vi/oP-N4N4XQTo/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=oP-N4N4XQTo",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song93.mp3"
+      },
+      {
+        "id": "CFW-94",
+        "title": "Betelhem Buzayew",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:59",
+        "artistImage": "https://i.ytimg.com/vi/LZkYtJPvmLY/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LZkYtJPvmLY",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song94.mp3"
+      },
+      {
+        "id": "CFW-95",
+        "title": "Kaleab Teshome",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:06",
+        "artistImage": "https://i.ytimg.com/vi/LGPV1tLlnXw/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LGPV1tLlnXw",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song95.mp3"
+      },
+      {
+        "id": "CFW-96",
+        "title": "Mintesnot Gemechu",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:37",
+        "artistImage": "https://i.ytimg.com/vi/LL5Oa6occrw/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LL5Oa6occrw",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song96.mp3"
+      },
+      {
+        "id": "CFW-97",
+        "title": "Meskerem",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:52",
+        "artistImage": "https://i.ytimg.com/vi/EVWiTkPyKCM/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EVWiTkPyKCM",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song97.mp3"
+      },
+      {
+        "id": "CFW-98",
+        "title": "Selamu Kedir",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "1:07",
+        "artistImage": "https://i.ytimg.com/vi/spEJqMs7X3w/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=spEJqMs7X3w",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song98.mp3"
+      },
+      {
+        "id": "CFW-99",
+        "title": "Zakiyos Abiti",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "0:54",
+        "artistImage": "https://i.ytimg.com/vi/iCAUhKU_cAk/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iCAUhKU_cAk",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song99.mp3"
+      },
+      {
+        "id": "CFW-100",
+        "title": "ህልውናህ | Bereket Megersa | Created For Worship 2025 | Helewenah | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "15:43",
+        "artistImage": "https://i.ytimg.com/vi/hVVbg_yTYIs/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hVVbg_yTYIs",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song100.mp3"
+      },
+      {
+        "id": "CFW-101",
+        "title": "ፈራ ፍርሃቴ | Bereket Megersa | Created For Worship 2025 | Fera Firhate | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "21:35",
+        "artistImage": "https://i.ytimg.com/vi/0jiCQiLC2cU/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0jiCQiLC2cU",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song101.mp3"
+      },
+      {
+        "id": "CFW-102",
+        "title": "ታማኝ | Mintesnot Gemechu | Created For Worship 2025 | Tamagn | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "12:49",
+        "artistImage": "https://i.ytimg.com/vi/GvLNJf4j9dY/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GvLNJf4j9dY",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song102.mp3"
+      },
+      {
+        "id": "CFW-103",
+        "title": "ሀብተ ሰማይ | betelhem buzayew | Created For Worship 2025 | Habte Semay | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "14:29",
+        "artistImage": "https://i.ytimg.com/vi/kHa3aaL2sLg/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kHa3aaL2sLg",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song103.mp3"
+      },
+      {
+        "id": "CFW-104",
+        "title": "ሊቀ ካህኔ | Selamu Kedir | Created For Worship 2025 | Liqe kahene | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "12:01",
+        "artistImage": "https://i.ytimg.com/vi/sfTDyJyjZIE/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sfTDyJyjZIE",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song104.mp3"
+      },
+      {
+        "id": "CFW-105",
+        "title": "ዕውቀት ሳይኖረኝ | Yohannis Getaye | Created For Worship 2025 | Ewket Saynoregn | Live Worship",
+        "artist": "CFW WORSHIP MINISTRY ",
+        "duration": "7:52",
+        "artistImage": "https://i.ytimg.com/vi/fPH1-kg3S3I/maxresdefault.jpg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fPH1-kg3S3I",
+        "audioUrl": "https://raw.githubusercontent.com/ShemaTZ/song-game-audio/main/song105.mp3"
+      }
+    ]
   }
 ]
